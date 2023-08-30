@@ -41,7 +41,7 @@ st.markdown("""
 In this section, you are presented with a summary of articles obtained from all keywords and categorized into PLTS-related and PLTB-related articles. These keywords have been identified by David and me. From the graph below, we can observe that using broader keywords generates a higher number of articles. You can use the legend next to the graph to filter the data and hover over specific points on the graph to access precise information.
 """)
 
-media_data = load_data("/Users/pikpes/Downloads/Tribun/Media_PLTSB - Sheet1.csv")
+media_data = load_data("Media_PLTSB - Sheet1.csv")
 
 # Sidebar for Component 1.a
 st.sidebar.subheader("Media Distribution")
@@ -96,7 +96,7 @@ else:  # Default to Line Graph
 ## 1.b Key actors identified from the whole corpus
 
 # Key Actors Analysis
-key_actors_data = load_data("/Users/pikpes/Downloads/corpus_cleaned.csv")  # Load the new source data
+key_actors_data = load_data("corpus_cleaned.csv")  # Load the new source data
 
 st.subheader("Key Actors Analysis")
 st.markdown("In the following visualizations, you will observe various actors and institutions identified within the entire dataset. This dataset was collected using the aforementioned keywords from three news outlets: Detik.com, Cnbcindonesia.com, and Tribunnews.com. To discern key actors mentioned in these media sources, I employed Named Entity Recognition (NER) using a pre-defined model known as cahya/bert-base-indonesian-NER. While you may encounter some false positives in the word cloud, it is due to my time limitations, which prevented me from comparing different models or fine-tuning the model with the corpus. It is highly recommended that future research teams allocate more time to train and evaluate the model on a specific corpus")
@@ -137,7 +137,7 @@ st.markdown("**Note:** You might observe that I haven't combined similar names i
 # Placeholder for 1.b visualizations
 
 # Load the new data source for PLTB word cloud
-pltb_wordcloud_data = load_data("/Users/pikpes/Downloads/pltb_wordcloud.csv")
+pltb_wordcloud_data = load_data("pltb_wordcloud.csv")
 
 # Sidebar for PLTB Word Cloud
 st.sidebar.subheader("PLTB: Word Cloud - Overall Corpus")
@@ -183,7 +183,7 @@ st.markdown("In this segment, we will delve into how frequently major Indonesian
 def load_data(filepath):
     return pd.read_csv(filepath)
 
-aggregated_counts = load_data("/Users/pikpes/Downloads/aggregated_counts.csv")
+aggregated_counts = load_data("aggregated_counts.csv")
 people_counts = aggregated_counts[aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
 org_counts = aggregated_counts[aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
@@ -205,7 +205,7 @@ detik_start_year = st.sidebar.slider("Start Year - Detik", min_value=2000, max_v
 detik_end_year = st.sidebar.slider("End Year - Detik", min_value=2000, max_value=2023, value=2023)
 
 # Detik Analysis
-detik_plts_copy = load_data("/Users/pikpes/Downloads/detik_plts_cleaned.csv")
+detik_plts_copy = load_data("detik_plts_cleaned.csv")
 detik_plts_copy = detik_plts_copy[(detik_plts_copy['Year'] >= detik_start_year) & (detik_plts_copy['Year'] <= detik_end_year)]
 
 st.subheader("Detik Analysis: Number of PLTS Articles")
@@ -246,7 +246,7 @@ cnbc_start_year = st.sidebar.slider("Start Year - CNBC", min_value=2000, max_val
 cnbc_end_year = st.sidebar.slider("End Year - CNBC", min_value=2000, max_value=2023, value=2023)
 
 # CNBC Analysis
-cnbc_plts_merged = load_data("/Users/pikpes/Downloads/cnbc_plts_merged.csv")
+cnbc_plts_merged = load_data("cnbc_plts_merged.csv")
 cnbc_plts_merged = cnbc_plts_merged[(cnbc_plts_merged['Year'] >= cnbc_start_year) & (cnbc_plts_merged['Year'] <= cnbc_end_year)]
 
 st.subheader("CNBC Analysis: Number of PLTS Articles")
@@ -269,7 +269,7 @@ tribun_start_year = st.sidebar.slider("Start Year - Tribun", min_value=2000, max
 tribun_end_year = st.sidebar.slider("End Year - Tribun", min_value=2000, max_value=2023, value=2023)
 
 # Tribun Analysis
-tribun_plts_merged = load_data("/Users/pikpes/Downloads/tribun_plts_merged.csv")
+tribun_plts_merged = load_data("tribun_plts_merged.csv")
 tribun_plts_merged = tribun_plts_merged[(tribun_plts_merged['Year'] >= tribun_start_year) & (tribun_plts_merged['Year'] <= tribun_end_year)]
 
 st.subheader("Tribun Analysis: Number of PLTS Articles")
@@ -309,7 +309,7 @@ detik_pltb_start_year = st.sidebar.slider("Start Year - Detik", min_value=2000, 
 detik_pltb_end_year = st.sidebar.slider("End Year - Detik", min_value=2000, max_value=2023, value=2023, key="detik_pltb_end_year")
 
 # Detik PLTB Analysis
-detik_pltb_copy = load_data("/Users/pikpes/Downloads/detik_pltb_cleaned.csv")
+detik_pltb_copy = load_data("detik_pltb_cleaned.csv")
 detik_pltb_copy = detik_pltb_copy[(detik_pltb_copy['Year'] >= detik_pltb_start_year) & (detik_pltb_copy['Year'] <= detik_pltb_end_year)]
 
 st.subheader("Detik PLTB Analysis: Number of Articles")
@@ -330,7 +330,7 @@ cnbc_pltb_start_year = st.sidebar.slider("Start Year - CNBC", min_value=2000, ma
 cnbc_pltb_end_year = st.sidebar.slider("End Year - CNBC", min_value=2000, max_value=2023, value=2023, key="cnbc_pltb_end_year")
 
 # CNBC PLTB Analysis
-cnbc_pltb_merged = load_data("/Users/pikpes/Downloads/cnbc_pltb_merged.csv")
+cnbc_pltb_merged = load_data("cnbc_pltb_merged.csv")
 cnbc_pltb_merged = cnbc_pltb_merged[(cnbc_pltb_merged['Year'] >= cnbc_pltb_start_year) & (cnbc_pltb_merged['Year'] <= cnbc_pltb_end_year)]
 
 st.subheader("CNBC PLTB Analysis: Number of Articles")
@@ -353,7 +353,7 @@ tribun_pltb_start_year = st.sidebar.slider("Start Year - Tribun", min_value=2000
 tribun_pltb_end_year = st.sidebar.slider("End Year - Tribun", min_value=2000, max_value=2023, value=2023, key="tribun_pltb_end_year")
 
 # Tribun PLTB Analysis
-tribun_pltb_merged = load_data("/Users/pikpes/Downloads/tribun_pltb_merged.csv")
+tribun_pltb_merged = load_data("tribun_pltb_merged.csv")
 tribun_pltb_merged = tribun_pltb_merged[(tribun_pltb_merged['Year'] >= tribun_pltb_start_year) & (tribun_pltb_merged['Year'] <= tribun_pltb_end_year)]
 
 st.subheader("Tribun PLTB Analysis: Number of Articles")
