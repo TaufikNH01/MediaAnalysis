@@ -187,7 +187,7 @@ aggregated_counts = load_data("aggregated_counts.csv")
 people_counts = aggregated_counts[aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
 org_counts = aggregated_counts[aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
-cnbc_aggregated_counts = load_data("/Users/pikpes/Downloads/aggregated_counts_cnbcplts.csv")
+cnbc_aggregated_counts = load_data("aggregated_counts_cnbcplts.csv")
 cnbc_people_counts = cnbc_aggregated_counts[cnbc_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
 cnbc_org_counts = cnbc_aggregated_counts[cnbc_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
