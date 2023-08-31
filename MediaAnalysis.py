@@ -250,18 +250,20 @@ cnbc_plts_merged = load_data("cnbc_plts_merged.csv")
 cnbc_plts_merged = cnbc_plts_merged[(cnbc_plts_merged['Year'] >= cnbc_start_year) & (cnbc_plts_merged['Year'] <= cnbc_end_year)]
 
 st.subheader("CNBC Analysis: Number of PLTS Articles")
+st.markdown("In the following graph, you can see the number of articles published over the years starting from 2018 to 2023. The media, CNBC Indonesia, itself was launched in 2018. From the onset, they already provided the audience with PLTS-related articles.")
 # Histogram for CNBC Number of PLTS Articles
 cnbc_plts_dis = px.histogram(cnbc_plts_merged, x='Year', nbins=int(cnbc_end_year - cnbc_start_year + 1))
 cnbc_plts_dis.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(cnbc_plts_dis)
+st.markdown("**Note**: the number of articles increased in 2019 but then jumped in 2021 and continue to 2022. This trend is also similar to Detik, where 2021-202 articles increased significantly.")
 
 st.subheader("CNBC Analysis: Articles by Segment")
-
+st.markdown("Similar to detik.com, CNBC Indonesia has several segments, ranging from Market, News, Tech, Research, Entrepreneur, Lifestyle and Opinion (Opini).")
 # Histogram for CNBC by Segment
 cnbc_plts_seg = px.histogram(cnbc_plts_merged, x='Year', color='Segment', nbins=int(cnbc_end_year - cnbc_start_year + 1))
 cnbc_plts_seg.update_layout(bargap=0.1)
 st.plotly_chart(cnbc_plts_seg)
-st.markdown("**Notes:** XYZ (I will fill out this section later.)")
+st.markdown("**Notes:** As you can see, the News Segment reported the most and Market Segment has also contributed to the overall news production.")
 
 # Sidebar Feature for Tribun Analysis
 st.sidebar.subheader("Tribun Analysis - Date Range")
@@ -273,16 +275,12 @@ tribun_plts_merged = load_data("tribun_plts_merged.csv")
 tribun_plts_merged = tribun_plts_merged[(tribun_plts_merged['Year'] >= tribun_start_year) & (tribun_plts_merged['Year'] <= tribun_end_year)]
 
 st.subheader("Tribun Analysis: Number of PLTS Articles")
+st.markdown("In the following graph, you can observe the number of articles published by Tribunnews.com. However, please note that the scrapping process for this media outlet is different to two others. I used keywords-related page to retrieve the articles, limiting the comprehensiveness of the data collection due to technical issues. This means that, the actual number of news produced might be larger that the articles collected by me.")
 # Histogram for Tribun
 tribun_plts = px.histogram(tribun_plts_merged, x='Year', nbins=int(tribun_end_year - tribun_start_year + 1))
 tribun_plts.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(tribun_plts)
-st.markdown("**Notes:** XYZ (I will fill out this section later.)")
-
-# 2.d - Placeholder for other Media Analysis
-st.markdown("#### Placeholder for Future Media Outlet PLTS Analysis")
-st.markdown("Please integrate the structure provided above for other media outlets once their respective data and analysis are available.")
-
+st.markdown("**Notes:** Although 2017 is the year with the most articles published using the keywords, the year 2021 and 2022 are also significant. The trend is also shared by Detik and CNBC Indonesia.)")
 
 
 # === COMPONENT 3 ===
@@ -297,7 +295,7 @@ st.sidebar.title("PLTB Analysis Sidebar")
 
 # Context for the PLTB Coverage
 st.subheader("PLTB Coverage")
-st.markdown("In this section, we will delve deeper into the frequency with which major Indonesian newspapers cover the topic, what segments they fall under, and the main discussions they entail.")
+st.markdown("In this section, you will encounter a similar structure as above with the focus on PLTB reporting. The content includes the number of articles produced, the segment with most publication on the topic, the key actors that are frequently mentioned by the media, and the key ideas surrounding these articles.")
 
 @st.cache
 def load_data(filepath):
@@ -313,12 +311,15 @@ detik_pltb_copy = load_data("detik_pltb_cleaned.csv")
 detik_pltb_copy = detik_pltb_copy[(detik_pltb_copy['Year'] >= detik_pltb_start_year) & (detik_pltb_copy['Year'] <= detik_pltb_end_year)]
 
 st.subheader("Detik PLTB Analysis: Number of Articles")
+st.markdown("n the following visualization, you will see the number of articles produced by Detik.com under PLTB-related keywords. ")
 # Histogram for Detik Number of Articles
 detik_pltb_dis = px.histogram(detik_pltb_copy, x='Year', nbins=int(detik_pltb_end_year - detik_pltb_start_year + 1))
 detik_pltb_dis.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(detik_pltb_dis)
+st.markdown("**Note**: From the graph we learned that the year 2017 and 2018 are the period with the most publication. This might be predicted as PLTB sidrap is launched in this timeframe.")
 
 st.subheader("Detik PLTB Analysis: Articles by Segment")
+st.markdown("Here, you can observe different segments that report on the PLTB on detik.com. From the graph, it’s clear that majority of the news articles are produced by detikFinance and small proportion is contributed by detikNews")
 # Histogram for Detik by Segment
 detik_pltb_seg = px.histogram(detik_pltb_copy, x='Year', color='Segment', nbins=int(detik_pltb_end_year - detik_pltb_start_year + 1))
 detik_pltb_seg.update_layout(bargap=0.1)
@@ -334,11 +335,13 @@ cnbc_pltb_merged = load_data("cnbc_pltb_merged.csv")
 cnbc_pltb_merged = cnbc_pltb_merged[(cnbc_pltb_merged['Year'] >= cnbc_pltb_start_year) & (cnbc_pltb_merged['Year'] <= cnbc_pltb_end_year)]
 
 st.subheader("CNBC PLTB Analysis: Number of Articles")
+st.markdown("From the onset, CNBC had consistently repored on the wind energy from 2018. Compare to Solar PV, the articles covering wind energy from this media was much more during this year.")
 
 # Histogram for CNBC Number of Articles
 cnbc_pltb_dis = px.histogram(cnbc_pltb_merged, x='Year', nbins=int(cnbc_pltb_end_year - cnbc_pltb_start_year + 1))
 cnbc_pltb_dis.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(cnbc_pltb_dis)
+st.markdown("**Note**: From 2018 to 2023, it seems that CNBC produced the most articles in 2022 with more than 450 articles.")
 
 st.subheader("CNBC PLTB Analysis: Articles by Segment")
 
