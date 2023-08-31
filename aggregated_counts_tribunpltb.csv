@@ -1,0 +1,942 @@
+NER_Label,Entity,Counts
+B-ORG,*,1
+B-ORG,0,1
+B-ORG,00,1
+B-ORG,09,1
+B-ORG,14,1
+B-ORG,150,1
+B-ORG,200,1
+B-ORG,2012,1
+B-ORG,2017,1
+B-ORG,2020,1
+B-ORG,23,1
+B-ORG,24,1
+B-ORG,26,1
+B-ORG,50,1
+B-ORG,adaro,1
+B-ORG,adaro power & pjbi,1
+B-ORG,aden,1
+B-ORG,adi,2
+B-ORG,adventure 2019 with,1
+B-ORG,aerox,2
+B-ORG,agustus,1
+B-ORG,ahok,2
+B-ORG,ai,1
+B-ORG,ajax,2
+B-ORG,aji,2
+B-ORG,alar,1
+B-ORG,alfamart,1
+B-ORG,alham,1
+B-ORG,ali,1
+B-ORG,am,2
+B-ORG,aman,3
+B-ORG,ambi,2
+B-ORG,amd,1
+B-ORG,amin,1
+B-ORG,amir,2
+B-ORG,ampuh,2
+B-ORG,ang,1
+B-ORG,anjingx,1
+B-ORG,antaeng,1
+B-ORG,aoe,1
+B-ORG,apac,1
+B-ORG,aparat,1
+B-ORG,apdesi,1
+B-ORG,apdesi sidrap,1
+B-ORG,apkasi,1
+B-ORG,arch,1
+B-ORG,arisan,1
+B-ORG,as,2
+B-ORG,as kambiel,1
+B-ORG,asean,1
+B-ORG,asia,2
+B-ORG,asosiasi,1
+B-ORG,aula,1
+B-ORG,azikin,2
+B-ORG,azikindidampingi,1
+B-ORG,baby,1
+B-ORG,badan,1
+B-ORG,bagus,2
+B-ORG,bahan,1
+B-ORG,balai,1
+B-ORG,baling,8
+B-ORG,baling - baling,1
+B-ORG,balingpl,1
+B-ORG,bantaeng,5
+B-ORG,bantaengkincir anginilham,1
+B-ORG,bantaengpltbpt,1
+B-ORG,bap,1
+B-ORG,barcelona,1
+B-ORG,basic,4
+B-ORG,basic ) perseroda,1
+B-ORG,basket,1
+B-ORG,bassitoayya,2
+B-ORG,bat,1
+B-ORG,batang,2
+B-ORG,bawaslu 24 kabupaten,1
+B-ORG,bawono,1
+B-ORG,bayern,2
+B-ORG,bayu,12
+B-ORG,bayu energi,5
+B-ORG,bayu jeneponto,1
+B-ORG,bayumus,1
+B-ORG,bb,1
+B-ORG,beb,1
+B-ORG,bebi,1
+B-ORG,beda,1
+B-ORG,bedak,2
+B-ORG,belleza,1
+B-ORG,berada,1
+B-ORG,bertahap,1
+B-ORG,bertikai,1
+B-ORG,bi,3
+B-ORG,bikers,2
+B-ORG,bina,5
+B-ORG,binamu,1
+B-ORG,bintang,1
+B-ORG,biro,1
+B-ORG,blade,1
+B-ORG,bob,1
+B-ORG,bodong,1
+B-ORG,bonai,1
+B-ORG,bp,3
+B-ORG,bpom,6
+B-ORG,bpombo,1
+B-ORG,bpombody,1
+B-ORG,bpomtips,1
+B-ORG,brand,1
+B-ORG,bsama,1
+B-ORG,bsid,1
+B-ORG,bsidrap,1
+B-ORG,bsudah,1
+B-ORG,bukit,1
+B-ORG,bulan,1
+B-ORG,bulu,2
+B-ORG,bupati,4
+B-ORG,bupati soppeng,1
+B-ORG,bupatibantaengilham,1
+B-ORG,bupatisidrap,1
+B-ORG,butta,1
+B-ORG,butta toa,1
+B-ORG,california,1
+B-ORG,care5,2
+B-ORG,cat,1
+B-ORG,champions,2
+B-ORG,chinaotoritas perhubungan,1
+B-ORG,citizen reportkisah,1
+B-ORG,citizenreporter,1
+B-ORG,clas,1
+B-ORG,commanageme,1
+B-ORG,community,2
+B-ORG,compltb,1
+B-ORG,compress officer pt upc sidrap bayu energi,2
+B-ORG,comsuper intendent baching plant,1
+B-ORG,conta,1
+B-ORG,corona,1
+B-ORG,cristian,1
+B-ORG,cs,1
+B-ORG,da,1
+B-ORG,dahi,3
+B-ORG,dand,1
+B-ORG,dapur5,1
+B-ORG,darmawan,4
+B-ORG,dd,1
+B-ORG,deal,1
+B-ORG,deputi,1
+B-ORG,deputi general manager of envision energy south east asia regional company,1
+B-ORG,desa mattirotasi,1
+B-ORG,detik,2
+B-ORG,dewi,3
+B-ORG,dharma,1
+B-ORG,dinas perhubungan,2
+B-ORG,direktur adaro,1
+B-ORG,direktur utama,2
+B-ORG,direktur utama adaro power dharma djojonegoro,1
+B-ORG,direktur utama pln,1
+B-ORG,direktur utamaplndarmawan,1
+B-ORG,dj,2
+B-ORG,djojonegoro,1
+B-ORG,doyok,2
+B-ORG,dp,1
+B-ORG,dpr,1
+B-ORG,dpr ri,1
+B-ORG,dr,1
+B-ORG,drap,1
+B-ORG,du,1
+B-ORG,ducer,1
+B-ORG,east,1
+B-ORG,eastwood,1
+B-ORG,ebt,3
+B-ORG,ebtpt pln ( persero,1
+B-ORG,eko,1
+B-ORG,eksplorepltb,1
+B-ORG,el,1
+B-ORG,emak,1
+B-ORG,emak -,1
+B-ORG,empoang utara,1
+B-ORG,endiri,1
+B-ORG,enep,1
+B-ORG,energi,2
+B-ORG,energihamka,1
+B-ORG,energisidrappsm makassarliga,1
+B-ORG,ennu,1
+B-ORG,envision,2
+B-ORG,envision energy,1
+B-ORG,equ,3
+B-ORG,equis asia,1
+B-ORG,equis energi,1
+B-ORG,equis energy,1
+B-ORG,equis energy cq,1
+B-ORG,eren,2
+B-ORG,erk,1
+B-ORG,ertama,1
+B-ORG,esa,1
+B-ORG,esdm,1
+B-ORG,esseng,1
+B-ORG,est,1
+B-ORG,estianty,1
+B-ORG,evaluasi,1
+B-ORG,expo,1
+B-ORG,external,1
+B-ORG,face,1
+B-ORG,facebooksek,1
+B-ORG,faisal,2
+B-ORG,fakultas,1
+B-ORG,finalis,1
+B-ORG,firman,1
+B-ORG,for,1
+B-ORG,foto,1
+B-ORG,fotoamiruddin,1
+B-ORG,fotodok pln,1
+B-ORG,fotosanovra,1
+B-ORG,founder kampoeng inggris pabbaresseng,1
+B-ORG,fp,1
+B-ORG,fps,2
+B-ORG,free,1
+B-ORG,g,2
+B-ORG,gema,1
+B-ORG,gemas,3
+B-ORG,gen,2
+B-ORG,general,1
+B-ORG,geprekxlaporan,1
+B-ORG,global,1
+B-ORG,gowa,1
+B-ORG,green,1
+B-ORG,grup,6
+B-ORG,gubernur,4
+B-ORG,gubernur sulawesi selatan,1
+B-ORG,guru,2
+B-ORG,gw,1
+B-ORG,h,1
+B-ORG,hal,3
+B-ORG,handphonechipset,1
+B-ORG,hanura,1
+B-ORG,haris,1
+B-ORG,heavy,1
+B-ORG,hertz,2
+B-ORG,hotel,1
+B-ORG,hotman,2
+B-ORG,hp,1
+B-ORG,huda,2
+B-ORG,hujan,1
+B-ORG,humas,1
+B-ORG,ibu,1
+B-ORG,idrap,1
+B-ORG,ilham,1
+B-ORG,ilyas iskandar,1
+B-ORG,independen,1
+B-ORG,indones,1
+B-ORG,indonesia,1
+B-ORG,inf,1
+B-ORG,intent,1
+B-ORG,inter,1
+B-ORG,interkoneksi,1
+B-ORG,investor,1
+B-ORG,ip,1
+B-ORG,istana,1
+B-ORG,istri,1
+B-ORG,isu,1
+B-ORG,it,2
+B-ORG,jacobson,1
+B-ORG,jade thamrin,2
+B-ORG,jameela,2
+B-ORG,januari,2
+B-ORG,januari 2019,1
+B-ORG,jarot,1
+B-ORG,jasmin,1
+B-ORG,jawa,2
+B-ORG,jawa tengah,1
+B-ORG,jen,3
+B-ORG,jeneponto,1
+B-ORG,jenguk,1
+B-ORG,jeonbuk hyundai,1
+B-ORG,jepang,1
+B-ORG,jl,1
+B-ORG,jl harapan,1
+B-ORG,jl nusantara,2
+B-ORG,jl parepare,1
+B-ORG,jokowi,1
+B-ORG,jrtribun,1
+B-ORG,juga,1
+B-ORG,juli 2019,3
+B-ORG,jumadi mappangan,1
+B-ORG,jumbo,1
+B-ORG,jungi,1
+B-ORG,juta,1
+B-ORG,kaba,2
+B-ORG,kabag protpim,1
+B-ORG,kabiro,1
+B-ORG,kabupaten,14
+B-ORG,kabupaten gowa,1
+B-ORG,kabupaten taka,1
+B-ORG,kabupatenbantaeng,1
+B-ORG,kabupatenjenepontodi,1
+B-ORG,kabupatenjenepontotribun - timur,1
+B-ORG,kabupatensi,1
+B-ORG,kabupatensidrap,3
+B-ORG,kajari,1
+B-ORG,kalimantan timur,1
+B-ORG,kamiskin,2
+B-ORG,kamiskincar,2
+B-ORG,kamiskincare3,1
+B-ORG,kampung,4
+B-ORG,kampung angin,3
+B-ORG,kampung lengk,1
+B-ORG,kampung lengke,1
+B-ORG,kampungnya,1
+B-ORG,kantor,4
+B-ORG,kantor psda sidrap,1
+B-ORG,kapolsek bontobahari,1
+B-ORG,kapten,2
+B-ORG,kass,1
+B-ORG,kawasan,3
+B-ORG,kawasan perairan lautpa,1
+B-ORG,kebuluk,1
+B-ORG,kej,1
+B-ORG,kejenep,1
+B-ORG,kelurahan,3
+B-ORG,kelurahanempoang utara,1
+B-ORG,kepala,9
+B-ORG,kepala desa,1
+B-ORG,keriput,1
+B-ORG,kerja,1
+B-ORG,khad,1
+B-ORG,kiba,2
+B-ORG,kira,1
+B-ORG,kk,1
+B-ORG,komisioning,1
+B-ORG,kompetisi,2
+B-ORG,konferensi,1
+B-ORG,konsultan,2
+B-ORG,kota makassar,1
+B-ORG,kreator makassar,1
+B-ORG,krusial,1
+B-ORG,ktt,1
+B-ORG,kuartal,1
+B-ORG,laskar phinisiselasa,1
+B-ORG,lebaran,1
+B-ORG,legisl,1
+B-ORG,legislator,1
+B-ORG,legiun,1
+B-ORG,lelet,1
+B-ORG,lembaga,1
+B-ORG,lengkese,1
+B-ORG,letkol,2
+B-ORG,letter,1
+B-ORG,lexi,2
+B-ORG,lho,1
+B-ORG,lid,1
+B-ORG,liga,6
+B-ORG,liga 1 indonesia 2018,1
+B-ORG,liga 2,1
+B-ORG,limpoatau,1
+B-ORG,limpos,1
+B-ORG,lini,1
+B-ORG,liu,1
+B-ORG,liverpool,2
+B-ORG,lojoe,2
+B-ORG,london,2
+B-ORG,lucu,2
+B-ORG,m,3
+B-ORG,m makassar,1
+B-ORG,maccini baji,1
+B-ORG,madrid,3
+B-ORG,majelis,1
+B-ORG,mak,1
+B-ORG,makkatang,1
+B-ORG,manag,1
+B-ORG,manager,1
+B-ORG,managing director - indonesia & cfo apac total,1
+B-ORG,manajemen,3
+B-ORG,manajer,1
+B-ORG,mansur,1
+B-ORG,marc,1
+B-ORG,maret,1
+B-ORG,maret 2018,1
+B-ORG,maritengngae,1
+B-ORG,masyarakat,3
+B-ORG,matang,1
+B-ORG,matt,3
+B-ORG,mattalatta,2
+B-ORG,mattiro,1
+B-ORG,mattirotasi,4
+B-ORG,mattoanging utara,1
+B-ORG,mau,1
+B-ORG,maxi,6
+B-ORG,maxi yamaha adventure with tribun timurfoto,1
+B-ORG,mega,3
+B-ORG,megap,1
+B-ORG,mentan,1
+B-ORG,menteri,1
+B-ORG,mercure,1
+B-ORG,metal,1
+B-ORG,metmast,1
+B-ORG,mi,1
+B-ORG,mia,1
+B-ORG,mist,2
+B-ORG,mitra,1
+B-ORG,mou,1
+B-ORG,mp,1
+B-ORG,mpv,2
+B-ORG,mu,1
+B-ORG,muhamad,1
+B-ORG,muhammadiyah,1
+B-ORG,muslimin emba,1
+B-ORG,musta,1
+B-ORG,mustiko,2
+B-ORG,mw,5
+B-ORG,mwh,3
+B-ORG,naluri,1
+B-ORG,nangis,1
+B-ORG,nangisbaca,1
+B-ORG,nano,1
+B-ORG,nas,1
+B-ORG,national,6
+B-ORG,net,1
+B-ORG,nga,1
+B-ORG,niko,2
+B-ORG,niko bhakti,1
+B-ORG,nirwan,2
+B-ORG,nmax,2
+B-ORG,nonton,1
+B-ORG,nonton bola,1
+B-ORG,ns,1
+B-ORG,nsidrap . com,2
+B-ORG,ny,1
+B-ORG,of,1
+B-ORG,officer,2
+B-ORG,op,1
+B-ORG,opd,1
+B-ORG,opick,1
+B-ORG,otoritas,1
+B-ORG,otoritas perhubungan,1
+B-ORG,out,1
+B-ORG,owi,5
+B-ORG,owner,1
+B-ORG,pab,7
+B-ORG,pabaresseng sidrap,1
+B-ORG,pabbar,2
+B-ORG,pabbaressen,1
+B-ORG,pabbaresseng,3
+B-ORG,pabbaressengdesa,1
+B-ORG,pabrik kedelai,1
+B-ORG,pacce,1
+B-ORG,pameran,1
+B-ORG,pammessorang,1
+B-ORG,pantaibantaeng,1
+B-ORG,paris,3
+B-ORG,partai,1
+B-ORG,paskah,1
+B-ORG,pasukan,2
+B-ORG,pavel,1
+B-ORG,pb,1
+B-ORG,pd,1
+B-ORG,pekan,3
+B-ORG,pel,1
+B-ORG,pelabuhan,3
+B-ORG,pelaksana,2
+B-ORG,pelatih psm,1
+B-ORG,pele,1
+B-ORG,pem,1
+B-ORG,pembangkit,1
+B-ORG,pembangkit listrik tenaga,1
+B-ORG,pembangkit listrik tenaga bayu,1
+B-ORG,pemda,1
+B-ORG,pemerintah,5
+B-ORG,pemerintahan,1
+B-ORG,pemkab,2
+B-ORG,pemkab pangkep,1
+B-ORG,pemkabbantaengmel,1
+B-ORG,penandatanganan,2
+B-ORG,peng,1
+B-ORG,pengawas pengiriman,1
+B-ORG,pengelola,1
+B-ORG,pengelola pltb jeneponto,1
+B-ORG,pengelolapltb,1
+B-ORG,pengusaha,1
+B-ORG,perbukitan,3
+B-ORG,persaudaraan,1
+B-ORG,persekabpas pasuruan,2
+B-ORG,persero,5
+B-ORG,perseroda,2
+B-ORG,persiba,1
+B-ORG,persiba balikpapan,2
+B-ORG,persijam jambi,2
+B-ORG,persikabo,1
+B-ORG,pertamina,4
+B-ORG,perusahaan,2
+B-ORG,perusahaan tiongkok bangun 100 turbinmeski,1
+B-ORG,petahanaxlaporan wartawan,1
+B-ORG,petang,1
+B-ORG,petinggipltb,1
+B-ORG,phinisi,1
+B-ORG,phr,1
+B-ORG,pimpinan baznas sidrap periode,1
+B-ORG,pimpinan baznas sidrap periode 2023 -,1
+B-ORG,pinrang,1
+B-ORG,pj,3
+B-ORG,pjbtl,1
+B-ORG,pln,18
+B-ORG,plnterus,1
+B-ORG,plt,1
+B-ORG,pltb,5
+B-ORG,pltbs,2
+B-ORG,plui,1
+B-ORG,pluim,1
+B-ORG,pmsc,1
+B-ORG,pokja bunda paud takalar,1
+B-ORG,polisi,4
+B-ORG,polytron,1
+B-ORG,powerproducer,1
+B-ORG,prasodjo,1
+B-ORG,pratama,1
+B-ORG,presiden,1
+B-ORG,presiden ri,4
+B-ORG,presiden ri jokowi,3
+B-ORG,press,1
+B-ORG,press officer pt upc sidrap bayu,1
+B-ORG,press officer pt upc sidrap bayu energi,1
+B-ORG,priya,1
+B-ORG,priyamb,2
+B-ORG,proc,1
+B-ORG,prot,1
+B-ORG,protpi,1
+B-ORG,prov,1
+B-ORG,proyekpt,1
+B-ORG,prw,1
+B-ORG,pryambada,1
+B-ORG,ps,3
+B-ORG,psda,1
+B-ORG,psg,2
+B-ORG,psm,8
+B-ORG,psm makassar,3
+B-ORG,psm makassarbakal,1
+B-ORG,psm makassardukung psm,1
+B-ORG,pt energi,1
+B-ORG,pt energi bayu jeneponto,1
+B-ORG,pt pln,1
+B-ORG,pt upc sidrap bayu energi,1
+B-ORG,pt wpd energy,1
+B-ORG,ptpln,1
+B-ORG,pulau kapoposang,1
+B-ORG,pulu,4
+B-ORG,pulu -,2
+B-ORG,pululalu,1
+B-ORG,pusat,3
+B-ORG,raja,1
+B-ORG,ramang,2
+B-ORG,rangga,1
+B-ORG,rata,4
+B-ORG,real,1
+B-ORG,regional,1
+B-ORG,regional company,1
+B-ORG,regional sulawesi,1
+B-ORG,relation officer,1
+B-ORG,rene,3
+B-ORG,renewables,1
+B-ORG,ri,1
+B-ORG,riezky,2
+B-ORG,rimukh,1
+B-ORG,rms,1
+B-ORG,romain pierru,1
+B-ORG,romuti,1
+B-ORG,rp,7
+B-ORG,rp10,1
+B-ORG,rp2,1
+B-ORG,rp3,1
+B-ORG,rujab,1
+B-ORG,rul,2
+B-ORG,rumah,1
+B-ORG,rus,1
+B-ORG,sabar,1
+B-ORG,saef,1
+B-ORG,salah,1
+B-ORG,sana,1
+B-ORG,sanov,1
+B-ORG,sanovra,3
+B-ORG,sanovra jr [unk] editor,1
+B-ORG,sanovra jrbaca,1
+B-ORG,sanovra jrkonten kreator makassar,1
+B-ORG,sanovra jrpltb jeneponto,2
+B-ORG,satria,1
+B-ORG,satuan,1
+B-ORG,sctv,1
+B-ORG,sd,1
+B-ORG,sekolah,2
+B-ORG,self,1
+B-ORG,seminggu,1
+B-ORG,senior,1
+B-ORG,senior developer,1
+B-ORG,senior project developer pt upc renewables indonesia,2
+B-ORG,serambinews . com,1
+B-ORG,setengah,1
+B-ORG,shimmer,1
+B-ORG,showfarm bantaeng,2
+B-ORG,si,1
+B-ORG,sidrap,44
+B-ORG,sidrap ii,2
+B-ORG,sidrap united,4
+B-ORG,sidrapbakal,1
+B-ORG,sidrapekspansi,1
+B-ORG,sidrapkelak,1
+B-ORG,sidrapmer,1
+B-ORG,sidrapmul,1
+B-ORG,sidraptel,1
+B-ORG,sidraptelah,1
+B-ORG,sidrapxlaporan,2
+B-ORG,sima,1
+B-ORG,simak videonya,1
+B-ORG,simanullang,1
+B-ORG,sinergi,1
+B-ORG,situmorang,1
+B-ORG,sk,1
+B-ORG,skpdsidrap,1
+B-ORG,skuadsidrap unitedterdiri,1
+B-ORG,sman 2 sidrap,1
+B-ORG,sman 2sidrapbersekolah,1
+B-ORG,smelter,1
+B-ORG,soekarno,2
+B-ORG,soekarno hatta,1
+B-ORG,sore,1
+B-ORG,south,1
+B-ORG,ss,1
+B-ORG,stadion,3
+B-ORG,stainless,1
+B-ORG,stell,1
+B-ORG,striker,1
+B-ORG,stu,1
+B-ORG,sudarno,1
+B-ORG,sukri,3
+B-ORG,sulawesi,1
+B-ORG,sulawesi selatan,7
+B-ORG,sulsel,19
+B-ORG,sulseldirektur,1
+B-ORG,sulselrabar,1
+B-ORG,sumber,3
+B-ORG,sumber daya mineral,1
+B-ORG,sumber energi,1
+B-ORG,super,9
+B-ORG,suplemen,2
+B-ORG,suporter,1
+B-ORG,survei,1
+B-ORG,surya,2
+B-ORG,suryana anaslihat fototribun timur,1
+B-ORG,syah,2
+B-ORG,syahrul,2
+B-ORG,syahtribunsidrap,1
+B-ORG,syams,1
+B-ORG,syamsul,2
+B-ORG,syl,3
+B-ORG,taberita,1
+B-ORG,tags,1
+B-ORG,tahu,1
+B-ORG,taka,2
+B-ORG,taman,1
+B-ORG,taman mini,1
+B-ORG,tandem,1
+B-ORG,target,1
+B-ORG,teken,1
+B-ORG,teknisi,1
+B-ORG,tenaga listrik,1
+B-ORG,tertipu,1
+B-ORG,the,1
+B-ORG,tidak,1
+B-ORG,tiket,1
+B-ORG,tim gabungan kesulitan gegara ini,1
+B-ORG,tim maxi yamaha adventure 2019,2
+B-ORG,tim tour maxi yamaha adventure 2019 with tribun timur,1
+B-ORG,timnas,1
+B-ORG,timtour,2
+B-ORG,tips,2
+B-ORG,titik,1
+B-ORG,titus,1
+B-ORG,tmixflip,1
+B-ORG,tom,3
+B-ORG,tony pahlevimelalui,1
+B-ORG,total,3
+B-ORG,total eren,1
+B-ORG,tour,1
+B-ORG,tribun - sidrap . com,1
+B-ORG,tribun - timur,1
+B-ORG,tribun - timur . com,4
+B-ORG,tribun bantaengpt basic,1
+B-ORG,tribun edukasiada,3
+B-ORG,tribun edukasikenali,1
+B-ORG,tribun jeneponto,1
+B-ORG,tribun jenepontoiksa,1
+B-ORG,tribun nongki,1
+B-ORG,tribun sidrapbobol,1
+B-ORG,tribun timur,11
+B-ORG,tribun timurmengeksplore,1
+B-ORG,tribun timurtags,1
+B-ORG,tribunbantaeng,1
+B-ORG,tribunbantaeng . com,1
+B-ORG,tribunjeneponto,1
+B-ORG,tribunjeneponto . com,1
+B-ORG,tribunjeneponto . com -,1
+B-ORG,tribunsi,1
+B-ORG,tribunsidr,1
+B-ORG,tribunsidrap . com,8
+B-ORG,tribunsidrap . comjaja,1
+B-ORG,tribuntakalar . com,1
+B-ORG,tribuntimur,1
+B-ORG,tribuntimur . com,2
+B-ORG,triliun,1
+B-ORG,tur,1
+B-ORG,twitter,1
+B-ORG,uba,1
+B-ORG,uban,1
+B-ORG,uiklpt pln,1
+B-ORG,uju,1
+B-ORG,ujung,2
+B-ORG,ujung kiri,1
+B-ORG,ujung parepare,1
+B-ORG,unit,2
+B-ORG,unitedada,1
+B-ORG,university,1
+B-ORG,uns,1
+B-ORG,up,3
+B-ORG,up2,1
+B-ORG,upc,17
+B-ORG,upc renewables,3
+B-ORG,upc sidrap bayu energi,1
+B-ORG,upcs,2
+B-ORG,upcsidrapbayu,2
+B-ORG,usd,1
+B-ORG,w,1
+B-ORG,wa,2
+B-ORG,wak,1
+B-ORG,wakil,3
+B-ORG,wali kota parepare,1
+B-ORG,warga,1
+B-ORG,watan,5
+B-ORG,watang,10
+B-ORG,watang pul,1
+B-ORG,watang pulu,2
+B-ORG,watt,3
+B-ORG,wei,1
+B-ORG,what,1
+B-ORG,white,3
+B-ORG,widodo,1
+B-ORG,wind,5
+B-ORG,wind farm,1
+B-ORG,wita,3
+B-ORG,with,1
+B-ORG,worth,1
+B-ORG,wpd,1
+B-ORG,wpd energy,1
+B-ORG,xlaporan,1
+B-ORG,xper,1
+B-ORG,yamaha,5
+B-ORG,yamaha adventure 2019,2
+B-ORG,yamaha adventure 2019 with,1
+B-ORG,yamaha xmax,2
+B-ORG,yasin,2
+B-ORG,yer,7
+B-ORG,yermia,2
+B-ORG,yermia ri,2
+B-ORG,yermia riezky,5
+B-ORG,yohannes,1
+B-ORG,yuli,1
+B-ORG,ziz,1
+B-ORG,zona sulawesi selatan,1
+B-PER,abdul azis,1
+B-PER,achmad nasution,1
+B-PER,ahmad,2
+B-PER,ahok,1
+B-PER,aji,1
+B-PER,ak,1
+B-PER,albert,1
+B-PER,am,1
+B-PER,aman,1
+B-PER,amb,1
+B-PER,amir,1
+B-PER,amiruddin,18
+B-PER,amiruddintribu,1
+B-PER,amiruddintribunsidrap . com,3
+B-PER,andi,2
+B-PER,anita kusuma wardana,1
+B-PER,anita kusuma wardanagubernur sulawesi selatan,1
+B-PER,anthony,1
+B-PER,apdesi,2
+B-PER,ara,2
+B-PER,ardy muchlis,1
+B-PER,ares,1
+B-PER,arnaldi nasrum,1
+B-PER,as,1
+B-PER,asi,2
+B-PER,aurel,1
+B-PER,bar,1
+B-PER,bayu,13
+B-PER,bayu energi,1
+B-PER,bebi,1
+B-PER,benny,2
+B-PER,cara,1
+B-PER,care5,1
+B-PER,cream,1
+B-PER,darmawan prasodjo,1
+B-PER,darul,1
+B-PER,dd,1
+B-PER,dhani,2
+B-PER,din,1
+B-PER,dja,1
+B-PER,djarot,2
+B-PER,dr . nirwan nasrullah,1
+B-PER,drawing,2
+B-PER,emb,1
+B-PER,enep,1
+B-PER,eren romain pierru,1
+B-PER,esseng,1
+B-PER,ez,1
+B-PER,ezky,2
+B-PER,ferdinand sinaga,2
+B-PER,foto,4
+B-PER,fotoabdiwan,1
+B-PER,fotoamiruddin,2
+B-PER,h,1
+B-PER,h syahrul yasin limpo,1
+B-PER,hal,1
+B-PER,hamka,1
+B-PER,hamka hamzah,1
+B-PER,hamzah,4
+B-PER,hamzahdikamar,1
+B-PER,hari nurhaliza,1
+B-PER,hasriyani,1
+B-PER,hasriyani latif,2
+B-PER,hasriyani latifbac,1
+B-PER,hasriyani latifli,1
+B-PER,hatta,1
+B-PER,her,1
+B-PER,hery syahrul,1
+B-PER,hilda,3
+B-PER,hj kanang,1
+B-PER,hotman,1
+B-PER,huda,1
+B-PER,idrus,1
+B-PER,ignasius,1
+B-PER,iksan iskandar,2
+B-PER,ilham azikin,2
+B-PER,ilyas iskandar,1
+B-PER,ir,1
+B-PER,irotasi,1
+B-PER,iskandar,7
+B-PER,jan,2
+B-PER,joko,1
+B-PER,joko widodo,11
+B-PER,jokowi,11
+B-PER,jokowisyahrul,1
+B-PER,jonan,1
+B-PER,kamb,1
+B-PER,kara,1
+B-PER,kejeneponto,1
+B-PER,klok,1
+B-PER,ky,1
+B-PER,lan,1
+B-PER,latifbac,1
+B-PER,liu wei . bantaeng,1
+B-PER,m haris syah,2
+B-PER,m haris syahtribu,1
+B-PER,mahyud,1
+B-PER,mahyuddin,5
+B-PER,maia,2
+B-PER,mak,1
+B-PER,makkarenn,1
+B-PER,mam,1
+B-PER,mansur am,1
+B-PER,maritengngae,1
+B-PER,matt,1
+B-PER,mia,1
+B-PER,mia ri,1
+B-PER,mia riezky,1
+B-PER,mini,2
+B-PER,mu,1
+B-PER,muh . agung putra,1
+B-PER,muh rakib,2
+B-PER,muhammad ihsan harahap,2
+B-PER,musta,1
+B-PER,mustaufiq,1
+B-PER,n,1
+B-PER,na anas,1
+B-PER,niko priyambada,1
+B-PER,nurhaliza,1
+B-PER,o asse,1
+B-PER,owi,1
+B-PER,pab,3
+B-PER,pabbar,1
+B-PER,pabber,1
+B-PER,paulle,1
+B-PER,prof husain syam massif,1
+B-PER,ps,1
+B-PER,psywar antarpemain,1
+B-PER,pulu,1
+B-PER,rahmat ahmad,1
+B-PER,rahmat ahmadrahmat ahmad,1
+B-PER,ramadhan sananta,1
+B-PER,rangga,3
+B-PER,rene,1
+B-PER,rizki,1
+B-PER,rul,2
+B-PER,rul yasin limpo,1
+B-PER,sad,1
+B-PER,saldy irawan,2
+B-PER,samsul bahri,1
+B-PER,samsul bahrip,1
+B-PER,silvana,2
+B-PER,soekarno hatta,1
+B-PER,steven,1
+B-PER,sudirman,3
+B-PER,sukri sappewali,1
+B-PER,sulaeman,1
+B-PER,sulaemana,1
+B-PER,sulaemanab,1
+B-PER,sumarsono,1
+B-PER,surya,1
+B-PER,suryana anas,1
+B-PER,suryana anasli,1
+B-PER,syah,1
+B-PER,syahrul,2
+B-PER,syahrul yasin limpo,2
+B-PER,syamsari,1
+B-PER,syamsari kitta,1
+B-PER,syamsul,2
+B-PER,syamsul bahril,1
+B-PER,syl,1
+B-PER,syukur,1
+B-PER,tarsa,1
+B-PER,uban,1
+B-PER,uddin,1
+B-PER,uk,2
+B-PER,vitria,3
+B-PER,watang pulu,1
+B-PER,waxing,1
+B-PER,wi,1
+B-PER,willem,2
+B-PER,yasin,1
+B-PER,yasin limpoberh,1
+B-PER,yer,3
+B-PER,yermia,1
+B-PER,yermia ri,1
+B-PER,yermia riezky,3
+B-PER,yusuf,1
+B-PER,zainud,1
+B-PER,zainuddin,3
