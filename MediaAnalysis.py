@@ -226,7 +226,7 @@ st.markdown("**Note:** Segments might be associated with the departments or focu
 
 # Sidebar for Word Cloud
 st.sidebar.subheader("Word Cloud Options")
-entity_type = st.sidebar.selectbox("Choose Entity Type", ['Individuals', 'Organizations'], key=100)
+entity_type = st.sidebar.selectbox("Choose Entity Type", ['Individuals', 'Organizations'], key='100')
 top_n = st.sidebar.slider('Choose top N entities for word cloud', 10, 100, 50, key='slider1')
 
 # Word Cloud Visualization
