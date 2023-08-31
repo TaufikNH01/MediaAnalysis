@@ -344,11 +344,13 @@ st.plotly_chart(cnbc_pltb_dis)
 st.markdown("**Note**: From 2018 to 2023, it seems that CNBC produced the most articles in 2022 with more than 450 articles.")
 
 st.subheader("CNBC PLTB Analysis: Articles by Segment")
+st.markdown("In the following visualization, you will find various segments within CNBC's departments that report on wind energy. These segments encompass Market, News, Lifestyle, Entrepreneur, Tech, Research, Opini, Cuap Cuap Cuan, and My Money.")
 
 # Histogram for CNBC by Segment
 cnbc_pltb_seg = px.histogram(cnbc_pltb_merged, x='Year', color='Segment', nbins=int(cnbc_pltb_end_year - cnbc_pltb_start_year + 1))
 cnbc_pltb_seg.update_layout(bargap=0.1)
 st.plotly_chart(cnbc_pltb_seg)
+st.markdown("**Note**: The graph reveals that News and Market are the two significant segments reporting on this issue. However, the majority of articles are primarily produced by the News Segment.")
 
 # Sidebar Feature for Tribun Analysis
 st.sidebar.subheader("Tribun PLTB Analysis - Date Range")
@@ -360,9 +362,19 @@ tribun_pltb_merged = load_data("tribun_pltb_merged.csv")
 tribun_pltb_merged = tribun_pltb_merged[(tribun_pltb_merged['Year'] >= tribun_pltb_start_year) & (tribun_pltb_merged['Year'] <= tribun_pltb_end_year)]
 
 st.subheader("Tribun PLTB Analysis: Number of Articles")
+st.markdown("Here, you can observe the number of articles related to wind energy reporting from Tribun. It's important to consider that Tribun likely has different reporting segments for this issue. Unfortunately, I wasn't able to retrieve specific segment data.")
 # Histogram for Tribun
 tribun_pltb = px.histogram(tribun_pltb_merged, x='Year', nbins=int(tribun_pltb_end_year - tribun_pltb_start_year + 1))
 tribun_pltb.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(tribun_pltb)
+st.markdown("**Note**: As evident, the year 2018 yielded the highest number of articles on wind energy. This could be attributed to the launch of PLTB Sidrap coinciding with that year.")
+
+
+
+
+
+
+
+
 
 st.markdown("This dashboard is designed and developed by **taufik.impact@gmail.com** for Market, Society, and Policy Department under DTU Wind & Energy Systems")
