@@ -343,6 +343,11 @@ st.markdown("In this section, you will encounter a similar structure as above wi
 def load_data(filepath):
     return pd.read_csv(filepath)
 
+detik_pltb_aggregated_counts = load_data("aggregated_counts_detikangin.csv")
+detik_pltb_people_counts = detik_pltb_aggregated_counts[detik_pltb_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
+detik_pltb_org_counts = detik_pltb_aggregated_counts[detik_pltb_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
+
+
 # Sidebar Feature for Detik Analysis
 st.sidebar.subheader("Detik PLTB Analysis - Date Range")
 detik_pltb_start_year = st.sidebar.slider("Start Year - Detik", min_value=2000, max_value=2023, value=2000, key="detik_pltb_start_year")
@@ -366,6 +371,23 @@ st.markdown("Here, you can observe different segments that report on the PLTB on
 detik_pltb_seg = px.histogram(detik_pltb_copy, x='Year', color='Segment', nbins=int(detik_pltb_end_year - detik_pltb_start_year + 1))
 detik_pltb_seg.update_layout(bargap=0.1)
 st.plotly_chart(detik_pltb_seg)
+
+# Sidebar for Word Cloud for Detik
+st.sidebar.subheader("Detik PLTB: Word Cloud")
+detik_entity_type = st.sidebar.selectbox("Choose Entity Type for Detik", ['Individuals', 'Organizations'], key='100')
+detik_top_n = st.sidebar.slider('Choose top N entities for Detik word cloud', 10, 100, 50, key='slider1')
+
+# Word Cloud Visualization for Detik
+if detik_entity_type == 'Individuals':
+    detik_freq_data = detik_pltb_people_counts
+else:
+    detik_freq_data = detik_pltb_org_counts
+
+sorted_detik_freq_data = dict(sorted(detik_freq_data.items(), key=lambda item: item[1], reverse=True)[:detik_top_n])
+st.subheader(f"Detik PLTB - Word Cloud: Top {detik_top_n} {detik_entity_type}")
+generate_wordcloud(sorted_detik_freq_data)
+st.markdown("Key stakeholders identified from Detik's PLTB articles are displayed in this word cloud. Customize the visualization using the sidebar options.")
+
 
 # Sidebar Feature for CNBC Analysis
 st.sidebar.subheader("CNBC PLTB Analysis - Date Range")
