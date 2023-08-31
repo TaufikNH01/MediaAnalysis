@@ -347,6 +347,10 @@ detik_pltb_aggregated_counts = load_data("aggregated_counts_detikangin.csv")
 detik_pltb_people_counts = detik_pltb_aggregated_counts[detik_pltb_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
 detik_pltb_org_counts = detik_pltb_aggregated_counts[detik_pltb_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
+cnbc_pltb_aggregated_counts = load_data("aggregated_counts_cnbcangin.csv")
+cnbc_pltb_people_counts = cnbc_pltb_aggregated_counts[cnbc_pltb_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
+cnbc_pltb_org_counts = cnbc_pltb_aggregated_counts[cnbc_pltb_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
+
 
 # Sidebar Feature for Detik Analysis
 st.sidebar.subheader("Detik PLTB Analysis - Date Range")
@@ -415,6 +419,23 @@ cnbc_pltb_seg = px.histogram(cnbc_pltb_merged, x='Year', color='Segment', nbins=
 cnbc_pltb_seg.update_layout(bargap=0.1)
 st.plotly_chart(cnbc_pltb_seg)
 st.markdown("**Note**: The graph reveals that News and Market are the two significant segments reporting on this issue. However, the majority of articles are primarily produced by the News Segment.")
+
+# Sidebar for Word Cloud for CNBC
+st.sidebar.subheader("CNBC PLTB: Word Cloud")
+cnbc_entity_type = st.sidebar.selectbox("Choose Entity Type for CNBC", ['Individuals', 'Organizations'], key='CNBC PLTB WC')
+cnbc_top_n = st.sidebar.slider('Choose top N entities for CNBC word cloud', 10, 100, 50, key='slider CNBC PLTB WC')
+
+# Word Cloud Visualization for CNBC
+if cnbc_entity_type == 'Individuals':
+    cnbc_freq_data = cnbc_pltb_people_counts
+else:
+    cnbc_freq_data = cnbc_pltb_org_counts
+
+sorted_cnbc_freq_data = dict(sorted(cnbc_freq_data.items(), key=lambda item: item[1], reverse=True)[:cnbc_top_n])
+st.subheader(f"CNBC PLTB - Word Cloud: Top {cnbc_top_n} {cnbc_entity_type}")
+generate_wordcloud(sorted_cnbc_freq_data)
+st.markdown("This word cloud represents key stakeholders mentioned in CNBC's PLTB-related content. Adjust the visualization settings from the sidebar.")
+
 
 # Sidebar Feature for Tribun Analysis
 st.sidebar.subheader("Tribun PLTB Analysis - Date Range")
