@@ -1,0 +1,4055 @@
+NER_Label,Entity,Counts
+B-ORG,$,11
+B-ORG,$ 3,3
+B-ORG,%,3
+B-ORG,0,2
+B-ORG,0 %,1
+B-ORG,00 %,3
+B-ORG,00 % bara,1
+B-ORG,000,2
+B-ORG,000 triliun,1
+B-ORG,01,5
+B-ORG,02,3
+B-ORG,02 % bayan resourcesby,1
+B-ORG,03 %,1
+B-ORG,03 juta,1
+B-ORG,04,2
+B-ORG,04 miliar,1
+B-ORG,05,1
+B-ORG,05 %,2
+B-ORG,06,2
+B-ORG,06 %,1
+B-ORG,07,3
+B-ORG,074,1
+B-ORG,08,1
+B-ORG,08 %,2
+B-ORG,09,9
+B-ORG,09 %,2
+B-ORG,100,2
+B-ORG,102,1
+B-ORG,142,1
+B-ORG,158,1
+B-ORG,1750,1
+B-ORG,19,1
+B-ORG,20,1
+B-ORG,2007,1
+B-ORG,2017,1
+B-ORG,2019,1
+B-ORG,2020,3
+B-ORG,2021,9
+B-ORG,2022,10
+B-ORG,2023,13
+B-ORG,2024,1
+B-ORG,2025,3
+B-ORG,2026,1
+B-ORG,2027,1
+B-ORG,203,3
+B-ORG,2030,11
+B-ORG,2030 toba,1
+B-ORG,2035,2
+B-ORG,204,4
+B-ORG,2040,6
+B-ORG,205,3
+B-ORG,2050,2
+B-ORG,2060,6
+B-ORG,2060sel,2
+B-ORG,21,1
+B-ORG,216,1
+B-ORG,216 juta,2
+B-ORG,232,3
+B-ORG,31,3
+B-ORG,315,1
+B-ORG,350,1
+B-ORG,37,1
+B-ORG,386,1
+B-ORG,450,1
+B-ORG,5,2
+B-ORG,500,3
+B-ORG,5003,1
+B-ORG,53 %,2
+B-ORG,5302,1
+B-ORG,55 % baramulti,1
+B-ORG,599,2
+B-ORG,6001,1
+B-ORG,64 %,1
+B-ORG,6400,1
+B-ORG,66 %,1
+B-ORG,6652,1
+B-ORG,7,1
+B-ORG,70 %,2
+B-ORG,707 miliar,1
+B-ORG,72,2
+B-ORG,73,2
+B-ORG,730,1
+B-ORG,7401,1
+B-ORG,76,2
+B-ORG,8,1
+B-ORG,802 miliar,1
+B-ORG,81 %,1
+B-ORG,83 %,1
+B-ORG,87 %,1
+B-ORG,88 %,1
+B-ORG,89,1
+B-ORG,9150,1
+B-ORG,930,1
+B-ORG,950,1
+B-ORG,96,1
+B-ORG,96 %,1
+B-ORG,97 %,1
+B-ORG,97x,1
+B-ORG,99 %,1
+B-ORG,@ cuap _,1
+B-ORG,[pad] [pad],7
+B-ORG,[unk],1
+B-ORG,a1,1
+B-ORG,aa,7
+B-ORG,aal,1
+B-ORG,aalborg csp,1
+B-ORG,aasland,1
+B-ORG,ab,2
+B-ORG,abadi,1
+B-ORG,abang,1
+B-ORG,abc,5
+B-ORG,abm,1
+B-ORG,abmm,1
+B-ORG,abu dhabi,8
+B-ORG,acc,15
+B-ORG,acciona energia,2
+B-ORG,aceh,2
+B-ORG,acid,1
+B-ORG,act,1
+B-ORG,ad,3
+B-ORG,ada,14
+B-ORG,adam isa,1
+B-ORG,adani,1
+B-ORG,adani group,1
+B-ORG,adaro,12
+B-ORG,adaro energy,1
+B-ORG,adaro energy indonesia,19
+B-ORG,adaro energy indonesia tbk,6
+B-ORG,adaro power,17
+B-ORG,adb,2
+B-ORG,adi,1
+B-ORG,adip,1
+B-ORG,adiperd,2
+B-ORG,adiperdana,1
+B-ORG,adiperdanam,1
+B-ORG,adj,1
+B-ORG,adkerson,3
+B-ORG,admr,1
+B-ORG,adro,56
+B-ORG,adro ),1
+B-ORG,adv,2
+B-ORG,adver,12
+B-ORG,advertis,13
+B-ORG,advertisement,6
+B-ORG,advertisement scr,2
+B-ORG,advertisement scroll,1
+B-ORG,advertisement scroll to,1
+B-ORG,advertisement scroll to resume content,1
+B-ORG,af,5
+B-ORG,afd,8
+B-ORG,afd -,2
+B-ORG,aff,3
+B-ORG,afghanistan,3
+B-ORG,afp,6
+B-ORG,after,1
+B-ORG,ag,8
+B-ORG,agence francaise de developpement,2
+B-ORG,agensi,1
+B-ORG,agra surya investindo,1
+B-ORG,agreement,4
+B-ORG,ags,5
+B-ORG,agung,6
+B-ORG,agus,2
+B-ORG,agustus,5
+B-ORG,agustus 2022,1
+B-ORG,ah,2
+B-ORG,ahaman,1
+B-ORG,ahm,1
+B-ORG,ahmedabad,1
+B-ORG,ahn,1
+B-ORG,aifed,1
+B-ORG,aimsbis,1
+B-ORG,aiot,2
+B-ORG,airlangga,7
+B-ORG,aji,1
+B-ORG,akar,1
+B-ORG,aksa,1
+B-ORG,al,5
+B-ORG,al jazeera,1
+B-ORG,alastair westgart,1
+B-ORG,alex,1
+B-ORG,alf,2
+B-ORG,alfa,3
+B-ORG,alfa laval,1
+B-ORG,alfian,1
+B-ORG,alh,3
+B-ORG,allah,2
+B-ORG,alor,2
+B-ORG,alpha,5
+B-ORG,alphabet,2
+B-ORG,alumni,1
+B-ORG,am,1
+B-ORG,ama,1
+B-ORG,amazon,19
+B-ORG,amb,3
+B-ORG,amblesdal,1
+B-ORG,ambruk,3
+B-ORG,amd,1
+B-ORG,america,2
+B-ORG,amerika,3
+B-ORG,amerika serikat,3
+B-ORG,ami,6
+B-ORG,amien,1
+B-ORG,amin,1
+B-ORG,amman mineral,2
+B-ORG,ammonia,1
+B-ORG,amms,1
+B-ORG,amnt,2
+B-ORG,amsterdam,1
+B-ORG,analis,7
+B-ORG,analis energi,1
+B-ORG,analis industri bank mandiri,1
+B-ORG,analis keuangan,1
+B-ORG,analysis,1
+B-ORG,ananda,8
+B-ORG,anc,1
+B-ORG,andum of,1
+B-ORG,aneka,5
+B-ORG,aneka tambang tbk,1
+B-ORG,angin,1
+B-ORG,angkasa,4
+B-ORG,angkasa pura ii,1
+B-ORG,angkatan,3
+B-ORG,ani,4
+B-ORG,anin,3
+B-ORG,anindya,1
+B-ORG,anne,3
+B-ORG,anoda,1
+B-ORG,ant,11
+B-ORG,anthony,1
+B-ORG,anti,1
+B-ORG,antisipasi,4
+B-ORG,antm,1
+B-ORG,anung,1
+B-ORG,aocc,3
+B-ORG,ap,4
+B-ORG,apac,2
+B-ORG,apindo,2
+B-ORG,apls,2
+B-ORG,app,2
+B-ORG,apple,16
+B-ORG,april,29
+B-ORG,april 2022,1
+B-ORG,aprisindo,1
+B-ORG,apsyfi,2
+B-ORG,aq,1
+B-ORG,aqaba,1
+B-ORG,arab,1
+B-ORG,aram,1
+B-ORG,aramco,11
+B-ORG,arb,1
+B-ORG,arca,1
+B-ORG,arcandra,1
+B-ORG,arch,2
+B-ORG,area,6
+B-ORG,argentina,1
+B-ORG,ari,1
+B-ORG,arie,1
+B-ORG,arif,1
+B-ORG,arifin,5
+B-ORG,ario,1
+B-ORG,arist,4
+B-ORG,aritonang,1
+B-ORG,arko,4
+B-ORG,arno,1
+B-ORG,ars,1
+B-ORG,arsal,1
+B-ORG,artaci,1
+B-ORG,arthane,2
+B-ORG,arthaneli,2
+B-ORG,artikel,3
+B-ORG,aru,4
+B-ORG,arun,1
+B-ORG,arutmin,1
+B-ORG,arya,1
+B-ORG,as,35
+B-ORG,asa,2
+B-ORG,asa keramik tbk,1
+B-ORG,asam,4
+B-ORG,asam tbk,1
+B-ORG,asampt,2
+B-ORG,asamptba3,1
+B-ORG,asean,21
+B-ORG,ash,2
+B-ORG,asi,2
+B-ORG,asia,22
+B-ORG,asia pasifik,2
+B-ORG,asia tbk,1
+B-ORG,asian,1
+B-ORG,asii,1
+B-ORG,asn,3
+B-ORG,asosiasi,11
+B-ORG,asosiasi serat,1
+B-ORG,asri,1
+B-ORG,ass,1
+B-ORG,assa,1
+B-ORG,astra,8
+B-ORG,astra agro lestari tbk,1
+B-ORG,astrindo,1
+B-ORG,astro,1
+B-ORG,asx 200,1
+B-ORG,atlas resources,2
+B-ORG,atlas resourcesari,2
+B-ORG,atr,1
+B-ORG,au,6
+B-ORG,aum,2
+B-ORG,aus,1
+B-ORG,australia,3
+B-ORG,author,1
+B-ORG,autoparts,1
+B-ORG,aver,1
+B-ORG,aw,2
+B-ORG,ax,2
+B-ORG,axio,3
+B-ORG,ay,1
+B-ORG,ayala,1
+B-ORG,b - 20,1
+B-ORG,b20,7
+B-ORG,ba,2
+B-ORG,back,1
+B-ORG,bad [unk],1
+B-ORG,badan,151
+B-ORG,badan administrasi informasi energi ( eia,1
+B-ORG,badan anggaran,1
+B-ORG,badan energi dunia,1
+B-ORG,badan energi internasional,7
+B-ORG,badan energi terbarukan internasional,2
+B-ORG,badan geologi,8
+B-ORG,badan geologi 2019,3
+B-ORG,badan geologi kementerian energi dan sumber daya mineral,4
+B-ORG,badan geologi kementerian esdm,2
+B-ORG,badan layanan umum badan pengelola dana perkebunan kelapa sawit,1
+B-ORG,badan meteorologi klimatologi dan geofisika,1
+B-ORG,badan pengatur hilir minyak dan gas bumi,1
+B-ORG,badan pengawas,1
+B-ORG,badan pengelola,1
+B-ORG,badan prakiraan cuaca eropa,1
+B-ORG,badan pusat statistik,1
+B-ORG,badan riset dan inovasi nasional,2
+B-ORG,badan swasta,1
+B-ORG,badan usaha,5
+B-ORG,badan usaha milik,1
+B-ORG,badan usaha milik negara,2
+B-ORG,badan usaha milik negara ( bumn ) sektor pertambangan,3
+B-ORG,badan usaha milik negara uni emirat arab,2
+B-ORG,badan usaha milik swasta,1
+B-ORG,badung,1
+B-ORG,bah,3
+B-ORG,bahan,2
+B-ORG,bahasa,4
+B-ORG,bahlil,6
+B-ORG,bai,1
+B-ORG,bailout,1
+B-ORG,bak,2
+B-ORG,bakar,2
+B-ORG,bakrie,20
+B-ORG,bakrie autoparts,1
+B-ORG,bakrie telecom,2
+B-ORG,baku,3
+B-ORG,balai,1
+B-ORG,baleg,2
+B-ORG,bali mandara,2
+B-ORG,balisel,2
+B-ORG,bancass,1
+B-ORG,bandung,1
+B-ORG,bangka,14
+B-ORG,bank,163
+B-ORG,bank 2018,1
+B-ORG,bank asing,1
+B-ORG,bank bni roundtable [unk],1
+B-ORG,bank bri,1
+B-ORG,bank btpn,1
+B-ORG,bank danamon5 . 75moody [unk] s,1
+B-ORG,bank dunia,3
+B-ORG,bank ekspor - impor china,1
+B-ORG,bank indonesia,13
+B-ORG,bank kesejahteraan ekonomi,1
+B-ORG,bank mandiri,1
+B-ORG,bank of england,1
+B-ORG,bank of japan,1
+B-ORG,bank permata,1
+B-ORG,bank rakyat,1
+B-ORG,bank rakyat indonesia,2
+B-ORG,bank sentral amerika serikat,4
+B-ORG,bank sentral as,4
+B-ORG,bank sentral australia,2
+B-ORG,bank sentral eropa,1
+B-ORG,bank syariah,1
+B-ORG,bank tabungan negara tbk,1
+B-ORG,bank umum,1
+B-ORG,bank victoria,1
+B-ORG,banpu,1
+B-ORG,banpu minerals,1
+B-ORG,banta,1
+B-ORG,banten,1
+B-ORG,bantensa,1
+B-ORG,bantuan investasi,1
+B-ORG,bap,3
+B-ORG,bapak,4
+B-ORG,bara,8
+B-ORG,barack,1
+B-ORG,barito,17
+B-ORG,barito pacific,2
+B-ORG,barr,1
+B-ORG,basa,2
+B-ORG,basel,2
+B-ORG,basir,7
+B-ORG,bat,7
+B-ORG,batam,1
+B-ORG,batan,1
+B-ORG,battery,2
+B-ORG,batu,9
+B-ORG,batu bara,12
+B-ORG,batu bara ri,1
+B-ORG,batu bara terkemuka,1
+B-ORG,bau,17
+B-ORG,bauran,1
+B-ORG,bauran energi,2
+B-ORG,bavaria,1
+B-ORG,baw,2
+B-ORG,bawa,2
+B-ORG,bawono,6
+B-ORG,bayan resources,2
+B-ORG,bayan resources tbk,1
+B-ORG,bayan resourcesby,1
+B-ORG,bazar,1
+B-ORG,bb,6
+B-ORG,bbc,3
+B-ORG,bbca,5
+B-ORG,bbhi,1
+B-ORG,bbkp,1
+B-ORG,bbm,1
+B-ORG,bbni,4
+B-ORG,bbri,13
+B-ORG,bbtn,1
+B-ORG,bc indonesia,3
+B-ORG,bca,1
+B-ORG,bd,1
+B-ORG,bea,1
+B-ORG,bec,2
+B-ORG,begin,2
+B-ORG,bei,32
+B-ORG,beijing,4
+B-ORG,beis,2
+B-ORG,belanda,10
+B-ORG,belgia,2
+B-ORG,belitung,3
+B-ORG,bell,6
+B-ORG,benang,1
+B-ORG,benua kuning,1
+B-ORG,benz,3
+B-ORG,beom,1
+B-ORG,berkshire,1
+B-ORG,berkshire hathaway,1
+B-ORG,berpotensi,2
+B-ORG,bersih,3
+B-ORG,bert,1
+B-ORG,beruang merah,1
+B-ORG,bess,3
+B-ORG,best,1
+B-ORG,best energy,1
+B-ORG,bgtg,1
+B-ORG,bi,63
+B-ORG,bid,14
+B-ORG,bidang tata kelola mineral dan batu bara,1
+B-ORG,biden,2
+B-ORG,bidik,3
+B-ORG,big ben,1
+B-ORG,bilateral,1
+B-ORG,bild am sonntag,1
+B-ORG,bill,1
+B-ORG,billboard,1
+B-ORG,bimasena energy team,1
+B-ORG,bin,2
+B-ORG,bina,1
+B-ORG,binary,1
+B-ORG,binary unit,1
+B-ORG,bintan,1
+B-ORG,bio,2
+B-ORG,bio energi,1
+B-ORG,biodiesel,1
+B-ORG,bioethanol,1
+B-ORG,bioskop,2
+B-ORG,bip,3
+B-ORG,bipi,3
+B-ORG,biro,21
+B-ORG,biro statistik tenaga kerja,1
+B-ORG,biro tenaga kerja amerika serikat,1
+B-ORG,birol,1
+B-ORG,bke,1
+B-ORG,bksl,3
+B-ORG,bl,6
+B-ORG,bles,2
+B-ORG,blok,11
+B-ORG,blok brantas,2
+B-ORG,blok migas,2
+B-ORG,blok migas brantas,2
+B-ORG,bloom,5
+B-ORG,bloomberg,6
+B-ORG,blu,1
+B-ORG,blue,8
+B-ORG,bm,2
+B-ORG,bmc,1
+B-ORG,bmkg,1
+B-ORG,bmri,8
+B-ORG,bmtr,1
+B-ORG,bmw,1
+B-ORG,bmw group indonesia,1
+B-ORG,bnbr,9
+B-ORG,bnga,1
+B-ORG,bni,12
+B-ORG,bnli ),1
+B-ORG,bnpb,1
+B-ORG,bobby,3
+B-ORG,boe,2
+B-ORG,boeing,1
+B-ORG,boj,4
+B-ORG,bollywood,1
+B-ORG,bond,3
+B-ORG,boris,4
+B-ORG,borneo,4
+B-ORG,bos,1
+B-ORG,bos facebook,2
+B-ORG,bos pertamina,2
+B-ORG,boss,1
+B-ORG,boss89,1
+B-ORG,box,1
+B-ORG,boy,3
+B-ORG,bp,30
+B-ORG,bp batam,3
+B-ORG,bp world statistic,1
+B-ORG,bpbd,1
+B-ORG,bpd,1
+B-ORG,bph migas,1
+B-ORG,bph migas m,1
+B-ORG,bpi,1
+B-ORG,bpk,1
+B-ORG,bpp,4
+B-ORG,bpp ) rata - rata listrik,2
+B-ORG,bps,23
+B-ORG,br,2
+B-ORG,brantas,13
+B-ORG,brasil,2
+B-ORG,brazil,1
+B-ORG,break,1
+B-ORG,bri,21
+B-ORG,brik,1
+B-ORG,brin,2
+B-ORG,bris,3
+B-ORG,british,3
+B-ORG,bro,2
+B-ORG,brodjo,1
+B-ORG,brothers,1
+B-ORG,brown,1
+B-ORG,brpt,3
+B-ORG,brussel,1
+B-ORG,bssr,1
+B-ORG,bssr3,1
+B-ORG,bt,17
+B-ORG,btc,1
+B-ORG,btel,1
+B-ORG,btpn,6
+B-ORG,bts,1
+B-ORG,budapest,2
+B-ORG,budi,4
+B-ORG,bukit,9
+B-ORG,bukit energi investama,2
+B-ORG,bul,2
+B-ORG,bulan,1
+B-ORG,bumi,8
+B-ORG,bumi resources,1
+B-ORG,bumi resourcesbumi1140,1
+B-ORG,bumi resourcesbumi137,1
+B-ORG,bumm,1
+B-ORG,bumn,105
+B-ORG,bumn gas rusia,1
+B-ORG,bupati,2
+B-ORG,bursa,21
+B-ORG,bursa asia,2
+B-ORG,bursa asia - pasifik,2
+B-ORG,bursa efek indonesia,11
+B-ORG,bursa eropa,4
+B-ORG,bursa inggris,1
+B-ORG,bursa intercontinental exchange,1
+B-ORG,bursa malaysia derivatif,1
+B-ORG,bursa malaysia derivatif exchange,1
+B-ORG,bursa malaysia excahnge,1
+B-ORG,bursa malaysia exchange,1
+B-ORG,bursa saham,1
+B-ORG,bursa saham amerika serikat,5
+B-ORG,bursa saham asia,1
+B-ORG,bursa saham benua kuning,1
+B-ORG,bursa saham eropa,1
+B-ORG,bursa wall street,1
+B-ORG,buru,1
+B-ORG,business,1
+B-ORG,butik,1
+B-ORG,butik emas,1
+B-ORG,byan,1
+B-ORG,bye,7
+B-ORG,bye batubara,2
+B-ORG,c,2
+B-ORG,ca,1
+B-ORG,cac,2
+B-ORG,cad,2
+B-ORG,cah,1
+B-ORG,caixin,1
+B-ORG,cakra,1
+B-ORG,california,2
+B-ORG,call,1
+B-ORG,can,1
+B-ORG,capex,5
+B-ORG,capital management,1
+B-ORG,cardano,1
+B-ORG,carnegie,1
+B-ORG,carrie,1
+B-ORG,cast,1
+B-ORG,cat,1
+B-ORG,cbi,1
+B-ORG,cc,4
+B-ORG,cccc,10
+B-ORG,ccus,1
+B-ORG,ccus -,1
+B-ORG,cea,1
+B-ORG,ceko,1
+B-ORG,celios,1
+B-ORG,center,4
+B-ORG,center 1,2
+B-ORG,central,4
+B-ORG,central asia,1
+B-ORG,central asia tbk,2
+B-ORG,central bank,1
+B-ORG,central electricity authority,1
+B-ORG,ceo,23
+B-ORG,ceo & founder,1
+B-ORG,ceo and founder wmpp,1
+B-ORG,ceo and president director pt bakrie & brother tbk,1
+B-ORG,ceo bp,1
+B-ORG,ceo dan founder,2
+B-ORG,ceo mercedes - benz,1
+B-ORG,ceo microsoft,1
+B-ORG,ceo mitsui,1
+B-ORG,ceo origin energy,1
+B-ORG,ceo pertamina nre,2
+B-ORG,ceo pt widodo makmur perkasa,1
+B-ORG,ceo schroder investment management indonesia,1
+B-ORG,ceo siemens,1
+B-ORG,ceo softbank,1
+B-ORG,ceo star energy geothermal group,4
+B-ORG,ceo tesla,1
+B-ORG,cf,1
+B-ORG,cgn,1
+B-ORG,ch,1
+B-ORG,chairman,2
+B-ORG,champ,1
+B-ORG,channel cuap cuap,1
+B-ORG,chaos,1
+B-ORG,charoen,1
+B-ORG,chd,9
+B-ORG,chdgx,2
+B-ORG,chdoi,1
+B-ORG,cheniere energy,2
+B-ORG,chev,1
+B-ORG,chevron,2
+B-ORG,chief,2
+B-ORG,chief executive officer,2
+B-ORG,chief executive officer ignis energy holdings,2
+B-ORG,chief executive officer pertamina nre dan,1
+B-ORG,chief executive officer pertamina power indonesia,2
+B-ORG,chief investment officer,1
+B-ORG,china,53
+B-ORG,"china communications construction dredging co . , ltd",2
+B-ORG,china electricity council,2
+B-ORG,china huadian corporation,1
+B-ORG,chinabursa saham asia,1
+B-ORG,chinese,1
+B-ORG,christian,1
+B-ORG,cianjur,3
+B-ORG,cilacap,1
+B-ORG,cimb niaga,1
+B-ORG,cimb niaga sekuritas,1
+B-ORG,cip,1
+B-ORG,cir,1
+B-ORG,cis,3
+B-ORG,cisem,5
+B-ORG,city,3
+B-ORG,clean,4
+B-ORG,clean edge asia,2
+B-ORG,cleaning service,1
+B-ORG,cleveland,1
+B-ORG,climate,2
+B-ORG,clo,1
+B-ORG,close,6
+B-ORG,cluster,1
+B-ORG,cm,2
+B-ORG,cnbc ],6
+B-ORG,cnbc indonesia - pln,1
+B-ORG,cnbc indonesia - ri,16
+B-ORG,cnbc indonesia award 2021,1
+B-ORG,cnbc indonesia awards 2022,1
+B-ORG,cnbc indonesia mining forum,6
+B-ORG,cnbc indonesia tv,15
+B-ORG,cnbc indonesiaspiderman no way home,1
+B-ORG,cnbc internasional,1
+B-ORG,cnbc international,11
+B-ORG,cnbc make it,1
+B-ORG,cnbcindones,1
+B-ORG,cnbcindonesia,5
+B-ORG,cncb indonesia,1
+B-ORG,cnn,9
+B-ORG,cnn indonesia,2
+B-ORG,cnn international,1
+B-ORG,cnpc,1
+B-ORG,co,1
+B-ORG,cod,1
+B-ORG,coin market cap,1
+B-ORG,coinmarketcap,1
+B-ORG,col4,2
+B-ORG,col5,1
+B-ORG,columbia,2
+B-ORG,com,1
+B-ORG,comment,1
+B-ORG,commer,2
+B-ORG,commerz,2
+B-ORG,commodity,1
+B-ORG,commonwealth,2
+B-ORG,commonwealth bank of australia,1
+B-ORG,comp,2
+B-ORG,companies market,2
+B-ORG,company,2
+B-ORG,conference,1
+B-ORG,cons,1
+B-ORG,construction,1
+B-ORG,content,9
+B-ORG,continental,1
+B-ORG,convention,1
+B-ORG,copenhagen atomics,1
+B-ORG,corona,8
+B-ORG,coronavirus,1
+B-ORG,corporate,2
+B-ORG,corporate affairs director multi bintang indonesia,1
+B-ORG,corporation,3
+B-ORG,council,2
+B-ORG,country,1
+B-ORG,country leader ge indonesia,2
+B-ORG,covid,3
+B-ORG,cp,2
+B-ORG,cpin,1
+B-ORG,cre,1
+B-ORG,credit,1
+B-ORG,creei,1
+B-ORG,crit,2
+B-ORG,cs,2
+B-ORG,csis,1
+B-ORG,ct,2
+B-ORG,cua,1
+B-ORG,cuan,4
+B-ORG,cuap cuap cuan,1
+B-ORG,cur,1
+B-ORG,cyber,2
+B-ORG,d,2
+B-ORG,dad,1
+B-ORG,dada,1
+B-ORG,dadan,2
+B-ORG,dadan kus,1
+B-ORG,dadan kusdiana,2
+B-ORG,dahana,2
+B-ORG,dahlan,1
+B-ORG,dahsyat,1
+B-ORG,daihatsu,1
+B-ORG,dana moneter internasional,1
+B-ORG,danar,2
+B-ORG,dani,1
+B-ORG,darma,15
+B-ORG,darmawan,21
+B-ORG,date,1
+B-ORG,daur,2
+B-ORG,dave,1
+B-ORG,david,4
+B-ORG,dax jerman,2
+B-ORG,dbs,1
+B-ORG,dbs indonesia,1
+B-ORG,decision,1
+B-ORG,delegasi,2
+B-ORG,deli,1
+B-ORG,delta,11
+B-ORG,dem,1
+B-ORG,demokrat,1
+B-ORG,den,4
+B-ORG,denmark,2
+B-ORG,departemen,18
+B-ORG,departemen podcast,1
+B-ORG,deputi,4
+B-ORG,deputi gubernur senior dest,1
+B-ORG,deputi i bidang infrastruktur,1
+B-ORG,der spiegel,1
+B-ORG,desa,14
+B-ORG,desa kincir,6
+B-ORG,desa wono sari,1
+B-ORG,desember,1
+B-ORG,detik,1
+B-ORG,detikcom,1
+B-ORG,deutsche,4
+B-ORG,deutsche bank,1
+B-ORG,dewan,31
+B-ORG,dewan energi nasional,1
+B-ORG,dewan investasi sri lanka,1
+B-ORG,dewan kelistrikan china,2
+B-ORG,dewi,1
+B-ORG,dharma,2
+B-ORG,dhl,1
+B-ORG,dieng,1
+B-ORG,digital,2
+B-ORG,dile,3
+B-ORG,dileep,1
+B-ORG,dinas,1
+B-ORG,dipa,10
+B-ORG,dipa energi,2
+B-ORG,dir,3
+B-ORG,diramal,2
+B-ORG,director,2
+B-ORG,direksi,3
+B-ORG,direktorat,19
+B-ORG,direktorat jenderal energi baru terbarukan dan konservasi energi,3
+B-ORG,direktur adaro power,2
+B-ORG,direktur aneka energi,2
+B-ORG,direktur aneka energi baru dan energi,2
+B-ORG,direktur aneka energi baru dan energi terbarukan,3
+B-ORG,direktur bisnis regional maluku,1
+B-ORG,direktur bisnis regional sumatera kalimantan,1
+B-ORG,direktur center of economic and law studies,1
+B-ORG,direktur eksekutif,2
+B-ORG,direktur eksekutif iesr,1
+B-ORG,direktur eksekutif institute for essential services reform,3
+B-ORG,direktur eksplorasi dan pengembangan pt pertamina geothermal energy,1
+B-ORG,direktur human capital management pt pln ( persero ),6
+B-ORG,direktur jenderal ebtk,1
+B-ORG,direktur jenderal energi,3
+B-ORG,direktur jenderal energi baru,1
+B-ORG,direktur jenderal energi baru terbarukan dan konservasi energi,2
+B-ORG,direktur jenderal energi baru terbarukan dan konservasi energi kementerian energi dan sumber daya mineral,2
+B-ORG,direktur jenderal industri logam mesin alat transportasi dan elektronika,1
+B-ORG,direktur jenderal mineral dan,2
+B-ORG,direktur jenderal mineral dan batubara,2
+B-ORG,direktur jenderal pusat prakiraan cuaca,1
+B-ORG,direktur keuangan bipi,1
+B-ORG,direktur manajemen proyek,3
+B-ORG,direktur manajemen proyek dan ebt pln,4
+B-ORG,direktur manajemen proyek dan ebt pt pln,1
+B-ORG,direktur mega project pln,3
+B-ORG,direktur mega project pt pln,1
+B-ORG,direktur mining and metals industry indonesia,1
+B-ORG,direktur panas bumi,2
+B-ORG,direktur panas bumi ditjen ebtke,5
+B-ORG,direktur perencanaan investasi dan manajemen risiko,1
+B-ORG,direktur perencanaan korporat pln,4
+B-ORG,direktur perencanaan strategis dan pengembangan bisnis pt pertamina power indonesia,3
+B-ORG,direktur pt bayan resources,1
+B-ORG,direktur pt bayan resources indonesia tbk,1
+B-ORG,direktur pt bayan resources tbk,1
+B-ORG,direktur pt freeport indonesia,2
+B-ORG,direktur pt tbs energi utama tbk,2
+B-ORG,direktur riset core indonesia,3
+B-ORG,direktur strategi,2
+B-ORG,"direktur strategi , portofolio",2
+B-ORG,direktur utama,16
+B-ORG,direktur utama arko,1
+B-ORG,direktur utama bukit asam arsal,1
+B-ORG,direktur utama indonesia battery corporation,2
+B-ORG,direktur utama krakatau steel,2
+B-ORG,direktur utama krakatau steel silmy karim,1
+B-ORG,direktur utama pertamina,9
+B-ORG,direktur utama pln,25
+B-ORG,direktur utama pt aneka tambang ( persero ) tbk,1
+B-ORG,direktur utama pt pertamina ( persero,1
+B-ORG,direktur utama pt pln ( persero,1
+B-ORG,direktur utama pt pln ( persero ),5
+B-ORG,direktur utama pt smi,2
+B-ORG,direktur utama ptba arsal,2
+B-ORG,direktur utama raja,1
+B-ORG,direktur utama smi,1
+B-ORG,direktur utama subholding power and nre ( pnre ) pertamina,1
+B-ORG,direktur utama tbs energi,1
+B-ORG,dirgantara indonesia,2
+B-ORG,dirjen,13
+B-ORG,dirjen ebtke,1
+B-ORG,dirpamobvi,1
+B-ORG,dirut,3
+B-ORG,dirut pt bank rakyat indonesia tbk,2
+B-ORG,dis,2
+B-ORG,disasar,2
+B-ORG,disp,2
+B-ORG,disway . id,1
+B-ORG,ditjen,5
+B-ORG,div,3
+B-ORG,dividen,1
+B-ORG,diy,9
+B-ORG,dj,1
+B-ORG,djarum,1
+B-ORG,dji,2
+B-ORG,djia,2
+B-ORG,djo,4
+B-ORG,djojonegoro,2
+B-ORG,djoko,6
+B-ORG,djpp,1
+B-ORG,djumiril,1
+B-ORG,dki,2
+B-ORG,dm,9
+B-ORG,do,3
+B-ORG,dob,6
+B-ORG,doc,14
+B-ORG,dodo,1
+B-ORG,dog,1
+B-ORG,doi,1
+B-ORG,dolajakarta,1
+B-ORG,don,1
+B-ORG,don [unk],1
+B-ORG,donald,2
+B-ORG,donetsk,2
+B-ORG,doo,1
+B-ORG,dovis,1
+B-ORG,dow,24
+B-ORG,dow jones,13
+B-ORG,down,1
+B-ORG,dpr,9
+B-ORG,dpr ri,9
+B-ORG,dprd,3
+B-ORG,dpu,1
+B-ORG,dra,1
+B-ORG,drax,1
+B-ORG,drone,1
+B-ORG,dru,1
+B-ORG,dssa,3
+B-ORG,du,1
+B-ORG,duan,1
+B-ORG,duan xi,1
+B-ORG,duke,1
+B-ORG,dunia,2
+B-ORG,dusun,2
+B-ORG,duta,2
+B-ORG,dy,9
+B-ORG,e,1
+B-ORG,e - commerce shopee indonesia,1
+B-ORG,e . on,1
+B-ORG,eagle,4
+B-ORG,earth,9
+B-ORG,eas,4
+B-ORG,east asia,2
+B-ORG,eb,39
+B-ORG,ebt,42
+B-ORG,ebt pt pln,2
+B-ORG,ebtk,4
+B-ORG,ebtke,6
+B-ORG,ec,7
+B-ORG,ecb,4
+B-ORG,eco,2
+B-ORG,econom,5
+B-ORG,economic,1
+B-ORG,economic forum 2023,1
+B-ORG,economics and financial analysis,1
+B-ORG,eddy,4
+B-ORG,edf,1
+B-ORG,edge,4
+B-ORG,edward ricardo advertisement scroll,6
+B-ORG,edwin,1
+B-ORG,ef,4
+B-ORG,ego,4
+B-ORG,egosen,1
+B-ORG,eko,20
+B-ORG,ekonom,1
+B-ORG,ekspektasi,1
+B-ORG,ekspor pertanian,2
+B-ORG,eksposur [ utang ],1
+B-ORG,eku,2
+B-ORG,el,4
+B-ORG,electric,2
+B-ORG,elizabeth,1
+B-ORG,elon musk,1
+B-ORG,elsa,1
+B-ORG,elu,1
+B-ORG,em,2
+B-ORG,ema,1
+B-ORG,emb,1
+B-ORG,emi,9
+B-ORG,emil,5
+B-ORG,emirat,2
+B-ORG,emiss,4
+B-ORG,emiten,8
+B-ORG,emiten batu bara ri,1
+B-ORG,emits,1
+B-ORG,emsland,1
+B-ORG,enappsys,1
+B-ORG,energi,5
+B-ORG,energi invest,1
+B-ORG,energoatom,1
+B-ORG,energy,22
+B-ORG,energy & hydrogen,1
+B-ORG,energy indonesiaadro2,1
+B-ORG,energy investmentiata,1
+B-ORG,energy tbk,1
+B-ORG,energyh,1
+B-ORG,energyind,1
+B-ORG,energyindy1,1
+B-ORG,energysmmt,1
+B-ORG,energysmmt640,1
+B-ORG,engineering,2
+B-ORG,enhanced oil,1
+B-ORG,ensk,1
+B-ORG,envision,8
+B-ORG,envision group,3
+B-ORG,eongn . de,1
+B-ORG,ep,4
+B-ORG,epc,4
+B-ORG,epis,1
+B-ORG,epr,1
+B-ORG,equ,3
+B-ORG,equity,1
+B-ORG,er,21
+B-ORG,eren,40
+B-ORG,eren australia,2
+B-ORG,erick,34
+B-ORG,eropa,25
+B-ORG,es,6
+B-ORG,esdm,84
+B-ORG,esdm ),1
+B-ORG,esg,6
+B-ORG,esia,1
+B-ORG,ess,6
+B-ORG,et,4
+B-ORG,eth,3
+B-ORG,ethereum,1
+B-ORG,etsk,1
+B-ORG,eu,3
+B-ORG,eurasia,1
+B-ORG,euro,14
+B-ORG,european,2
+B-ORG,ev,1
+B-ORG,evans,1
+B-ORG,evening up,1
+B-ORG,ever,8
+B-ORG,evergrande,1
+B-ORG,evergrande group,1
+B-ORG,evergrandegroup,1
+B-ORG,everlane,1
+B-ORG,ex,4
+B-ORG,exchange,1
+B-ORG,executive vice president corporate communication and csr pt pln ( persero ),1
+B-ORG,executive vice president of energy transition and sustainability,1
+B-ORG,expereo,4
+B-ORG,expo,6
+B-ORG,export,1
+B-ORG,express,2
+B-ORG,exxonmo,1
+B-ORG,faba,1
+B-ORG,fac,2
+B-ORG,facebook,10
+B-ORG,faisal,2
+B-ORG,fajriyah,2
+B-ORG,fakultas,1
+B-ORG,family,1
+B-ORG,fang,2
+B-ORG,fanshurullah,1
+B-ORG,farm,5
+B-ORG,fast,1
+B-ORG,fcbd,1
+B-ORG,fda,2
+B-ORG,febr,2
+B-ORG,februari,11
+B-ORG,februari 2023,1
+B-ORG,fed,81
+B-ORG,federal,33
+B-ORG,federal reserve,2
+B-ORG,federasi serikat pekerja metal indonesia,1
+B-ORG,fer,1
+B-ORG,feri,1
+B-ORG,ff,5
+B-ORG,ffr,3
+B-ORG,fic,1
+B-ORG,fid,1
+B-ORG,fif,5
+B-ORG,filament indonesia,1
+B-ORG,final,4
+B-ORG,finance central bank deputies meeting,1
+B-ORG,financial,1
+B-ORG,financial analysis,1
+B-ORG,fire711,1
+B-ORG,firmansyah,2
+B-ORG,fluor,1
+B-ORG,fmcbg,1
+B-ORG,follow,1
+B-ORG,food,2
+B-ORG,for,2
+B-ORG,forbes,4
+B-ORG,ford,1
+B-ORG,foreign,1
+B-ORG,forex,2
+B-ORG,forum,6
+B-ORG,forum 2023,2
+B-ORG,forum g20,2
+B-ORG,forum geologi nasional,1
+B-ORG,forum presidensi g20,1
+B-ORG,fos,2
+B-ORG,fossil fuel,1
+B-ORG,fossil fuel based,1
+B-ORG,found,1
+B-ORG,fox,1
+B-ORG,frank,1
+B-ORG,free,11
+B-ORG,freeport,44
+B-ORG,freeport indonesia,3
+B-ORG,french development agency,2
+B-ORG,frieslandca,2
+B-ORG,fs,2
+B-ORG,fspm,1
+B-ORG,fspmi,1
+B-ORG,ftx,1
+B-ORG,fu,2
+B-ORG,fuad,1
+B-ORG,fuel,1
+B-ORG,fuelcell,2
+B-ORG,fuku,2
+B-ORG,full,1
+B-ORG,fund,1
+B-ORG,fur,2
+B-ORG,furnace,1
+B-ORG,future,3
+B-ORG,futures,3
+B-ORG,fx,1
+B-ORG,fys,1
+B-ORG,ga,2
+B-ORG,gabriel,1
+B-ORG,gabungan,1
+B-ORG,gadjah,2
+B-ORG,gai,1
+B-ORG,gaikindo,1
+B-ORG,gainers,2
+B-ORG,galangan,1
+B-ORG,gamb,21
+B-ORG,gambas,2
+B-ORG,gar,3
+B-ORG,gara,2
+B-ORG,garibal,2
+B-ORG,garibaldi,7
+B-ORG,garuda,12
+B-ORG,gas alam cair,2
+B-ORG,gas bumi,2
+B-ORG,gates,1
+B-ORG,gautam,1
+B-ORG,gazprom,3
+B-ORG,gbp,1
+B-ORG,gd,1
+B-ORG,ge,25
+B-ORG,ge hitachi nuclear energy,1
+B-ORG,ge indonesia,2
+B-ORG,gem,1
+B-ORG,gems,1
+B-ORG,general electric,4
+B-ORG,general motors,1
+B-ORG,genesis,1
+B-ORG,geo,38
+B-ORG,geo dipa,1
+B-ORG,geo energy group,1
+B-ORG,geo energy resources,1
+B-ORG,geologi,7
+B-ORG,georgia,1
+B-ORG,geother,5
+B-ORG,geothermal,7
+B-ORG,gerindra,1
+B-ORG,getty,1
+B-ORG,gh,3
+B-ORG,ghee,1
+B-ORG,gi,1
+B-ORG,gib,2
+B-ORG,gimlet media,1
+B-ORG,gin,1
+B-ORG,gita,1
+B-ORG,glasgow,2
+B-ORG,global,20
+B-ORG,global energy monitor,1
+B-ORG,gm up suralaya,1
+B-ORG,gmbh,4
+B-ORG,gn,7
+B-ORG,gni,1
+B-ORG,go,3
+B-ORG,go global,2
+B-ORG,go public,1
+B-ORG,golden,3
+B-ORG,golden energy,1
+B-ORG,golden energy and resources,1
+B-ORG,gong,1
+B-ORG,good,3
+B-ORG,google,16
+B-ORG,google ancam australia,1
+B-ORG,got,4
+B-ORG,goto,2
+B-ORG,goto cs,1
+B-ORG,govern,1
+B-ORG,goyah,1
+B-ORG,gpbsi,1
+B-ORG,graha,2
+B-ORG,grains,2
+B-ORG,grand,2
+B-ORG,grand strategi energi nasional,1
+B-ORG,grasberg,5
+B-ORG,grassberg,6
+B-ORG,gre,2
+B-ORG,green,3
+B-ORG,gregorius,1
+B-ORG,grid,2
+B-ORG,gro,1
+B-ORG,grohnde,1
+B-ORG,groningen,1
+B-ORG,group,20
+B-ORG,grup,13
+B-ORG,grup adaro,1
+B-ORG,grup bakrie,1
+B-ORG,grup bakrie & envision gara,1
+B-ORG,grup bakrie pt bumi resources tbk,1
+B-ORG,grup mahaka,1
+B-ORG,grup sinarmas pt dian swastatika sentosa tbk .,1
+B-ORG,grup widodo makmur,1
+B-ORG,gs,5
+B-ORG,guangxi energy co,1
+B-ORG,guardian,1
+B-ORG,gubernur,12
+B-ORG,gubernur bank indonesia,2
+B-ORG,gubernur rba,1
+B-ORG,gudang garam,1
+B-ORG,gudang garam tbk,1
+B-ORG,gui,1
+B-ORG,gun,1
+B-ORG,gundrem,1
+B-ORG,gundremmingen c,1
+B-ORG,gus,16
+B-ORG,gw,1
+B-ORG,gwp,3
+B-ORG,haag,2
+B-ORG,hab,4
+B-ORG,hai,3
+B-ORG,hais,1
+B-ORG,hal,11
+B-ORG,halmahera timur,1
+B-ORG,haluan,1
+B-ORG,ham,1
+B-ORG,hamad,1
+B-ORG,hambatan,2
+B-ORG,hana indonesia,2
+B-ORG,handsaplast,1
+B-ORG,hang,1
+B-ORG,hang seng,1
+B-ORG,hangzhou,1
+B-ORG,hap,2
+B-ORG,har,2
+B-ORG,hari,15
+B-ORG,hari tua,1
+B-ORG,harian,1
+B-ORG,harlan,1
+B-ORG,harris,3
+B-ORG,haru,1
+B-ORG,harum,1
+B-ORG,harum energy,1
+B-ORG,harvard growth lab,1
+B-ORG,has,1
+B-ORG,hatta,1
+B-ORG,hawk,1
+B-ORG,hdf energy,2
+B-ORG,head,1
+B-ORG,head of,3
+B-ORG,head of wholesale banking bank btpn,1
+B-ORG,heb,1
+B-ORG,heilongjiang,1
+B-ORG,helio,1
+B-ORG,hem,3
+B-ORG,hembus,3
+B-ORG,hendra,2
+B-ORG,hendrajan,1
+B-ORG,heng,1
+B-ORG,henry,1
+B-ORG,hep,1
+B-ORG,heppy,1
+B-ORG,her,1
+B-ORG,heri,2
+B-ORG,hidrogen,3
+B-ORG,high tech manufaktur,1
+B-ORG,hil,1
+B-ORG,hilir,2
+B-ORG,hill,1
+B-ORG,himni,1
+B-ORG,himpunan masyarakat nuklir indonesia,1
+B-ORG,hinabi,1
+B-ORG,hindia,1
+B-ORG,hisjam,1
+B-ORG,hitam,1
+B-ORG,hm,1
+B-ORG,ho,14
+B-ORG,holding,7
+B-ORG,holding badan usaha,1
+B-ORG,holding baterai,1
+B-ORG,holding bumn industri pertambangan,1
+B-ORG,holding bumn khusus panas bumi,1
+B-ORG,holding bumn tambang,2
+B-ORG,holding farmasi,1
+B-ORG,holding industri pertambangan pt inalum ( persero ),1
+B-ORG,holding panas bumi,1
+B-ORG,holiday,1
+B-ORG,home,1
+B-ORG,hong,5
+B-ORG,hong kong,4
+B-ORG,hongkong,1
+B-ORG,hornsea,1
+B-ORG,hot,1
+B-ORG,hotel,1
+B-ORG,house electric,2
+B-ORG,hp,2
+B-ORG,hpal,2
+B-ORG,hrum,3
+B-ORG,hsi,1
+B-ORG,htel,2
+B-ORG,hu,3
+B-ORG,hua,5
+B-ORG,huadian,2
+B-ORG,huadian corporation,2
+B-ORG,huawei,2
+B-ORG,hub,2
+B-ORG,hulu,9
+B-ORG,hum,1
+B-ORG,hungaria,1
+B-ORG,hur,1
+B-ORG,hut,2
+B-ORG,hutan,1
+B-ORG,hydro,3
+B-ORG,hydrogen,1
+B-ORG,i,1
+B-ORG,iagi,1
+B-ORG,iampi - lkn,1
+B-ORG,ians,1
+B-ORG,iata,1
+B-ORG,ib,3
+B-ORG,ibc,9
+B-ORG,ibu kota,2
+B-ORG,ibu kota negara,1
+B-ORG,ibu pertiwibaca,3
+B-ORG,ice,2
+B-ORG,ice newcastle,5
+B-ORG,id,6
+B-ORG,id - seed,1
+B-ORG,id food,2
+B-ORG,ida,7
+B-ORG,ie,11
+B-ORG,iea,13
+B-ORG,ieefa,6
+B-ORG,ieefa ),2
+B-ORG,ieefa ) harga batu bara ri,1
+B-ORG,iesr,10
+B-ORG,if,1
+B-ORG,ig,1
+B-ORG,ignasius,5
+B-ORG,ignis energy holdings,2
+B-ORG,igs,1
+B-ORG,ih,6
+B-ORG,ihgs,2
+B-ORG,ihs,2
+B-ORG,ihsg,20
+B-ORG,iif,1
+B-ORG,ij,1
+B-ORG,ijen,1
+B-ORG,ik,1
+B-ORG,ika energy,1
+B-ORG,ikatan ahli manajemen proyek indonesia,1
+B-ORG,ikn,15
+B-ORG,ikn nusantara,4
+B-ORG,il,1
+B-ORG,ilhan,1
+B-ORG,imf,10
+B-ORG,impor,3
+B-ORG,in,1
+B-ORG,ina,17
+B-ORG,inalum,1
+B-ORG,inar,1
+B-ORG,inc,6
+B-ORG,incar,2
+B-ORG,ind,6
+B-ORG,indah,1
+B-ORG,indef,2
+B-ORG,independent,1
+B-ORG,independent advisor alliance,1
+B-ORG,independent power producer,1
+B-ORG,india,1
+B-ORG,indika,3
+B-ORG,indika energyind,1
+B-ORG,indika energyindy2,1
+B-ORG,indo,15
+B-ORG,indo - pacific economic framework for prosperity,2
+B-ORG,indom,2
+B-ORG,indomie,1
+B-ORG,indoneis,1
+B-ORG,indonesia,87
+B-ORG,indonesia battery coorporation,1
+B-ORG,indonesia battery corporation,1
+B-ORG,indonesia battery holding,1
+B-ORG,indonesia net zero karbon,1
+B-ORG,indonesia tbk,3
+B-ORG,indonesia transport & infrastructure,1
+B-ORG,indonesia5,1
+B-ORG,indonesiaadro2,2
+B-ORG,indonesian,1
+B-ORG,indonusa,1
+B-ORG,indonusa tbk,1
+B-ORG,indrawati,1
+B-ORG,induk,1
+B-ORG,industri,9
+B-ORG,industri smelter nikel,1
+B-ORG,industrial,1
+B-ORG,indy,4
+B-ORG,indy ),1
+B-ORG,inggris,19
+B-ORG,ingkan lengan,2
+B-ORG,inisiasi,1
+B-ORG,initial public offering,1
+B-ORG,injection for,1
+B-ORG,inpres,2
+B-ORG,ins,7
+B-ORG,inspektur,2
+B-ORG,institusi,1
+B-ORG,institusibi,1
+B-ORG,institut ekonomi energi dan analisis keuangan atau,1
+B-ORG,institut teknologi bandung,3
+B-ORG,institute,11
+B-ORG,institute for development of economics,1
+B-ORG,institute for energy,1
+B-ORG,institute for energy economics and,1
+B-ORG,institute for energy economics and financial,1
+B-ORG,institute for energy economics and financial analysis,3
+B-ORG,institute for essential services reform,5
+B-ORG,institute5,1
+B-ORG,insyaallah,2
+B-ORG,integrated,1
+B-ORG,intel,5
+B-ORG,intent,12
+B-ORG,inter,5
+B-ORG,interim,2
+B-ORG,interkoneksi,2
+B-ORG,interm,3
+B-ORG,international,43
+B-ORG,international corporation,1
+B-ORG,international energy agency,8
+B-ORG,international monetary fund,1
+B-ORG,international renewable energy agency,2
+B-ORG,international tbk,1
+B-ORG,inti makmur,1
+B-ORG,investamafire621,1
+B-ORG,investamafire63,1
+B-ORG,investindo sekuritas,1
+B-ORG,investment bank kenamaan dunia,1
+B-ORG,investmentiata660,1
+B-ORG,investor,1
+B-ORG,ip,6
+B-ORG,ipef,4
+B-ORG,ipo,9
+B-ORG,ipod,1
+B-ORG,ir,4
+B-ORG,irena,2
+B-ORG,is,1
+B-ORG,isar 2,1
+B-ORG,isara,5
+B-ORG,isara vongkusolkit,1
+B-ORG,iskan,1
+B-ORG,ismail,1
+B-ORG,issp,1
+B-ORG,ist,12
+B-ORG,istaka,1
+B-ORG,istana,7
+B-ORG,istana kepresidenan,1
+B-ORG,it,6
+B-ORG,itb,3
+B-ORG,itmg,3
+B-ORG,itron,2
+B-ORG,iwaku,1
+B-ORG,j,5
+B-ORG,jabar,21
+B-ORG,jabodetabek,1
+B-ORG,jackson,1
+B-ORG,jaga,1
+B-ORG,jaime,1
+B-ORG,jakarta,4
+B-ORG,jalin,2
+B-ORG,jane,2
+B-ORG,januari,13
+B-ORG,januari 2022,1
+B-ORG,jap,1
+B-ORG,japan,1
+B-ORG,japan international cooperation agency,1
+B-ORG,japan oil,1
+B-ORG,japanese,1
+B-ORG,jaringan kelistrikan berteknologi,2
+B-ORG,jateng,2
+B-ORG,jatibarang field,1
+B-ORG,jatim,2
+B-ORG,java,2
+B-ORG,jawa barat,15
+B-ORG,jawa timur,7
+B-ORG,jawara,1
+B-ORG,jay,1
+B-ORG,jaya,6
+B-ORG,jb,1
+B-ORG,jcc,1
+B-ORG,jeblok,1
+B-ORG,jeff,2
+B-ORG,jen,6
+B-ORG,jenderal,6
+B-ORG,jenderal energi baru,1
+B-ORG,jennifer,1
+B-ORG,jens,1
+B-ORG,jepang,8
+B-ORG,jepara,1
+B-ORG,jer,2
+B-ORG,jerman,13
+B-ORG,jerome,2
+B-ORG,jh,2
+B-ORG,jht,1
+B-ORG,ji,1
+B-ORG,jica,2
+B-ORG,jiipe,3
+B-ORG,jil,2
+B-ORG,jin,8
+B-ORG,jisman,3
+B-ORG,jk,2
+B-ORG,jlu,1
+B-ORG,joe,4
+B-ORG,jogja,1
+B-ORG,jogmec,2
+B-ORG,jogmec on co2,1
+B-ORG,johnson,8
+B-ORG,join,3
+B-ORG,joint,13
+B-ORG,joko,16
+B-ORG,jokowi,65
+B-ORG,jon,21
+B-ORG,jonan,5
+B-ORG,jones,10
+B-ORG,jong,1
+B-ORG,jono,1
+B-ORG,jor -,1
+B-ORG,jordan,1
+B-ORG,jordania,2
+B-ORG,jorge,2
+B-ORG,jos,8
+B-ORG,jp,8
+B-ORG,jpmorgan,1
+B-ORG,js,4
+B-ORG,jsa,3
+B-ORG,jsmr,2
+B-ORG,juli,25
+B-ORG,jumbo,1
+B-ORG,juni,5
+B-ORG,juni 2022,1
+B-ORG,juru,3
+B-ORG,juru bicara tim kampanye nasional ( tkn ),2
+B-ORG,jurusan,1
+B-ORG,juta,3
+B-ORG,jv,9
+B-ORG,k,1
+B-ORG,kabinet,2
+B-ORG,kabinet indonesia maju,1
+B-ORG,kabupaten bulungan,1
+B-ORG,kadi,13
+B-ORG,kadin,2
+B-ORG,kadin indonesia,1
+B-ORG,kaget,1
+B-ORG,kai,1
+B-ORG,kais,1
+B-ORG,kaisar,1
+B-ORG,kajian,1
+B-ORG,kal,1
+B-ORG,kalimantan,1
+B-ORG,kalimantan utara,2
+B-ORG,kalla,1
+B-ORG,kalla group,1
+B-ORG,kaltim,3
+B-ORG,kam,2
+B-ORG,kamar dagang dan industri,1
+B-ORG,kamil,1
+B-ORG,kampung,6
+B-ORG,kampus,1
+B-ORG,kanal,1
+B-ORG,kang,7
+B-ORG,kanopi,1
+B-ORG,kans,1
+B-ORG,kanselir,5
+B-ORG,kantor,10
+B-ORG,kantor kementerian esdm,2
+B-ORG,kantor shopee,1
+B-ORG,kantor shopee solo,1
+B-ORG,kantor staf presiden,1
+B-ORG,kapolri,2
+B-ORG,karawang,1
+B-ORG,karbon,2
+B-ORG,karya,1
+B-ORG,karya perkasa,1
+B-ORG,kat,1
+B-ORG,kato,15
+B-ORG,katoda,5
+B-ORG,kawasan,11
+B-ORG,kayan,2
+B-ORG,kblbb,1
+B-ORG,kbri,1
+B-ORG,kc,2
+B-ORG,kebu,1
+B-ORG,kebun,1
+B-ORG,kebun angin,2
+B-ORG,kecamatan,10
+B-ORG,kedelai,1
+B-ORG,kedutaan,5
+B-ORG,kejaksaan,1
+B-ORG,kejar,7
+B-ORG,kek,1
+B-ORG,kelapa sawit,1
+B-ORG,kelas dunia,1
+B-ORG,kelompok,1
+B-ORG,kelurahan,1
+B-ORG,kemajuan peradaban,4
+B-ORG,kemen,10
+B-ORG,kemenkes,1
+B-ORG,kemenkeu,3
+B-ORG,kementerian,139
+B-ORG,kementerian bumn,1
+B-ORG,kementerian energi,4
+B-ORG,kementerian energi dan sumber daya mineral,2
+B-ORG,kementerian esdm,5
+B-ORG,kementerian esdm ri,1
+B-ORG,kementrian,2
+B-ORG,ken,2
+B-ORG,kendal,1
+B-ORG,kepala badan tenaga nuklir nasional,1
+B-ORG,kepala divisi energi,1
+B-ORG,kepala divisi statistik,1
+B-ORG,kepala ekonom,1
+B-ORG,kepala ekonom bank permata josua,1
+B-ORG,kepala energi dan ekstraktif global world bank,1
+B-ORG,kepala kajian lingkungan lembaga penyelidikan ekonomi dan masyarakat (,1
+B-ORG,kepala komunikasi korporat pln,2
+B-ORG,kepresidenan,1
+B-ORG,kepulauan,4
+B-ORG,kepulauan bangka belitung,3
+B-ORG,kepulauan riau,3
+B-ORG,kerajaan bisnis taipan kontroversial,1
+B-ORG,kerangka,2
+B-ORG,keraton mataram,1
+B-ORG,kerok,3
+B-ORG,kesatuan,3
+B-ORG,kesdm,1
+B-ORG,kesep,1
+B-ORG,keten,1
+B-ORG,keterbukaan,2
+B-ORG,keterbukaan informasi bursa efek indonesia,1
+B-ORG,ketua,11
+B-ORG,ketua forum b20 indonesia,2
+B-ORG,ketua gabungan pengusaha bioskop seluruh indonesia,1
+B-ORG,ketua himpunan alat berat indonesia,1
+B-ORG,ketua kebijakan publik ikatan ahli geologi indonesia,1
+B-ORG,ketua masyarakat energi terbarukan indonesia,1
+B-ORG,ketua umum asosiasi produsen listrik swasta indonesia,2
+B-ORG,ketua umum masyarakat energi terbarukan indonesia,1
+B-ORG,kevin,1
+B-ORG,key,2
+B-ORG,kha,1
+B-ORG,ki,1
+B-ORG,kik,1
+B-ORG,kil,3
+B-ORG,kilang balongan,1
+B-ORG,kiln,1
+B-ORG,kilo,2
+B-ORG,kim,2
+B-ORG,king,1
+B-ORG,kira,6
+B-ORG,kk,1
+B-ORG,kkks,2
+B-ORG,kkks ) minyak dan gas bumi ( migas ) pengelola wilayah kerja migas ( wk migas ) brantas,2
+B-ORG,kla,5
+B-ORG,klaten,3
+B-ORG,klhk,1
+B-ORG,km,4
+B-ORG,knott,1
+B-ORG,kob,1
+B-ORG,kocek,2
+B-ORG,kode,1
+B-ORG,koi,1
+B-ORG,kolaboratif,1
+B-ORG,kolaka,1
+B-ORG,kolektif,2
+B-ORG,kolombo,3
+B-ORG,kom,2
+B-ORG,komb,1
+B-ORG,komisaris independen pt unilever indonesia tbk,1
+B-ORG,komisaris utama pt perusahaan gas negara ( pgn ),1
+B-ORG,komisi,16
+B-ORG,komisi pembangunan dan reformasi nasional,1
+B-ORG,komisi vii,1
+B-ORG,komite,2
+B-ORG,kompak,4
+B-ORG,komunis,2
+B-ORG,komunitas,1
+B-ORG,kon,3
+B-ORG,konfederasi,1
+B-ORG,konfederasi industri bisnis,1
+B-ORG,konferensi,2
+B-ORG,konferensi pers,1
+B-ORG,kong,3
+B-ORG,kongres,11
+B-ORG,kongsi,1
+B-ORG,konsensus,1
+B-ORG,konservasi,1
+B-ORG,konsolidasi,1
+B-ORG,konsorsium,26
+B-ORG,konsorsium ap dan total eren s . a .,2
+B-ORG,konsorsium perusahaan listrik,11
+B-ORG,konsorsium total,6
+B-ORG,konsorsium total eren,12
+B-ORG,konstitusi,1
+B-ORG,konsultan,1
+B-ORG,kontraktor,2
+B-ORG,kontraktor kontrak kerjasama (,2
+B-ORG,kontraktor surya bay area,1
+B-ORG,kontras,1
+B-ORG,konvoi,2
+B-ORG,koordinasi,2
+B-ORG,koordinator,4
+B-ORG,koordinator bidang kemaritiman,2
+B-ORG,koordinator maritim,2
+B-ORG,koordinator perekonomian,2
+B-ORG,kopassus,1
+B-ORG,koperasi,6
+B-ORG,kordin,2
+B-ORG,kordinasi,2
+B-ORG,korea,3
+B-ORG,korea selatan,6
+B-ORG,korea utara,1
+B-ORG,korporasi,1
+B-ORG,kors,1
+B-ORG,korsel,1
+B-ORG,kospi,4
+B-ORG,kospi korea selatan,1
+B-ORG,kotin,2
+B-ORG,kp,1
+B-ORG,kpk,2
+B-ORG,kpr,2
+B-ORG,krakatau,15
+B-ORG,krakatau daya listrik,1
+B-ORG,krakatau sarana infrastruktur,1
+B-ORG,krakatau steel,6
+B-ORG,krakatau steel group,1
+B-ORG,kras,3
+B-ORG,krem,5
+B-ORG,kremlin,2
+B-ORG,krip,5
+B-ORG,kripto,2
+B-ORG,kristensen,1
+B-ORG,krw,1
+B-ORG,krw 500 miliar,1
+B-ORG,ks,3
+B-ORG,ksu,1
+B-ORG,ktr,4
+B-ORG,ktt,5
+B-ORG,kuartal,4
+B-ORG,kuartal i,1
+B-ORG,kuartal iii,3
+B-ORG,kuasai,1
+B-ORG,kup,1
+B-ORG,kurs,1
+B-ORG,kwh,12
+B-ORG,kwp,2
+B-ORG,ky,3
+B-ORG,kyoto,1
+B-ORG,kyu,1
+B-ORG,kyudenko corporation,1
+B-ORG,l,3
+B-ORG,la,16
+B-ORG,lab,1
+B-ORG,ladang angin,1
+B-ORG,lamhot,1
+B-ORG,langgar,1
+B-ORG,langkaterk,2
+B-ORG,lanka,1
+B-ORG,laos,1
+B-ORG,lap,10
+B-ORG,lapindo,47
+B-ORG,lapindo brantas,2
+B-ORG,lapindo brantas inc,2
+B-ORG,lar jakarta,1
+B-ORG,lead adviser,1
+B-ORG,leader,1
+B-ORG,leaders,1
+B-ORG,lebaran,2
+B-ORG,lee,1
+B-ORG,lee min,1
+B-ORG,lego,2
+B-ORG,lei,1
+B-ORG,lelang,1
+B-ORG,lembaga,15
+B-ORG,lembaga kajian energi,1
+B-ORG,lembaga kajian nusantara,1
+B-ORG,lembaga pemikir [unk] think tanks [unk] ember and agora energiewende,1
+B-ORG,lemhanas,3
+B-ORG,lestari,1
+B-ORG,leste,2
+B-ORG,letter of,12
+B-ORG,letter of intent,6
+B-ORG,lgbtq,1
+B-ORG,li,2
+B-ORG,liao,7
+B-ORG,lib,1
+B-ORG,lini,1
+B-ORG,lion,1
+B-ORG,liquid,1
+B-ORG,listing,1
+B-ORG,live,3
+B-ORG,lm,1
+B-ORG,lm graha dipta pulo gadung,1
+B-ORG,lng,5
+B-ORG,lo,2
+B-ORG,loa,3
+B-ORG,load,1
+B-ORG,logis,1
+B-ORG,london,2
+B-ORG,london metal exchange,2
+B-ORG,losers,1
+B-ORG,lpem ) fakultas ekonomi dan bisnis ui,1
+B-ORG,lpg,1
+B-ORG,ltj,14
+B-ORG,ltsh,2
+B-ORG,lu,4
+B-ORG,luc,9
+B-ORG,luh,16
+B-ORG,luh nyoman,1
+B-ORG,luhut,26
+B-ORG,lumpur,8
+B-ORG,lumpur lapindo,7
+B-ORG,lutzer,1
+B-ORG,lyman,2
+B-ORG,m,6
+B-ORG,m2,2
+B-ORG,ma,6
+B-ORG,mac,2
+B-ORG,macro,2
+B-ORG,mada,2
+B-ORG,made,2
+B-ORG,mae,1
+B-ORG,magnet,1
+B-ORG,mahar,2
+B-ORG,mahkamah,2
+B-ORG,mai,1
+B-ORG,majelis,1
+B-ORG,makin,2
+B-ORG,makmur,5
+B-ORG,malaya,1
+B-ORG,malea,2
+B-ORG,malik,2
+B-ORG,maluku,2
+B-ORG,maluku utara,1
+B-ORG,manag,2
+B-ORG,manager,1
+B-ORG,managers,1
+B-ORG,managing director australia,6
+B-ORG,managing director indonesia & cfo apac total,2
+B-ORG,manajemen,2
+B-ORG,manajemen investasi norges bank,1
+B-ORG,manajemen merpati,1
+B-ORG,manajer,1
+B-ORG,mandal,1
+B-ORG,mandar,1
+B-ORG,mandara,3
+B-ORG,mandiri,6
+B-ORG,mandiri investment forum,1
+B-ORG,mandiri sustainability forum 2022,1
+B-ORG,mandiri tbk,1
+B-ORG,manufacturing,1
+B-ORG,manusia,2
+B-ORG,mapp,1
+B-ORG,maret,17
+B-ORG,marga,4
+B-ORG,marga group,1
+B-ORG,marine,1
+B-ORG,maritim,2
+B-ORG,markas facebookfacebook,2
+B-ORG,market,2
+B-ORG,marquis energy,2
+B-ORG,marvel,1
+B-ORG,mas,4
+B-ORG,masdar,7
+B-ORG,masing,1
+B-ORG,masing -,1
+B-ORG,masjid,2
+B-ORG,massachusetts,1
+B-ORG,massachusetts institute of technology energy initiatives,1
+B-ORG,master,3
+B-ORG,masy,2
+B-ORG,masyarakat,11
+B-ORG,masyarakat energi terbarukan indonesia,2
+B-ORG,masyarakat ketenagalistrikan indonesia,4
+B-ORG,masyita,3
+B-ORG,masyita crystal,1
+B-ORG,matahari,7
+B-ORG,matra,1
+B-ORG,matte,2
+B-ORG,matthew,1
+B-ORG,mau,1
+B-ORG,may,3
+B-ORG,maya,1
+B-ORG,mbap,2
+B-ORG,mcb,1
+B-ORG,mcmohan,3
+B-ORG,mcmor,3
+B-ORG,mdka,2
+B-ORG,meat,1
+B-ORG,med,2
+B-ORG,medc,1
+B-ORG,medco,2
+B-ORG,mega,5
+B-ORG,megah,2
+B-ORG,megahit,2
+B-ORG,megahitm,1
+B-ORG,mei,19
+B-ORG,mei 2023,1
+B-ORG,meiloon,1
+B-ORG,mekanis,2
+B-ORG,meksiko,1
+B-ORG,melong,1
+B-ORG,memburuk,1
+B-ORG,memor,2
+B-ORG,men,8
+B-ORG,menakuti,1
+B-ORG,menara,1
+B-ORG,menilik,1
+B-ORG,menit,1
+B-ORG,menko,6
+B-ORG,menta,1
+B-ORG,mentari,1
+B-ORG,menteri,17
+B-ORG,menteri bumn,4
+B-ORG,menteri energi sumber daya mineral,1
+B-ORG,menteri kehakiman ri,1
+B-ORG,menteri keuangan,2
+B-ORG,mer,2
+B-ORG,merapi,1
+B-ORG,merapi timur,1
+B-ORG,merauke,1
+B-ORG,mercedes,3
+B-ORG,merdeka,2
+B-ORG,meri,2
+B-ORG,merpati,5
+B-ORG,merpati airlines,1
+B-ORG,merpati airlinespt,1
+B-ORG,merpati nusantara airlines,1
+B-ORG,mes,4
+B-ORG,mess,1
+B-ORG,met,2
+B-ORG,meta,5
+B-ORG,metals,1
+B-ORG,metatrader 4,1
+B-ORG,meti,5
+B-ORG,meti ),1
+B-ORG,metro jaya,1
+B-ORG,mg,1
+B-ORG,mh,1
+B-ORG,mi,4
+B-ORG,michael,5
+B-ORG,michelin,2
+B-ORG,microsoft,6
+B-ORG,midstream,2
+B-ORG,midstream gas,1
+B-ORG,mig,1
+B-ORG,migas,1
+B-ORG,milenia,1
+B-ORG,milestone penting,6
+B-ORG,miliar,21
+B-ORG,militer,1
+B-ORG,mina,6
+B-ORG,minarak,2
+B-ORG,minarak brantas gas,2
+B-ORG,minarak group,4
+B-ORG,mind,2
+B-ORG,mind id,3
+B-ORG,miner,3
+B-ORG,mineral,11
+B-ORG,minerals,2
+B-ORG,minerals indonesiaad,1
+B-ORG,minerba,3
+B-ORG,mines tbk,1
+B-ORG,ming,2
+B-ORG,mini,2
+B-ORG,ministrial talks,1
+B-ORG,minutes,2
+B-ORG,mir,1
+B-ORG,mira,3
+B-ORG,mirae,1
+B-ORG,mit,6
+B-ORG,mitei,1
+B-ORG,mitigasi,2
+B-ORG,mitra,12
+B-ORG,mitra -,2
+B-ORG,mitrabara,4
+B-ORG,mitrabara adiperdanambap6,1
+B-ORG,mits,2
+B-ORG,mitsui,4
+B-ORG,mitsui & co ltd,1
+B-ORG,miz,1
+B-ORG,mk,2
+B-ORG,mki,3
+B-ORG,ml,2
+B-ORG,mlj,6
+B-ORG,mm2,1
+B-ORG,mmsc,2
+B-ORG,mn,4
+B-ORG,mna,1
+B-ORG,mnc,4
+B-ORG,modern,1
+B-ORG,mohamed,2
+B-ORG,mohammed,1
+B-ORG,momo,1
+B-ORG,mon,1
+B-ORG,monas,23
+B-ORG,monasit,12
+B-ORG,money,1
+B-ORG,mons,1
+B-ORG,moody [unk] s investors service,2
+B-ORG,moon,1
+B-ORG,morgan,2
+B-ORG,morrison,1
+B-ORG,moskow,2
+B-ORG,mou,12
+B-ORG,mozambik,1
+B-ORG,mpada,2
+B-ORG,mpers,1
+B-ORG,ms,1
+B-ORG,mt,2
+B-ORG,mu,2
+B-ORG,muara,3
+B-ORG,muara enim,3
+B-ORG,mub,1
+B-ORG,mubadala,2
+B-ORG,muhammad,2
+B-ORG,multi,2
+B-ORG,multi bintang indonesia,1
+B-ORG,mulya,1
+B-ORG,mulyana,1
+B-ORG,mulyani,4
+B-ORG,mumbai,2
+B-ORG,munich,1
+B-ORG,mur,1
+B-ORG,murashov,1
+B-ORG,muri,2
+B-ORG,musk,1
+B-ORG,muslim,1
+B-ORG,musta,2
+B-ORG,mustaq,6
+B-ORG,mustiko,6
+B-ORG,mut,1
+B-ORG,mw,13
+B-ORG,mwp,1
+B-ORG,mwp - 1,1
+B-ORG,my,1
+B-ORG,n,1
+B-ORG,nabi,1
+B-ORG,naga iid,2
+B-ORG,nakuti,1
+B-ORG,nangka,2
+B-ORG,nantong,1
+B-ORG,nas,12
+B-ORG,nasa,1
+B-ORG,nasdaq,19
+B-ORG,nasdaq - 100,1
+B-ORG,nasdaq composite,1
+B-ORG,nasdaq composite ambrol,1
+B-ORG,nasional,10
+B-ORG,nathan,1
+B-ORG,national,5
+B-ORG,national association of federally -,1
+B-ORG,national corporation,1
+B-ORG,nationally,1
+B-ORG,nationally determined contribution,1
+B-ORG,nationally determined contributions,1
+B-ORG,nato,6
+B-ORG,navar,2
+B-ORG,nbc,1
+B-ORG,nd,3
+B-ORG,ndc,4
+B-ORG,ndrc,1
+B-ORG,neckarwestheim ii,1
+B-ORG,negara maju,1
+B-ORG,negeri,1
+B-ORG,negeri beruang merah,2
+B-ORG,negeri kincir angin,1
+B-ORG,nelangsa,1
+B-ORG,neo,15
+B-ORG,neo mustaqbal,1
+B-ORG,neom,3
+B-ORG,neom city,1
+B-ORG,nest,1
+B-ORG,net,31
+B-ORG,net sell,1
+B-ORG,net zero,4
+B-ORG,netflix,2
+B-ORG,network,1
+B-ORG,new,3
+B-ORG,new delhi,1
+B-ORG,new york,1
+B-ORG,newcastle,6
+B-ORG,news,6
+B-ORG,next,2
+B-ORG,nextera energy,2
+B-ORG,ngarai,1
+B-ORG,ngawi,2
+B-ORG,nge,1
+B-ORG,ngo,3
+B-ORG,ngobro,1
+B-ORG,ngurah,1
+B-ORG,ni green energy,1
+B-ORG,nick,7
+B-ORG,nicke,3
+B-ORG,nif,3
+B-ORG,nif dan,5
+B-ORG,nif danusaputro,2
+B-ORG,nih,3
+B-ORG,nike,2
+B-ORG,nikkei,3
+B-ORG,nilai,2
+B-ORG,nina,6
+B-ORG,ning,1
+B-ORG,nippon,1
+B-ORG,nir,1
+B-ORG,nmib,1
+B-ORG,no,6
+B-ORG,nol,2
+B-ORG,nol persen,2
+B-ORG,non,1
+B-ORG,nord,6
+B-ORG,nord stream,1
+B-ORG,nordik,6
+B-ORG,north carolina,2
+B-ORG,northstar,1
+B-ORG,norwegia,1
+B-ORG,november,2
+B-ORG,novyan,1
+B-ORG,np,2
+B-ORG,npb,1
+B-ORG,nr,27
+B-ORG,nre,6
+B-ORG,ntt,13
+B-ORG,nucle,1
+B-ORG,nuh,1
+B-ORG,nuklir,3
+B-ORG,nung,1
+B-ORG,nusa,20
+B-ORG,nusa dua bali,1
+B-ORG,nusa tenggara,5
+B-ORG,nusantara infrastruktur,1
+B-ORG,nuscale,2
+B-ORG,nv,4
+B-ORG,nvidia,13
+B-ORG,ny,2
+B-ORG,nyar,1
+B-ORG,nyonya meneer,2
+B-ORG,nz,2
+B-ORG,nze,1
+B-ORG,o,1
+B-ORG,obama,1
+B-ORG,oc,2
+B-ORG,oceanix,1
+B-ORG,off,1
+B-ORG,offshore,1
+B-ORG,og,1
+B-ORG,oj,1
+B-ORG,ojk,2
+B-ORG,oket,1
+B-ORG,oktober,1
+B-ORG,olaf,1
+B-ORG,oliv,1
+B-ORG,omi,1
+B-ORG,omn,1
+B-ORG,one,3
+B-ORG,onesia,3
+B-ORG,ono,2
+B-ORG,onto,2
+B-ORG,op,1
+B-ORG,opec,1
+B-ORG,open,2
+B-ORG,open market,1
+B-ORG,operation,1
+B-ORG,or,2
+B-ORG,orb,4
+B-ORG,orban,1
+B-ORG,ore,1
+B-ORG,organisasi,3
+B-ORG,organisasi negara - negara pengekspor minyak,1
+B-ORG,origin energy,1
+B-ORG,oscar,2
+B-ORG,oslo,1
+B-ORG,oto,1
+B-ORG,otoritas,4
+B-ORG,outloo,1
+B-ORG,over,5
+B-ORG,overseas,1
+B-ORG,ox,8
+B-ORG,oxford,1
+B-ORG,p,2
+B-ORG,p 500,1
+B-ORG,p3gl,1
+B-ORG,pab,9
+B-ORG,pabrik,3
+B-ORG,pabrik brokdorf,1
+B-ORG,pabrik gasifikasi batu bara ri,1
+B-ORG,pacific,8
+B-ORG,pacific timber,1
+B-ORG,padang,2
+B-ORG,padi,2
+B-ORG,pak,3
+B-ORG,pakar energi,2
+B-ORG,paku,2
+B-ORG,pal,3
+B-ORG,palangka,1
+B-ORG,paman,1
+B-ORG,paman sam,1
+B-ORG,pamer,1
+B-ORG,pan,4
+B-ORG,pan brothers,1
+B-ORG,panas,6
+B-ORG,panas bumi,5
+B-ORG,pandu,3
+B-ORG,panel,3
+B-ORG,pangk,3
+B-ORG,pangkalan nato,1
+B-ORG,paniai,2
+B-ORG,panjaitan,1
+B-ORG,pantai,4
+B-ORG,pap,6
+B-ORG,papua,13
+B-ORG,para,2
+B-ORG,parah,1
+B-ORG,paripurna,2
+B-ORG,paris,10
+B-ORG,parlemen,4
+B-ORG,partai,8
+B-ORG,partner,2
+B-ORG,party,1
+B-ORG,pas,1
+B-ORG,pasar,14
+B-ORG,pasar saham rapuh,1
+B-ORG,pasukan,1
+B-ORG,pat,2
+B-ORG,pati,1
+B-ORG,paul,2
+B-ORG,pbb,10
+B-ORG,pbb antonio,1
+B-ORG,pd,1
+B-ORG,peace,1
+B-ORG,peak,7
+B-ORG,pedia tbk,1
+B-ORG,peh,1
+B-ORG,pejuang,9
+B-ORG,pekan,8
+B-ORG,pekerja,1
+B-ORG,pekerja indonesia,1
+B-ORG,pel,1
+B-ORG,pelabuhan,3
+B-ORG,pelan2,1
+B-ORG,pelat,3
+B-ORG,pele,5
+B-ORG,pem,1
+B-ORG,pemberi,1
+B-ORG,pembibitan,1
+B-ORG,pemda,1
+B-ORG,pemegang,1
+B-ORG,pemerintah,106
+B-ORG,pemerintah china,1
+B-ORG,pemerintah indonesia,2
+B-ORG,pemerintahan,5
+B-ORG,pemimpin,3
+B-ORG,pemkab,2
+B-ORG,pemping,1
+B-ORG,pendiri,1
+B-ORG,peng,2
+B-ORG,pengadilan,2
+B-ORG,pengawas energi,1
+B-ORG,pengelola wilayah kerja migas brantas,2
+B-ORG,pengembang listrik swasta,1
+B-ORG,pengendali,1
+B-ORG,penggemukan,1
+B-ORG,pengu,1
+B-ORG,pep,2
+B-ORG,perancis,1
+B-ORG,perang,4
+B-ORG,perbankan,1
+B-ORG,percepat,6
+B-ORG,percepatan,4
+B-ORG,peri,1
+B-ORG,peritel fashion,1
+B-ORG,perkasa,7
+B-ORG,perkebunan,3
+B-ORG,permata5,1
+B-ORG,perpres,2
+B-ORG,perry,7
+B-ORG,persatuan,1
+B-ORG,perserikatan,2
+B-ORG,perserikatan bangsa,1
+B-ORG,perserikatan bangsa - bangsa,1
+B-ORG,perserikatan bangsa bangsa,1
+B-ORG,persero,59
+B-ORG,perseroan,47
+B-ORG,pertahanan,2
+B-ORG,pertamina,235
+B-ORG,pertamina advertisement,1
+B-ORG,pertamina capai,1
+B-ORG,pertamina energy webinar 2020,1
+B-ORG,pertamina geothermal energy,2
+B-ORG,pertamina group,1
+B-ORG,pertamina inc,1
+B-ORG,pertamina new & renewable energy,1
+B-ORG,pertamina nre,11
+B-ORG,pertamina power indonesia,6
+B-ORG,pertamina smexpo,1
+B-ORG,pertanian,5
+B-ORG,perti,5
+B-ORG,pertukaran,2
+B-ORG,perubahanbumi,1
+B-ORG,perubahanindo tambangraya megahitmg34 . 275,1
+B-ORG,perusahaan,6
+B-ORG,perusahaan batu bara,1
+B-ORG,perusahaan energi hijau,1
+B-ORG,perusahaan gas rusia,1
+B-ORG,perusahaan holding,1
+B-ORG,perusahaan jaringan negara,1
+B-ORG,perusahaan konstruksi,1
+B-ORG,perusahaan listrik negara,1
+B-ORG,perusahaan migas,2
+B-ORG,perusahaan migas dunia,1
+B-ORG,perusahaan minyak dan gas,1
+B-ORG,perusahaan pertambangan emas dan tembaga,2
+B-ORG,perusahaan setrum negara,6
+B-ORG,peta,2
+B-ORG,peter,3
+B-ORG,petro,2
+B-ORG,petrobras,1
+B-ORG,petrochina,1
+B-ORG,petron,1
+B-ORG,petronas,1
+B-ORG,pf,2
+B-ORG,pg,15
+B-ORG,pge,4
+B-ORG,pgeo,2
+B-ORG,pgn,2
+B-ORG,pgn tbk,1
+B-ORG,pgr,15
+B-ORG,ph,19
+B-ORG,philadelphia,1
+B-ORG,philip,1
+B-ORG,phk,2
+B-ORG,phri,1
+B-ORG,phu,1
+B-ORG,pico,1
+B-ORG,pie,2
+B-ORG,pilot,5
+B-ORG,pin,1
+B-ORG,pindad,2
+B-ORG,pip,1
+B-ORG,pipa,1
+B-ORG,pipe industries,2
+B-ORG,pipeline,1
+B-ORG,pj,11
+B-ORG,pjb,2
+B-ORG,pjs,1
+B-ORG,pjs .,1
+B-ORG,pju,20
+B-ORG,pju - ts,6
+B-ORG,pjuts,4
+B-ORG,pkt,1
+B-ORG,pla,1
+B-ORG,plat,1
+B-ORG,ple,3
+B-ORG,pln,321
+B-ORG,pln . co . id,1
+B-ORG,pln gas,1
+B-ORG,pln nusantara,2
+B-ORG,pltn,1
+B-ORG,pm,17
+B-ORG,pmi,6
+B-ORG,pn,5
+B-ORG,pnre,4
+B-ORG,po,1
+B-ORG,pokphand,1
+B-ORG,polda,2
+B-ORG,polen,1
+B-ORG,polis,5
+B-ORG,politico,1
+B-ORG,politisi,1
+B-ORG,pondera,8
+B-ORG,pondera development bv,6
+B-ORG,portofolio & pengembangan usaha pt pertamina ( persero ),1
+B-ORG,pos,1
+B-ORG,pos indonesia,3
+B-ORG,post,1
+B-ORG,pound,3
+B-ORG,powell,2
+B-ORG,power,7
+B-ORG,power indonesia,3
+B-ORG,pp,13
+B-ORG,ppi,13
+B-ORG,pr,4
+B-ORG,prabowo,2
+B-ORG,praj,1
+B-ORG,prajogo,1
+B-ORG,pram,1
+B-ORG,prancis,10
+B-ORG,prasodjo,13
+B-ORG,pratama,1
+B-ORG,pre,2
+B-ORG,pres,1
+B-ORG,presiden,163
+B-ORG,presiden direktur,2
+B-ORG,presiden direktur & ceo bnbr,1
+B-ORG,presiden direktur [unk],1
+B-ORG,presiden direktur adaro energy,1
+B-ORG,presiden direktur adaro power,2
+B-ORG,presiden direktur barito pasific,2
+B-ORG,presiden fspmi,1
+B-ORG,presiden inter milan,2
+B-ORG,presiden republik indonesia,1
+B-ORG,presiden ri,8
+B-ORG,presiden xi,1
+B-ORG,presiden xi jinping,1
+B-ORG,presidensi,2
+B-ORG,president,9
+B-ORG,president ge global growth,2
+B-ORG,president women in nuclear indonesia,1
+B-ORG,prima,11
+B-ORG,prm,1
+B-ORG,proc,2
+B-ORG,producer,1
+B-ORG,production,2
+B-ORG,profesor,2
+B-ORG,program,1
+B-ORG,progresif,1
+B-ORG,project,3
+B-ORG,prom,4
+B-ORG,prote,2
+B-ORG,prov,2
+B-ORG,prov jabar,1
+B-ORG,proven reserve minyak bumi,1
+B-ORG,provinsi,17
+B-ORG,provinsi dki,1
+B-ORG,provinsi guangdong,1
+B-ORG,proyek strategis nasional,1
+B-ORG,psb,4
+B-ORG,psn,2
+B-ORG,pssi,1
+B-ORG,pt,449
+B-ORG,pt abm investama tbk,1
+B-ORG,pt ada,1
+B-ORG,pt adaro energy indonesia tbk,25
+B-ORG,pt adaro energy tbk,3
+B-ORG,pt adaro minerals indonesia tbk,1
+B-ORG,pt adaro power,39
+B-ORG,pt amman mineral nusa tenggara,2
+B-ORG,pt aneka tambang tbk,2
+B-ORG,pt arkora hydro tbk,1
+B-ORG,pt arutmin indonesia,1
+B-ORG,pt astra honda motor,1
+B-ORG,pt astra international tbk,1
+B-ORG,pt astrindo nusantara infrastruktur tbk,1
+B-ORG,pt asuransi jiwa,1
+B-ORG,pt baja,1
+B-ORG,pt bakrie & brothers tbk,3
+B-ORG,pt bank,3
+B-ORG,pt bank anz,1
+B-ORG,pt bank btpn tbk,1
+B-ORG,pt bank central asia,1
+B-ORG,pt bank ganesha tbk,1
+B-ORG,pt bank harda internasional tbk,1
+B-ORG,pt bank mandiri tbk,1
+B-ORG,pt bank negara,1
+B-ORG,pt bank negara indonesia ( persero ) tbk,1
+B-ORG,pt bank negara indonesia tbk,1
+B-ORG,pt bank permata tbk,1
+B-ORG,pt bank rakyat indonesia ( persero ) tbk,1
+B-ORG,pt bank rakyat indonesia tbk,1
+B-ORG,pt bank sumitomo mitsui indonesia,1
+B-ORG,pt barata,2
+B-ORG,pt barito pacific tbk,3
+B-ORG,pt bayan resources,1
+B-ORG,pt bayan resources tbk,3
+B-ORG,pt bukit,1
+B-ORG,pt bukit asam tbk,7
+B-ORG,pt bukit energi investama,1
+B-ORG,pt bumi,1
+B-ORG,pt bumi resources tbk,4
+B-ORG,pt cahayaputra,1
+B-ORG,pt cirebon,1
+B-ORG,pt dian swastatika sentosa tbk .,1
+B-ORG,pt freeport indonesia,15
+B-ORG,pt geo dipa energi,1
+B-ORG,pt geo dipa energi ( persero,1
+B-ORG,pt geo dipa energy,2
+B-ORG,pt global mediacom tbk,1
+B-ORG,pt gs battery semarang,1
+B-ORG,pt gunbuster nickel industry,1
+B-ORG,pt harum energy tbk,1
+B-ORG,pt hotel mandarine regency tbk,1
+B-ORG,pt inalum ( persero ),1
+B-ORG,pt indika energy tbk,1
+B-ORG,pt indo tambang,1
+B-ORG,pt indonesia,1
+B-ORG,pt indonesia asahan,1
+B-ORG,pt indonesia infrastructure finance,1
+B-ORG,pt indonesia power,2
+B-ORG,pt industri baterai indonesia,1
+B-ORG,pt industri telekomunikasi indonesia,2
+B-ORG,pt jababeka infrastruktur,1
+B-ORG,pt kencana energi lestari tbk,3
+B-ORG,pt krakatau steel ( persero ) tbk,3
+B-ORG,pt medco energi internasional tbk,2
+B-ORG,pt medco power indonesia,1
+B-ORG,pt meiloon technology,1
+B-ORG,pt merdeka copper gold tbk,1
+B-ORG,pt merpati nusantara airlines,1
+B-ORG,pt nyonya meneer,2
+B-ORG,pt oscar mitra sukses sejahtera tbk,1
+B-ORG,pt pabrik kertas tjiwi kimia,1
+B-ORG,pt paiton energy,1
+B-ORG,pt pan brothers tbk,1
+B-ORG,pt pelangi indah canindo tbk,1
+B-ORG,pt pembangkit jawa bali,1
+B-ORG,pt pembangkitan jawa bali,2
+B-ORG,pt pertamina,5
+B-ORG,pt pertamina ( persero,1
+B-ORG,pt pertamina ( persero ),18
+B-ORG,pt pertamina geothermal energy tbk,1
+B-ORG,pt pertamina new & renewable energy,1
+B-ORG,pt pertamina power indonesia,6
+B-ORG,pt perusahaan listrik negara,2
+B-ORG,pt perusahaan listrik negara ( pln,1
+B-ORG,pt pln,37
+B-ORG,pt pln ( persero,10
+B-ORG,pt pln ( persero ),82
+B-ORG,pt pln gas & geothermal,1
+B-ORG,pt pln persero,1
+B-ORG,pt prakarsa brantas,2
+B-ORG,pt pupuk kalimantan timur,1
+B-ORG,pt rukun raharja tbk,1
+B-ORG,pt sarana multi infrastruktur,2
+B-ORG,pt sarana multi infrastruktur ( persero,1
+B-ORG,pt sarana multi infrastruktur ( persero ),3
+B-ORG,pt sarana multi infrastruktur /,1
+B-ORG,pt schroder investment management indonesia,1
+B-ORG,pt smi,3
+B-ORG,pt steel pipe industry of indonesia tbk,1
+B-ORG,pt tamaris hidro,2
+B-ORG,pt tbs energi utama tbk,5
+B-ORG,pt telekomunikasi indonesia tbk,2
+B-ORG,pt telkom indonesia ( persero ) tbk,2
+B-ORG,pt terregra asia energy tbk,1
+B-ORG,pt timah,6
+B-ORG,pt timah tbk,6
+B-ORG,pt toba bara sejahtra tbk,1
+B-ORG,pt transportasi,1
+B-ORG,pt vktr teknologi mobilitas,1
+B-ORG,pt waskita karya ( persero ) tbk,1
+B-ORG,pt widodo makmur,1
+B-ORG,pt widodo makmur perkasa,2
+B-ORG,"pt widodo makmur perkasa , tbk",1
+B-ORG,pt widodo makmur perkasa tbk,3
+B-ORG,pt wijaya,1
+B-ORG,pta,1
+B-ORG,ptba,51
+B-ORG,ptba da hdf energy,2
+B-ORG,ptbaarsal,2
+B-ORG,pte,1
+B-ORG,ptfi,15
+B-ORG,ptpp,2
+B-ORG,ptt,4
+B-ORG,ptt group,1
+B-ORG,ptt mining ltd hongkong,1
+B-ORG,pttml,2
+B-ORG,pu,1
+B-ORG,public,6
+B-ORG,publik,2
+B-ORG,pukul,1
+B-ORG,pulau,2
+B-ORG,pulau batam,1
+B-ORG,puncak,1
+B-ORG,pundak,1
+B-ORG,pung,1
+B-ORG,pup,1
+B-ORG,pupr,2
+B-ORG,pupuk kaltim,1
+B-ORG,pus,2
+B-ORG,pusat,15
+B-ORG,pusat data,3
+B-ORG,putera,1
+B-ORG,putin,10
+B-ORG,putin siaga,1
+B-ORG,putra,2
+B-ORG,pw,1
+B-ORG,pwc indonesia,1
+B-ORG,q,1
+B-ORG,qin,2
+B-ORG,qnb indonesia,1
+B-ORG,quan,1
+B-ORG,quick,1
+B-ORG,quinlan,2
+B-ORG,r,1
+B-ORG,ra,20
+B-ORG,rad,2
+B-ORG,radius,2
+B-ORG,rah,6
+B-ORG,raharja tbk,1
+B-ORG,rai,1
+B-ORG,raja,11
+B-ORG,rak,1
+B-ORG,rakasas,1
+B-ORG,rakor,1
+B-ORG,raksasa,2
+B-ORG,raksasa energi,1
+B-ORG,rakyat,5
+B-ORG,rakyat indonesia tbk,1
+B-ORG,ral,1
+B-ORG,rama,3
+B-ORG,ramadan,1
+B-ORG,ramadhan,2
+B-ORG,ramesh,1
+B-ORG,rapat,1
+B-ORG,rappang,7
+B-ORG,rare,6
+B-ORG,rare earth,6
+B-ORG,rare earth element,18
+B-ORG,ras,5
+B-ORG,ratih,5
+B-ORG,ratna,1
+B-ORG,ratu,4
+B-ORG,ratu elizabeth,2
+B-ORG,ray,3
+B-ORG,rb,7
+B-ORG,rba,5
+B-ORG,rdg,1
+B-ORG,reagan,2
+B-ORG,real,1
+B-ORG,rebut tambang,3
+B-ORG,rec,3
+B-ORG,recna,1
+B-ORG,recovery,1
+B-ORG,recycle,2
+B-ORG,red,1
+B-ORG,redaksiakuisisi,2
+B-ORG,redaksiekspor bauksit,1
+B-ORG,redaksiesdm,2
+B-ORG,redaksigan,2
+B-ORG,redaksikia,1
+B-ORG,redaksiluhut,1
+B-ORG,redaksipa,1
+B-ORG,redaksipenerimaan migas,1
+B-ORG,redaksipertalite,1
+B-ORG,redaksipol,1
+B-ORG,redaksiprabowo,1
+B-ORG,redaksirealis,1
+B-ORG,redaksivale indonesia,1
+B-ORG,ree,2
+B-ORG,ref,8
+B-ORG,refini,1
+B-ORG,refinitiv,2
+B-ORG,refinitivbac,1
+B-ORG,reformasi,3
+B-ORG,regional,3
+B-ORG,regional legok nangka,1
+B-ORG,rekind,1
+B-ORG,reliance sekuritas indonesia,1
+B-ORG,remdes,1
+B-ORG,rene,2
+B-ORG,renewa,5
+B-ORG,renewable energy,2
+B-ORG,renewable energy create jobs,1
+B-ORG,renewable energy engineering institute,1
+B-ORG,republik,2
+B-ORG,republik indonesia,5
+B-ORG,res,26
+B-ORG,research,7
+B-ORG,reserve,9
+B-ORG,reserve bank of australia,1
+B-ORG,resesi,1
+B-ORG,resume,16
+B-ORG,resume content,7
+B-ORG,ret,1
+B-ORG,reut,61
+B-ORG,reutersdo,1
+B-ORG,revolusi industri,2
+B-ORG,ri,45
+B-ORG,riak,2
+B-ORG,riau,1
+B-ORG,rida,2
+B-ORG,ridwan,3
+B-ORG,rini,4
+B-ORG,ris,1
+B-ORG,riset,1
+B-ORG,riyal,1
+B-ORG,rizal,1
+B-ORG,rk,2
+B-ORG,rn,1
+B-ORG,robert,5
+B-ORG,rokan,2
+B-ORG,roll,2
+B-ORG,rosa,6
+B-ORG,rosatom,2
+B-ORG,rotary,1
+B-ORG,rotterdam,2
+B-ORG,roy,6
+B-ORG,rp,40
+B-ORG,rp 1,2
+B-ORG,rp 536,1
+B-ORG,rp 56 triliun,1
+B-ORG,rr,1
+B-ORG,rre,5
+B-ORG,rs,6
+B-ORG,rs covid - 19,1
+B-ORG,rt,10
+B-ORG,rtisaham,2
+B-ORG,ru ) vi balongan,1
+B-ORG,rub,1
+B-ORG,rudi,1
+B-ORG,ruen,1
+B-ORG,ruf,2
+B-ORG,rukun,1
+B-ORG,rum1,1
+B-ORG,rumah,1
+B-ORG,rup,2
+B-ORG,rupslb ) pt bank rakyat indonesia tbk,1
+B-ORG,rusia,2
+B-ORG,russia today,2
+B-ORG,ruu,2
+B-ORG,rw,1
+B-ORG,rwe,1
+B-ORG,rweg . de,1
+B-ORG,s & p,1
+B-ORG,s & p 500,6
+B-ORG,sabang,1
+B-ORG,sacha winzenried,1
+B-ORG,safety,1
+B-ORG,sahara,1
+B-ORG,sai,1
+B-ORG,saint petersburg,1
+B-ORG,sakura,1
+B-ORG,salah,9
+B-ORG,salam,1
+B-ORG,salem,1
+B-ORG,salim,2
+B-ORG,saluran,1
+B-ORG,salyadi,2
+B-ORG,sam,8
+B-ORG,sama,1
+B-ORG,sami,4
+B-ORG,sampoerna,1
+B-ORG,sana,2
+B-ORG,saputra,2
+B-ORG,saras,2
+B-ORG,sard,1
+B-ORG,sas,1
+B-ORG,satria,2
+B-ORG,satuan,1
+B-ORG,satya,3
+B-ORG,saudi aramco,1
+B-ORG,sbn,1
+B-ORG,sbu,1
+B-ORG,sbw,3
+B-ORG,scale co2 -,1
+B-ORG,scan,2
+B-ORG,scbd,1
+B-ORG,science,3
+B-ORG,scott,2
+B-ORG,scr,24
+B-ORG,scroll,16
+B-ORG,scroll to,4
+B-ORG,sd,4
+B-ORG,sdg,1
+B-ORG,sdg indonesia,1
+B-ORG,sdg indonesia one,1
+B-ORG,sea,2
+B-ORG,sea group,1
+B-ORG,seapi,1
+B-ORG,seas,1
+B-ORG,sec,1
+B-ORG,secret,1
+B-ORG,secretary,2
+B-ORG,segi engineering,1
+B-ORG,segitiga,1
+B-ORG,sei,1
+B-ORG,seia,2
+B-ORG,sejam,1
+B-ORG,sekjen,1
+B-ORG,sekjen asosiasi serat dan benang filament indonesia,1
+B-ORG,sekolah,3
+B-ORG,sekolah tinggi teknik ( stt ) pln,1
+B-ORG,sekretaris,4
+B-ORG,sekretaris jenderal,1
+B-ORG,sekretaris jenderal kementerian energi dan sumber daya mineral,2
+B-ORG,sekretaris perusahaan,2
+B-ORG,sekretaris perusahaan minarak group,2
+B-ORG,sekretaris perusahaan mind id,1
+B-ORG,sekretaris perusahaan pt bumi resources tbk,1
+B-ORG,sekretaris perusahaan pt timah,3
+B-ORG,sektor,6
+B-ORG,sektor energi,1
+B-ORG,sektor ketenagalistrikan,2
+B-ORG,sektor mineral,1
+B-ORG,sektor pertanian,2
+B-ORG,selat,1
+B-ORG,semarang,2
+B-ORG,semen indonesia,1
+B-ORG,semen indonesia group,2
+B-ORG,semenanjung,1
+B-ORG,semester,1
+B-ORG,seminar,2
+B-ORG,sempra,2
+B-ORG,sen,6
+B-ORG,sento,1
+B-ORG,sentot,1
+B-ORG,sentra,1
+B-ORG,sentral,1
+B-ORG,sentul,1
+B-ORG,sep,2
+B-ORG,separuh,1
+B-ORG,september,3
+B-ORG,september 2022,1
+B-ORG,serikat,2
+B-ORG,serikat pekerja automotif dan komponen,1
+B-ORG,sesi,6
+B-ORG,set,2
+B-ORG,setahu,1
+B-ORG,setengah,1
+B-ORG,seto,1
+B-ORG,setoran,4
+B-ORG,sev,1
+B-ORG,shang,1
+B-ORG,shanghai,7
+B-ORG,shanghai composit,1
+B-ORG,shanghai composite china,2
+B-ORG,share,4
+B-ORG,sheikh,2
+B-ORG,shell,5
+B-ORG,shen,4
+B-ORG,shin,1
+B-ORG,shine,1
+B-ORG,shu,1
+B-ORG,sido,1
+B-ORG,sidoarjo,5
+B-ORG,sidrap [,2
+B-ORG,sidrap tahap,7
+B-ORG,sidrapset,7
+B-ORG,siemens,8
+B-ORG,sig,2
+B-ORG,sig ),1
+B-ORG,silicon valley bank,2
+B-ORG,silmy,12
+B-ORG,sima,16
+B-ORG,simak,1
+B-ORG,simon,1
+B-ORG,sin,1
+B-ORG,sinar,1
+B-ORG,singapore,3
+B-ORG,singapura,1
+B-ORG,sinkronisasi,1
+B-ORG,sinovacm,1
+B-ORG,sio,1
+B-ORG,sk,1
+B-ORG,skotlandia,2
+B-ORG,sl,1
+B-ORG,sm,51
+B-ORG,small,1
+B-ORG,smart,2
+B-ORG,smbc,3
+B-ORG,smdr,1
+B-ORG,smel,2
+B-ORG,smelter,11
+B-ORG,smelter ) tembaga,1
+B-ORG,smelter nikel pt gni,1
+B-ORG,smelter pt amman mineral nusa tenggara,2
+B-ORG,smi,13
+B-ORG,smi ( persero,1
+B-ORG,smi export empowerment & development,1
+B-ORG,smv,1
+B-ORG,sobat cuan,2
+B-ORG,soe,3
+B-ORG,soehanna hall the energy building scbd,1
+B-ORG,soekarno hatta,2
+B-ORG,soekiman,1
+B-ORG,soem,1
+B-ORG,soemarno,1
+B-ORG,softbank investasi mobil listrikmasayoshi,1
+B-ORG,solar energy industries association,1
+B-ORG,solid,1
+B-ORG,solo,1
+B-ORG,som,1
+B-ORG,somalia,1
+B-ORG,south,2
+B-ORG,sp,3
+B-ORG,spa,1
+B-ORG,spamk,1
+B-ORG,spanyol,3
+B-ORG,special,1
+B-ORG,spi,1
+B-ORG,spider,4
+B-ORG,split,1
+B-ORG,splu,2
+B-ORG,spotify,5
+B-ORG,squawk,1
+B-ORG,sri,13
+B-ORG,sri lanka,2
+B-ORG,sri mulya,1
+B-ORG,sri mulyani,5
+B-ORG,srivastava,1
+B-ORG,ss,1
+B-ORG,ssion,2
+B-ORG,sta,1
+B-ORG,stab,1
+B-ORG,stabil,2
+B-ORG,staf,3
+B-ORG,staf ahli menteri energi sumber daya mineral,1
+B-ORG,staf khusus menteri energi dan sumber daya mineral,1
+B-ORG,stagn,1
+B-ORG,stan,1
+B-ORG,standard,2
+B-ORG,stanley,1
+B-ORG,star,18
+B-ORG,star energy,5
+B-ORG,star energy geothermal,2
+B-ORG,star energy geothermal group,1
+B-ORG,starbucks,1
+B-ORG,staregis,2
+B-ORG,stars,1
+B-ORG,startup,1
+B-ORG,stasiun,1
+B-ORG,steel,12
+B-ORG,stephan,1
+B-ORG,steve,1
+B-ORG,steven,1
+B-ORG,sti,2
+B-ORG,stoltenberg,2
+B-ORG,stor,1
+B-ORG,stoxx,1
+B-ORG,strait,1
+B-ORG,strait times,1
+B-ORG,straits,2
+B-ORG,straits times singapura,3
+B-ORG,strategi,1
+B-ORG,strategic,2
+B-ORG,stream,3
+B-ORG,stream 1,1
+B-ORG,street,3
+B-ORG,studi,2
+B-ORG,studio parcast,1
+B-ORG,study agreement,1
+B-ORG,sub,2
+B-ORG,sub -,2
+B-ORG,sub holding pertamina,1
+B-ORG,sub station manager pt upc sidrap bayu energi,9
+B-ORG,subang,2
+B-ORG,subholding power & new renewable energy pertamina,2
+B-ORG,subholding power & nre,1
+B-ORG,subholding power and renewable energy,1
+B-ORG,subianto,1
+B-ORG,subprime,1
+B-ORG,subscribe,1
+B-ORG,suez,2
+B-ORG,sugar,1
+B-ORG,sui,1
+B-ORG,suiss,1
+B-ORG,suk,6
+B-ORG,suku,3
+B-ORG,sukuk tabungan,1
+B-ORG,sulawesi selatan,6
+B-ORG,sulsel,14
+B-ORG,sultra,1
+B-ORG,sum,3
+B-ORG,suma,1
+B-ORG,sumar,2
+B-ORG,sumarjono,1
+B-ORG,sumatera,9
+B-ORG,sumatera utara,1
+B-ORG,sumatra,3
+B-ORG,sumbawa,2
+B-ORG,sumber,11
+B-ORG,sumber daya,4
+B-ORG,sumber daya mineral,1
+B-ORG,sumber energi,2
+B-ORG,sumitomo,1
+B-ORG,sumitomo corporation,1
+B-ORG,sumsel,1
+B-ORG,sumsel - 8,1
+B-ORG,sun,9
+B-ORG,sunseap,2
+B-ORG,sunseap group,1
+B-ORG,suntik startup ri,1
+B-ORG,suntr,1
+B-ORG,super,2
+B-ORG,sura,3
+B-ORG,suralay,1
+B-ORG,survei,5
+B-ORG,surya,17
+B-ORG,surya dharma,1
+B-ORG,suryo,2
+B-ORG,sus,4
+B-ORG,susilo,1
+B-ORG,susilowidjojo,1
+B-ORG,sustain,1
+B-ORG,sustainable & climate business 20,1
+B-ORG,suzuki,3
+B-ORG,svb,3
+B-ORG,svb kol,1
+B-ORG,svp corporate communications & investor relations fajri,1
+B-ORG,sw,4
+B-ORG,swasta,5
+B-ORG,swastanisa,1
+B-ORG,swedia,1
+B-ORG,swf,2
+B-ORG,swiss,4
+B-ORG,swiss francs,1
+B-ORG,sy,4
+B-ORG,syah,1
+B-ORG,t,12
+B-ORG,t throw,1
+B-ORG,tabel 1,2
+B-ORG,tabu,1
+B-ORG,tahar,1
+B-ORG,tai,1
+B-ORG,tain,1
+B-ORG,taipan,2
+B-ORG,tamasy,1
+B-ORG,tambangraya,4
+B-ORG,tan,1
+B-ORG,tanjung,2
+B-ORG,tanjung enim,1
+B-ORG,tanjung enim selatan,1
+B-ORG,tantrum,1
+B-ORG,tape,2
+B-ORG,taper,1
+B-ORG,task force energy,1
+B-ORG,tata,1
+B-ORG,tatsujiro suzuki,1
+B-ORG,taylor,2
+B-ORG,tbs,19
+B-ORG,tbs energi,5
+B-ORG,tbs energi utama,1
+B-ORG,tbs energi utama tbk,2
+B-ORG,tcp,1
+B-ORG,td,1
+B-ORG,teken,2
+B-ORG,teknisi servis turbin,1
+B-ORG,telecom,2
+B-ORG,telkom,13
+B-ORG,tell,1
+B-ORG,teluk,1
+B-ORG,temasek foundation,1
+B-ORG,tempo,4
+B-ORG,tempo 5,1
+B-ORG,tenaga,19
+B-ORG,tenaga angin,9
+B-ORG,tenaga kerja asing,1
+B-ORG,tenaga listrik,2
+B-ORG,tenaga surya,2
+B-ORG,tenggara,1
+B-ORG,tentara,5
+B-ORG,terbarukan,2
+B-ORG,terminal,2
+B-ORG,terrapower llc,1
+B-ORG,tesla,4
+B-ORG,tex,1
+B-ORG,tf,3
+B-ORG,tgra,1
+B-ORG,thailand,2
+B-ORG,thal,1
+B-ORG,thamrin,1
+B-ORG,the best energy & mining companies,1
+B-ORG,the best energy and mining companies,2
+B-ORG,the best renewable company,1
+B-ORG,the best renewable energy company 2021,1
+B-ORG,the china clean energy fund,1
+B-ORG,the eco -,1
+B-ORG,the fed,22
+B-ORG,the federal reserve,3
+B-ORG,the federal reserves bank,1
+B-ORG,the fedharga timah,1
+B-ORG,the friends,1
+B-ORG,the guardian,1
+B-ORG,the reserve bank of australia,1
+B-ORG,tho,2
+B-ORG,thohir,10
+B-ORG,thomas,2
+B-ORG,thomassin,2
+B-ORG,thr,10
+B-ORG,thunberg,3
+B-ORG,tie,1
+B-ORG,tik,2
+B-ORG,tim,8
+B-ORG,tim cnbc indonesia,1
+B-ORG,tim pengembangan industri,2
+B-ORG,tim pengembangan industri berbasis logam tanah jarang,2
+B-ORG,tim pusat penelitian dan pengembangan geologi kelautan,1
+B-ORG,tim riset cnbc indonesia,1
+B-ORG,timah,30
+B-ORG,time,1
+B-ORG,times,4
+B-ORG,timnya,2
+B-ORG,timur,1
+B-ORG,tin,2
+B-ORG,tindak,1
+B-ORG,tinduk,1
+B-ORG,tinjau,1
+B-ORG,tins,8
+B-ORG,tionghoa,1
+B-ORG,tj,1
+B-ORG,tki,5
+B-ORG,tl,7
+B-ORG,tle,1
+B-ORG,tlkm,1
+B-ORG,tlr,3
+B-ORG,tni,1
+B-ORG,toba,26
+B-ORG,ton,5
+B-ORG,ton co2,2
+B-ORG,tony,5
+B-ORG,top gainers,1
+B-ORG,topsoe,1
+B-ORG,toshiba,5
+B-ORG,total eren,6
+B-ORG,total eren s . a .,2
+B-ORG,toyota,3
+B-ORG,tppas,4
+B-ORG,tpt,1
+B-ORG,trac,1
+B-ORG,tractosuntr23,1
+B-ORG,trans,1
+B-ORG,transco,1
+B-ORG,transit,1
+B-ORG,traveloka,1
+B-ORG,triliun,2
+B-ORG,trim,1
+B-ORG,trina,1
+B-ORG,trisula,1
+B-ORG,trump,16
+B-ORG,ts,17
+B-ORG,tsc,1
+B-ORG,tsun,1
+B-ORG,tsunami,2
+B-ORG,tt,1
+B-ORG,tum,2
+B-ORG,tumiyana,1
+B-ORG,tun,1
+B-ORG,tunda,1
+B-ORG,turbin,1
+B-ORG,ture,1
+B-ORG,tv,1
+B-ORG,twitter,4
+B-ORG,u,2
+B-ORG,ub,1
+B-ORG,ubs,1
+B-ORG,ubsidi,1
+B-ORG,ubun,1
+B-ORG,uc,5
+B-ORG,ucap,1
+B-ORG,ud,1
+B-ORG,udah,1
+B-ORG,ue,12
+B-ORG,ugm,4
+B-ORG,uk,2
+B-ORG,ukm,4
+B-ORG,ukr,1
+B-ORG,ukraina,2
+B-ORG,ulubelu,2
+B-ORG,um,19
+B-ORG,umar,2
+B-ORG,umicore,1
+B-ORG,umk,1
+B-ORG,umkm,1
+B-ORG,un,3
+B-ORG,undang,1
+B-ORG,understanding,1
+B-ORG,unfcc,1
+B-ORG,uni,41
+B-ORG,uni eropa,11
+B-ORG,unilever indonesia,1
+B-ORG,unit,3
+B-ORG,unit usaha mubadala,1
+B-ORG,united,5
+B-ORG,united tractors tbk,1
+B-ORG,universe,1
+B-ORG,universitas,5
+B-ORG,universitas gadjah mada,2
+B-ORG,university,3
+B-ORG,university of,1
+B-ORG,uno,1
+B-ORG,untr,1
+B-ORG,unvr,1
+B-ORG,up,3
+B-ORG,upc,2
+B-ORG,upc renewables,1
+B-ORG,upc sidrap,8
+B-ORG,upc sidrap bayu energi,8
+B-ORG,upi,1
+B-ORG,upside,3
+B-ORG,upt,1
+B-ORG,uptren,1
+B-ORG,us,17
+B-ORG,usaha,6
+B-ORG,usaputro,6
+B-ORG,usd,3
+B-ORG,usman,1
+B-ORG,utilisasi limbah,1
+B-ORG,utilities,1
+B-ORG,utilities denmark,2
+B-ORG,uu,2
+B-ORG,v,4
+B-ORG,va,4
+B-ORG,val,3
+B-ORG,valas,1
+B-ORG,valbury,1
+B-ORG,vale,1
+B-ORG,vap,2
+B-ORG,variatif,1
+B-ORG,venture,3
+B-ORG,veteran,1
+B-ORG,vi,1
+B-ORG,vice,3
+B-ORG,vice chairman indonesia gas society,1
+B-ORG,vice president corporate communication pertamina,1
+B-ORG,vice president for east asia and the pacific manuela ferro,1
+B-ORG,vice president new ventures direktorat sppu pertamina,1
+B-ORG,vice president public relations pln,1
+B-ORG,vickers sekuritas indonesia,1
+B-ORG,victoria,1
+B-ORG,viktor,1
+B-ORG,visi,1
+B-ORG,vktr,1
+B-ORG,vol,1
+B-ORG,von,1
+B-ORG,vong,1
+B-ORG,vongkusolkit,2
+B-ORG,vongkusolkitisara,1
+B-ORG,vp downstream research & technology innovation pertamina,1
+B-ORG,vr,2
+B-ORG,vv,2
+B-ORG,w,6
+B-ORG,wahyu,1
+B-ORG,wai,2
+B-ORG,wakil,5
+B-ORG,wakil direktur research center for nuclear weapons abolition,1
+B-ORG,wakil direktur utama pt tbs energi utama tbk,2
+B-ORG,waktu,2
+B-ORG,wales,2
+B-ORG,wall,16
+B-ORG,wall street,15
+B-ORG,wall street journal,1
+B-ORG,war,1
+B-ORG,warning,1
+B-ORG,warren,1
+B-ORG,warren buffett,1
+B-ORG,warsini,1
+B-ORG,wartawan,1
+B-ORG,washington,5
+B-ORG,washington post,1
+B-ORG,waswas,1
+B-ORG,wb,1
+B-ORG,wea,2
+B-ORG,wed,1
+B-ORG,weda,6
+B-ORG,well,1
+B-ORG,west,6
+B-ORG,west java investment report,1
+B-ORG,westgart,2
+B-ORG,whatsapp,1
+B-ORG,whgtp,1
+B-ORG,who,5
+B-ORG,wi,10
+B-ORG,widodo,3
+B-ORG,widodo makmur,4
+B-ORG,widodo makmur unggas,1
+B-ORG,widodo makmur unggas tbk,1
+B-ORG,widya,7
+B-ORG,widyawati,2
+B-ORG,wijaya,1
+B-ORG,wik,4
+B-ORG,wika,2
+B-ORG,wil,2
+B-ORG,wiluyo,2
+B-ORG,wina,1
+B-ORG,wind,12
+B-ORG,windu,2
+B-ORG,wir asia,1
+B-ORG,wira,1
+B-ORG,wis,2
+B-ORG,wison,1
+B-ORG,wison group,1
+B-ORG,wison offshore & marine,1
+B-ORG,wk,2
+B-ORG,wk migas,2
+B-ORG,wkp,5
+B-ORG,wkp ulubelu,2
+B-ORG,wmo,1
+B-ORG,wmp,9
+B-ORG,wmpp,8
+B-ORG,wmuu,4
+B-ORG,wnts -,1
+B-ORG,wolf,1
+B-ORG,women in nuclear,1
+B-ORG,won,1
+B-ORG,wong,1
+B-ORG,wood mackenzie,4
+B-ORG,world,5
+B-ORG,world bank,2
+B-ORG,world bank managing director for operations axel van trotsenburg,1
+B-ORG,world economic,1
+B-ORG,wow,9
+B-ORG,wow ! ri,1
+B-ORG,wskt,1
+B-ORG,wto,2
+B-ORG,wul,1
+B-ORG,wwf,2
+B-ORG,wwf indonesia,1
+B-ORG,www,1
+B-ORG,x,2
+B-ORG,xenoti,3
+B-ORG,xi,11
+B-ORG,xi jinping,1
+B-ORG,xiao,3
+B-ORG,xinhua,1
+B-ORG,xue,1
+B-ORG,xus,2
+B-ORG,y,1
+B-ORG,yani,1
+B-ORG,yap,1
+B-ORG,yas,1
+B-ORG,yayasan,2
+B-ORG,yayasan eka sejahtera,1
+B-ORG,yayasan wwf indonesia,1
+B-ORG,year,3
+B-ORG,yellen,1
+B-ORG,yellen warni,1
+B-ORG,yen,2
+B-ORG,yi,4
+B-ORG,yield,1
+B-ORG,yong,1
+B-ORG,yoon,1
+B-ORG,york,1
+B-ORG,yoshi,2
+B-ORG,youtube,1
+B-ORG,yoy,3
+B-ORG,yudo,1
+B-ORG,yuk,1
+B-ORG,yuli,1
+B-ORG,yunani,2
+B-ORG,yunnan,3
+B-ORG,zacc,1
+B-ORG,zap,10
+B-ORG,zaporizhzhia,1
+B-ORG,zay,2
+B-ORG,zel,4
+B-ORG,zero,1
+B-ORG,zhang,2
+B-ORG,zhao,1
+B-ORG,zheng,3
+B-ORG,zhi,1
+B-ORG,zhou,1
+B-ORG,zir,3
+B-ORG,zobel,1
+B-ORG,zona,8
+B-ORG,zu,1
+B-ORG,zul,3
+B-ORG,م,1
+B-ORG,ن,1
+B-PER,1885,1
+B-PER,2020,1
+B-PER,2021,1
+B-PER,2024,2
+B-PER,[pad] [pad] [pad],1
+B-PER,[pad] [pad] [pad] [pad],1
+B-PER,abah,4
+B-PER,abah hamdan,2
+B-PER,abdullah,4
+B-PER,abdullah azwar anas,1
+B-PER,abra,1
+B-PER,achmad,2
+B-PER,ad,1
+B-PER,adi,1
+B-PER,adi lumaks,1
+B-PER,agung,3
+B-PER,agus,8
+B-PER,agus puji prasetyono,2
+B-PER,agus salim pangestu,2
+B-PER,ahir,7
+B-PER,ahmad,1
+B-PER,ahmad erani yustika,8
+B-PER,ahmad rofik,1
+B-PER,ahmad zuhdi,1
+B-PER,ahok,4
+B-PER,airlangga,5
+B-PER,airlangga hartarto,2
+B-PER,aldo artoko,1
+B-PER,alex,1
+B-PER,alex dimitrief,2
+B-PER,alexander,1
+B-PER,alexander batu bara,1
+B-PER,alexander ery wibowo,3
+B-PER,alexandria,1
+B-PER,ali,1
+B-PER,alin,1
+B-PER,alin halimatus,1
+B-PER,am,2
+B-PER,amin,6
+B-PER,amir,3
+B-PER,an,1
+B-PER,ananda,2
+B-PER,andi,4
+B-PER,andi shalini,1
+B-PER,andianto hidayat,1
+B-PER,andreas,4
+B-PER,angela,1
+B-PER,angela merkel,1
+B-PER,angg,1
+B-PER,ani,1
+B-PER,anies,12
+B-PER,anies baswedan,1
+B-PER,anis,1
+B-PER,anneke wijaya,1
+B-PER,antonio,1
+B-PER,antonio guterres,2
+B-PER,antonio sieira mucientes,2
+B-PER,anwar,2
+B-PER,arcandra,1
+B-PER,arcandra tahar,7
+B-PER,arg,1
+B-PER,argo dahono,3
+B-PER,ari soemarno,1
+B-PER,arif,10
+B-PER,arif budimanta,2
+B-PER,arif gunawan,2
+B-PER,arifin,49
+B-PER,arifin tasrfi,1
+B-PER,arifin tasrif,30
+B-PER,arifin tasrif advertis,1
+B-PER,arno,7
+B-PER,arsal ismail,1
+B-PER,arthur,2
+B-PER,arya sinulingga,1
+B-PER,asius,9
+B-PER,ayu retno,1
+B-PER,baby,1
+B-PER,bagus,1
+B-PER,bahlil,2
+B-PER,bahlil lahadalia,1
+B-PER,bambang,6
+B-PER,bambang brodjonegor,1
+B-PER,bambang brodjonegoro,1
+B-PER,bara,1
+B-PER,basri,1
+B-PER,basuki tjahaja purnama,1
+B-PER,baswedan,3
+B-PER,benny,6
+B-PER,bernard looney,1
+B-PER,bhima yudhistira,1
+B-PER,bian,1
+B-PER,bid,2
+B-PER,biden,2
+B-PER,bill,2
+B-PER,bill gates,3
+B-PER,binsar pandjaitan,4
+B-PER,boris,1
+B-PER,boris johnson,3
+B-PER,boy,2
+B-PER,boy [unk] thohir,2
+B-PER,boy thohir,3
+B-PER,bp,1
+B-PER,bramudya prabowo,1
+B-PER,bri,1
+B-PER,budi,8
+B-PER,budiarti,1
+B-PER,bul,1
+B-PER,cair,1
+B-PER,caixin,1
+B-PER,chair,1
+B-PER,chandra gian asmara,1
+B-PER,choi,2
+B-PER,chris,1
+B-PER,chris za,1
+B-PER,chrisnawan anditya,4
+B-PER,christine lagarde,1
+B-PER,cooper,1
+B-PER,cor,2
+B-PER,corn,1
+B-PER,covid,1
+B-PER,cs,1
+B-PER,curt long,1
+B-PER,d,1
+B-PER,dadan,1
+B-PER,dadan kusdian,1
+B-PER,dadan kusdiana,8
+B-PER,dahlan,5
+B-PER,dahlan iskan,3
+B-PER,dan,1
+B-PER,daniel,1
+B-PER,darm,5
+B-PER,darma,2
+B-PER,darmawan,7
+B-PER,darmawan prasodjo,23
+B-PER,darmin,1
+B-PER,darmin nasution,1
+B-PER,david,11
+B-PER,david hutagalung,2
+B-PER,daya,1
+B-PER,dc,1
+B-PER,desember,1
+B-PER,destry,1
+B-PER,dha,1
+B-PER,dharma djojonegoro,2
+B-PER,dicky,1
+B-PER,dicky yordan,1
+B-PER,djaj,1
+B-PER,djauhar maulidi,1
+B-PER,djo,1
+B-PER,djoko,2
+B-PER,djoko siswanto,2
+B-PER,djonny syafruddin,1
+B-PER,doddy,1
+B-PER,doddy ariefianto,1
+B-PER,donald,10
+B-PER,donald trump,2
+B-PER,doni,1
+B-PER,dono,2
+B-PER,dra,1
+B-PER,dru,4
+B-PER,dwi suryo abdullah,1
+B-PER,dwinanda priaadi,1
+B-PER,dyah,2
+B-PER,e,2
+B-PER,e lambert grijn,1
+B-PER,eb,5
+B-PER,ed,3
+B-PER,eddy,1
+B-PER,eddy soeparno,1
+B-PER,edhy,1
+B-PER,edhy prabowo,1
+B-PER,edward,1
+B-PER,edwin,5
+B-PER,edwin syahruzad,4
+B-PER,effendi,1
+B-PER,ego,2
+B-PER,ego syahria,1
+B-PER,ego syahrial,7
+B-PER,eka,1
+B-PER,eka satria,1
+B-PER,eko,5
+B-PER,eko budi,2
+B-PER,eko budi lelono,11
+B-PER,el,1
+B-PER,el talattov,1
+B-PER,elon musk,9
+B-PER,ema,3
+B-PER,eman,1
+B-PER,emil,17
+B-PER,emil salim,1
+B-PER,eng,1
+B-PER,eren romain pierru,2
+B-PER,erick,56
+B-PER,erick pt pertamina,1
+B-PER,erick tho,1
+B-PER,erick thohir,14
+B-PER,erick tohir,2
+B-PER,ernie d . ginting,1
+B-PER,erwin surya brata,1
+B-PER,ery,1
+B-PER,ev,1
+B-PER,evy,2
+B-PER,evy haryadi,2
+B-PER,fab,1
+B-PER,fabby tumiwa,6
+B-PER,fad,1
+B-PER,fadli rahman,2
+B-PER,fah,2
+B-PER,fahmy radhi,3
+B-PER,faisal,3
+B-PER,faisal basri,1
+B-PER,fatih birol,1
+B-PER,fauzi,2
+B-PER,febry calvin tetelepta,1
+B-PER,fi,1
+B-PER,fir,4
+B-PER,firman bakri,1
+B-PER,flemming møller mortensen,1
+B-PER,florence rabier,1
+B-PER,frank,2
+B-PER,frank calabria,1
+B-PER,free,1
+B-PER,friedrich,1
+B-PER,fs,1
+B-PER,fuad,2
+B-PER,fumio kishida,1
+B-PER,fx sutijastoto,1
+B-PER,g,1
+B-PER,galang,3
+B-PER,ganja,5
+B-PER,ganjar,1
+B-PER,gar,2
+B-PER,garibaldi,1
+B-PER,garibaldi thohir,1
+B-PER,gates,7
+B-PER,gent,1
+B-PER,gerilya,1
+B-PER,gibran,1
+B-PER,gibran rakabuming,1
+B-PER,gigih,1
+B-PER,gita wirawasta,1
+B-PER,giuseppe,1
+B-PER,greta thunberg,1
+B-PER,gus,3
+B-PER,gusti,1
+B-PER,gustidha budiartie,3
+B-PER,h,1
+B-PER,h .,1
+B-PER,hadi,1
+B-PER,hai,1
+B-PER,ham,10
+B-PER,hamiruddin saguni,9
+B-PER,handriyanti,1
+B-PER,har,1
+B-PER,harahap,1
+B-PER,hard,1
+B-PER,hario,1
+B-PER,hario seto,1
+B-PER,hariyadi sukamdani,2
+B-PER,harris,3
+B-PER,harris yahya,1
+B-PER,haryadi,1
+B-PER,hatta,1
+B-PER,have,1
+B-PER,hendra,5
+B-PER,hendra soetjipto tan,4
+B-PER,hendra tan,1
+B-PER,heppy,1
+B-PER,herdy,1
+B-PER,heri yusuf,1
+B-PER,herman,2
+B-PER,heru,3
+B-PER,heru dewanto,1
+B-PER,hidayat,2
+B-PER,ho,4
+B-PER,hsi,2
+B-PER,human,1
+B-PER,human capital,1
+B-PER,hun,1
+B-PER,hy,3
+B-PER,i made suprateka,2
+B-PER,i pahala n . mansury,2
+B-PER,i puspa,1
+B-PER,i wayan koster,1
+B-PER,ida,13
+B-PER,ida fauziah,1
+B-PER,ida fauziyah,2
+B-PER,ida nuryatin finahari,5
+B-PER,idul,1
+B-PER,ign,9
+B-PER,ignasius,15
+B-PER,ignasius jonan,4
+B-PER,igor kirllov,1
+B-PER,ik,19
+B-PER,ika noviera,1
+B-PER,ikn,5
+B-PER,iman rachman,2
+B-PER,iqbal,2
+B-PER,irwandy arif,2
+B-PER,ismail,3
+B-PER,itai madamombe,1
+B-PER,iwa,3
+B-PER,iwaku,2
+B-PER,iwan,6
+B-PER,jacob rees - mogg,1
+B-PER,jacobs,1
+B-PER,jamal,2
+B-PER,jamaluddin,1
+B-PER,jason hickel,1
+B-PER,jean,1
+B-PER,jeb,1
+B-PER,jenderal tni ( purn ) prabowo subianto djojohadikusumo,1
+B-PER,jeremy,1
+B-PER,jerome,1
+B-PER,jh,9
+B-PER,jht,3
+B-PER,jk,1
+B-PER,joe bid,1
+B-PER,joe biden,10
+B-PER,joe kaeser,1
+B-PER,johnson,9
+B-PER,jok,5
+B-PER,joko,29
+B-PER,joko widodo,130
+B-PER,jokowi,387
+B-PER,jokowijokowi,1
+B-PER,jon,26
+B-PER,jonan,48
+B-PER,jorge,2
+B-PER,jorgensen,2
+B-PER,joseph,1
+B-PER,joseph roubinette biden,1
+B-PER,js,1
+B-PER,juli,1
+B-PER,juli oktarina,1
+B-PER,jusuf,1
+B-PER,jusuf kalla,2
+B-PER,juta,1
+B-PER,k,2
+B-PER,kadi,1
+B-PER,kaellenius,1
+B-PER,kaeser,3
+B-PER,kamala harris,1
+B-PER,kamil,3
+B-PER,kang,10
+B-PER,kang emil,4
+B-PER,kard,1
+B-PER,kardaya warnika,1
+B-PER,kari,1
+B-PER,karim,1
+B-PER,ke,3
+B-PER,kendal,1
+B-PER,kicauan,1
+B-PER,kk,2
+B-PER,koesmah,1
+B-PER,koizumi,1
+B-PER,kolonel,1
+B-PER,kombes polisi didik supranoto,1
+B-PER,komisaris,1
+B-PER,kong,1
+B-PER,kos,1
+B-PER,ks,2
+B-PER,kusdwiharto,4
+B-PER,la,1
+B-PER,lahadalia,1
+B-PER,lan nawir,1
+B-PER,larry,1
+B-PER,lau,1
+B-PER,lauw,1
+B-PER,lee,2
+B-PER,lee hsien loong,2
+B-PER,lei zhang,1
+B-PER,letnan,1
+B-PER,letnan jenderal,1
+B-PER,liu,1
+B-PER,loon,5
+B-PER,luh,2
+B-PER,luh nyoman puspa dewi,1
+B-PER,luhut,16
+B-PER,luhut binsar pandjaitan,6
+B-PER,luhut binsar panjaitan,7
+B-PER,luhut pandjaitan,1
+B-PER,luky alfirman,1
+B-PER,ma,3
+B-PER,ma [unk] ruf amin,1
+B-PER,made,3
+B-PER,made suprateka,1
+B-PER,maharani,2
+B-PER,manipulator,1
+B-PER,maria katarina,3
+B-PER,mario drag,1
+B-PER,marion,1
+B-PER,mark zuckerberg,3
+B-PER,masayoshi,1
+B-PER,masayoshi son,1
+B-PER,masdar,4
+B-PER,maulana yusran,1
+B-PER,may,2
+B-PER,mayjen,2
+B-PER,mayjen tni safrudin noor,1
+B-PER,mayjen tni suharyanto,1
+B-PER,mbah,2
+B-PER,mbah landep,1
+B-PER,mega,1
+B-PER,megawati,1
+B-PER,mego pinandito,2
+B-PER,mei,1
+B-PER,men,7
+B-PER,meng,1
+B-PER,mia,1
+B-PER,mia krishna anggrain,1
+B-PER,michael,2
+B-PER,michael tjoajadi,1
+B-PER,michael wong,1
+B-PER,michelin,1
+B-PER,michelle,2
+B-PER,mikhail,1
+B-PER,milenia,2
+B-PER,mira,1
+B-PER,mira sonia,1
+B-PER,mohamed jameel al ramahi,2
+B-PER,mohammad khairuddin amman razali,1
+B-PER,monica chua,1
+B-PER,moon,1
+B-PER,moon jae -,1
+B-PER,morgan stanley,3
+B-PER,morihiro hosokawa,1
+B-PER,mubadala investment company,2
+B-PER,muhamad ali,6
+B-PER,muhammad,2
+B-PER,muhammad gibran,1
+B-PER,muhammad ikhsan asaad,3
+B-PER,muhammad sabki,1
+B-PER,muhyiddin,1
+B-PER,mul,1
+B-PER,mulya,1
+B-PER,mulyani,1
+B-PER,mursi,1
+B-PER,musk,15
+B-PER,nancy pelosi,1
+B-PER,naoto kan,1
+B-PER,nasution,2
+B-PER,nathan christianto,1
+B-PER,neal stephenson,1
+B-PER,nep,1
+B-PER,ng,1
+B-PER,nick,7
+B-PER,nicke,1
+B-PER,nicke widyawati,4
+B-PER,nicolas d . kanter,1
+B-PER,nina,3
+B-PER,nio,2
+B-PER,novyan bakrie,1
+B-PER,nug,1
+B-PER,nyonya,2
+B-PER,oktober,1
+B-PER,ola kaellenius,1
+B-PER,olga kosharna,1
+B-PER,omar,4
+B-PER,ong,2
+B-PER,org,1
+B-PER,otto sumarwoto,1
+B-PER,owi,6
+B-PER,p hutajulu,1
+B-PER,pak,4
+B-PER,pak luhut,2
+B-PER,pak prabowo,1
+B-PER,pandu,2
+B-PER,pandu sjahrir,2
+B-PER,pardede,1
+B-PER,parker,2
+B-PER,paul scully,2
+B-PER,pd,1
+B-PER,pek,3
+B-PER,pelosi,1
+B-PER,perry,8
+B-PER,perry warjiyo,2
+B-PER,peter,2
+B-PER,peter parker,1
+B-PER,pg,1
+B-PER,ph,3
+B-PER,philip,1
+B-PER,philip lowe,1
+B-PER,pin,1
+B-PER,ping,1
+B-PER,ping nio,1
+B-PER,piter abdullah,3
+B-PER,pltb,1
+B-PER,prabowo,10
+B-PER,prajogo pangest,1
+B-PER,prakoso,1
+B-PER,pri,1
+B-PER,priya,1
+B-PER,prof,1
+B-PER,prof wiku adisasmito,1
+B-PER,pu,6
+B-PER,pur,1
+B-PER,putin,42
+B-PER,r,2
+B-PER,r . k . singh,1
+B-PER,r pranowo,1
+B-PER,ra,2
+B-PER,rachmat hidayat,1
+B-PER,rah,3
+B-PER,rahmad,1
+B-PER,rahmanirrahim,1
+B-PER,raja salman,1
+B-PER,ram,1
+B-PER,rashid,1
+B-PER,rasmus abi,1
+B-PER,rasmus abildgaard kristensen,1
+B-PER,rasyid,1
+B-PER,ratih amri,1
+B-PER,red,1
+B-PER,redma,1
+B-PER,redma gita wirawasta,1
+B-PER,ri,3
+B-PER,ricardo hausmann,1
+B-PER,ricardo housmann,1
+B-PER,riccardo puliti,1
+B-PER,richard,3
+B-PER,rida mulyana,1
+B-PER,riden hatam azis,1
+B-PER,ridwan,5
+B-PER,ridwan djamaluddin,6
+B-PER,ridwan kamil,11
+B-PER,rini,31
+B-PER,rini soemarno,9
+B-PER,riza antariksawan,1
+B-PER,rizky,4
+B-PER,rizky irmansyah,1
+B-PER,robert,2
+B-PER,robert habeck,2
+B-PER,robert kiyosa,1
+B-PER,roekman,1
+B-PER,rofik,1
+B-PER,rohmanirrohim,7
+B-PER,rosadi,1
+B-PER,rosatom,2
+B-PER,ross,1
+B-PER,roy,2
+B-PER,ruddin,1
+B-PER,ruf,1
+B-PER,rul,3
+B-PER,rup,2
+B-PER,rus,3
+B-PER,ry damayanti,1
+B-PER,s . soentono,1
+B-PER,saf,1
+B-PER,safe haven,1
+B-PER,said,2
+B-PER,salis s . aprilian,1
+B-PER,salman,3
+B-PER,sam,1
+B-PER,sandi,8
+B-PER,satya widya yudha,2
+B-PER,say,2
+B-PER,scott morrison,1
+B-PER,scr,1
+B-PER,seloroh,1
+B-PER,september,1
+B-PER,sergei,1
+B-PER,setiawan,2
+B-PER,seto,1
+B-PER,shen,1
+B-PER,shinta kamdani,2
+B-PER,shinzo abe,2
+B-PER,sido,1
+B-PER,silmy karim,2
+B-PER,sima,2
+B-PER,simak,3
+B-PER,singgih widagdo,1
+B-PER,sj,1
+B-PER,soekar,2
+B-PER,soekarno,1
+B-PER,soem,6
+B-PER,soemarno,6
+B-PER,soet,1
+B-PER,sofyan,24
+B-PER,sofyan basir,3
+B-PER,son sia,1
+B-PER,sos,1
+B-PER,sri,2
+B-PER,sri mulya,4
+B-PER,sri mulyani,14
+B-PER,sri mulyani indrawati,4
+B-PER,srivastava,2
+B-PER,stanley,1
+B-PER,steven,1
+B-PER,strategic,1
+B-PER,subianto,1
+B-PER,sudirman,3
+B-PER,sudirman said,1
+B-PER,sug,2
+B-PER,sugeng suparwoto,2
+B-PER,suh,4
+B-PER,sukriyanto,1
+B-PER,sumarjono,1
+B-PER,sumarjono saragi,1
+B-PER,sup,2
+B-PER,suparwoto,1
+B-PER,supran,1
+B-PER,sura,1
+B-PER,surya darma,1
+B-PER,susilo widodo,1
+B-PER,syaf,1
+B-PER,syahrul,2
+B-PER,syahrul yasin limpo,1
+B-PER,syofvi felienty,1
+B-PER,t,3
+B-PER,tatsuo,1
+B-PER,tatsuo yasunaga,1
+B-PER,taufiek bawazier,1
+B-PER,tejo purwoto,1
+B-PER,terj,1
+B-PER,tesla,1
+B-PER,there,1
+B-PER,theresa may,1
+B-PER,tho,1
+B-PER,thohir,1
+B-PER,thunberg,1
+B-PER,tjahjo,1
+B-PER,tjahjo kumolo,1
+B-PER,tk,1
+B-PER,tomiichi murayama,1
+B-PER,tony,4
+B-PER,tony wenas,2
+B-PER,toto nugroho,2
+B-PER,tri murni,1
+B-PER,trump,23
+B-PER,ts,6
+B-PER,tumiy,2
+B-PER,tumiyana,9
+B-PER,umar baswedan,3
+B-PER,untung,1
+B-PER,urus,3
+B-PER,viktor orban,1
+B-PER,viviana,2
+B-PER,vladimir,3
+B-PER,vladimir putin,6
+B-PER,volodymyr zelensky,1
+B-PER,wahyu daniel,1
+B-PER,want,1
+B-PER,waru,1
+B-PER,wenas,2
+B-PER,wib,1
+B-PER,widodo,47
+B-PER,widodo makmur,4
+B-PER,widodo makmur perkasa,9
+B-PER,widodo makmur perkasa tumiyana,2
+B-PER,widyawati,1
+B-PER,wiku,1
+B-PER,wiku adisasmito,2
+B-PER,wiluyo,4
+B-PER,wiluyo kusdwihart,4
+B-PER,winardono,1
+B-PER,wis,1
+B-PER,wulansari,1
+B-PER,xi,6
+B-PER,xi jinping,4
+B-PER,y,1
+B-PER,yahya,1
+B-PER,yes,1
+B-PER,yoko takagi,1
+B-PER,yos,1
+B-PER,yose,1
+B-PER,yose rizal,1
+B-PER,yose rizal damuri,1
+B-PER,yovie priadi,1
+B-PER,yudo,1
+B-PER,yukio hatoyama,1
+B-PER,yusuf,2
+B-PER,z,1
+B-PER,zain,1
+B-PER,zan magrib,1
+B-PER,zelensky,1
+B-PER,zola,1
+B-PER,zul,1
+B-PER,zulfikar mangga,1
+B-PER,zulkifli,8
+B-PER,zulkifli zaini,5
