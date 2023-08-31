@@ -365,7 +365,4 @@ tribun_pltb = px.histogram(tribun_pltb_merged, x='Year', nbins=int(tribun_pltb_e
 tribun_pltb.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(tribun_pltb)
 
-st.markdown("This dashboard is designed and developed by taufik.impact@gmail.com for Market, Society, and Policy under DTU Wind & Energy Systems")
-
-
-
+st.markdown("This dashboard is designed and developed by **taufik.impact@gmail.com** for Market, Society, and Policy Department under DTU Wind & Energy Systems")
