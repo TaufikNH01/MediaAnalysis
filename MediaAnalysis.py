@@ -191,6 +191,11 @@ cnbc_aggregated_counts = load_data("aggregated_counts_cnbcplts.csv")
 cnbc_people_counts = cnbc_aggregated_counts[cnbc_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
 cnbc_org_counts = cnbc_aggregated_counts[cnbc_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
+tribun_aggregated_counts = load_data("aggregated_counts_tribunplts.csv")
+tribun_people_counts = tribun_aggregated_counts[tribun_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
+tribun_org_counts = tribun_aggregated_counts[tribun_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
+
+
 # Function to generate and display word cloud
 def generate_wordcloud(data_counts):
     wordcloud = WordCloud(width=800, height=400, background_color ='white').generate_from_frequencies(data_counts)
@@ -302,6 +307,22 @@ tribun_plts = px.histogram(tribun_plts_merged, x='Year', nbins=int(tribun_end_ye
 tribun_plts.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(tribun_plts)
 st.markdown("**Notes:** Although 2017 is the year with the most articles published using the keywords, the year 2021 and 2022 are also significant. The trend is also shared by Detik and CNBC Indonesia.)")
+
+# Sidebar for Word Cloud for Tribun
+st.sidebar.subheader("Tribun PLTS: Word Cloud")
+tribun_entity_type = st.sidebar.selectbox("Choose Entity Type for Tribun", ['Individuals', 'Organizations'], key='300')  # key is changed to avoid conflicts
+tribun_top_n = st.sidebar.slider('Choose top N entities for Tribun word cloud', 10, 100, 50, key='slider3')  # key is changed to avoid conflicts
+
+# Word Cloud Visualization for Tribun
+if tribun_entity_type == 'Individuals':
+    tribun_freq_data = tribun_people_counts
+else:
+    tribun_freq_data = tribun_org_counts
+
+sorted_tribun_freq_data = dict(sorted(tribun_freq_data.items(), key=lambda item: item[1], reverse=True)[:tribun_top_n])
+st.subheader(f"Tribun PLTS - Word Cloud: Top {tribun_top_n} {tribun_entity_type}")
+generate_wordcloud(sorted_tribun_freq_data)
+st.markdown("Here, stakeholders identified from the Tribun corpus on PLTS are presented. You can choose the number of entities you wish to observe, ranging from 10 to 100. Use the sidebar for customization options.")
 
 
 # === COMPONENT 3 ===
