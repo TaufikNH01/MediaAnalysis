@@ -187,6 +187,10 @@ aggregated_counts = load_data("aggregated_counts.csv")
 people_counts = aggregated_counts[aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
 org_counts = aggregated_counts[aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
+cnbc_aggregated_counts = load_data("/Users/pikpes/Downloads/aggregated_counts_cnbcplts.csv")
+cnbc_people_counts = cnbc_aggregated_counts[cnbc_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
+cnbc_org_counts = cnbc_aggregated_counts[cnbc_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
+
 # Function to generate and display word cloud
 def generate_wordcloud(data_counts):
     wordcloud = WordCloud(width=800, height=400, background_color ='white').generate_from_frequencies(data_counts)
@@ -225,7 +229,7 @@ st.plotly_chart(detik_plts_seg)
 st.markdown("**Note:** Segments might be associated with the departments or focuses of the media outlets. In this case, coverage related to PLTS on Detik.com is predominantly reported by the 'Finance' department, as detikFinance comprises a significant proportion of the overall coverage.")
 
 # Sidebar for Word Cloud
-st.sidebar.subheader("Word Cloud Options")
+st.sidebar.subheader("Detik PLTS: Word Cloud")
 entity_type = st.sidebar.selectbox("Choose Entity Type", ['Individuals', 'Organizations'], key='100')
 top_n = st.sidebar.slider('Choose top N entities for word cloud', 10, 100, 50, key='slider1')
 
@@ -236,7 +240,7 @@ else:
     freq_data = org_counts
 
 sorted_freq_data = dict(sorted(freq_data.items(), key=lambda item: item[1], reverse=True)[:top_n])
-st.subheader(f"Word Cloud: Top {top_n} {entity_type}")
+st.subheader(f"Detik PLTS - Word Cloud: Top {top_n} {entity_type}")
 generate_wordcloud(sorted_freq_data)
 st.markdown("Here, stakeholders exclusively identified from the Detik corpus on PLTS are presented. You can choose the number of individuals you wish to observe, ranging from 10 to 100. Hover over the sidebar for customization options")
 
@@ -264,6 +268,23 @@ cnbc_plts_seg = px.histogram(cnbc_plts_merged, x='Year', color='Segment', nbins=
 cnbc_plts_seg.update_layout(bargap=0.1)
 st.plotly_chart(cnbc_plts_seg)
 st.markdown("**Notes:** As you can see, the News Segment reported the most and Market Segment has also contributed to the overall news production.")
+
+# Sidebar for Word Cloud for CNBC
+st.sidebar.subheader("CNBC PLTS: Word Cloud")
+cnbc_entity_type = st.sidebar.selectbox("Choose Entity Type for CNBC", ['Individuals', 'Organizations'], key='200')  # key is changed to avoid conflicts
+cnbc_top_n = st.sidebar.slider('Choose top N entities for CNBC word cloud', 10, 100, 50, key='slider2')  # key is changed to avoid conflicts
+
+# Word Cloud Visualization for CNBC
+if cnbc_entity_type == 'Individuals':
+    cnbc_freq_data = cnbc_people_counts
+else:
+    cnbc_freq_data = cnbc_org_counts
+
+sorted_cnbc_freq_data = dict(sorted(cnbc_freq_data.items(), key=lambda item: item[1], reverse=True)[:cnbc_top_n])
+st.subheader(f"CNBC PLTS - Word Cloud: Top {cnbc_top_n} {cnbc_entity_type}")
+generate_wordcloud(sorted_cnbc_freq_data)
+st.markdown("Here, stakeholders exclusively identified from the CNBC corpus on PLTS are presented. You can choose the number of entities you wish to observe, ranging from 10 to 100. Use the sidebar for customization options.")
+
 
 # Sidebar Feature for Tribun Analysis
 st.sidebar.subheader("Tribun Analysis - Date Range")
