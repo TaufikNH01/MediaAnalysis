@@ -276,7 +276,7 @@ st.markdown("**Notes:** As you can see, the News Segment reported the most and M
 
 # Sidebar for Word Cloud for CNBC
 st.sidebar.subheader("CNBC PLTS: Word Cloud")
-cnbc_entity_type = st.sidebar.selectbox("Choose Entity Type for CNBC", ['Individuals', 'Organizations'], key='200')  # key is changed to avoid conflicts
+cnbc_entity_type = st.sidebar.selectbox("Choose Entity Type for CNBC", ['Individuals', 'Organizations'], key='CNBC PLTS WC')  # key is changed to avoid conflicts
 cnbc_top_n = st.sidebar.slider('Choose top N entities for CNBC word cloud', 10, 100, 50, key='slider2')  # key is changed to avoid conflicts
 
 # Word Cloud Visualization for CNBC
@@ -310,7 +310,7 @@ st.markdown("**Notes:** Although 2017 is the year with the most articles publish
 
 # Sidebar for Word Cloud for Tribun
 st.sidebar.subheader("Tribun PLTS: Word Cloud")
-tribun_entity_type = st.sidebar.selectbox("Choose Entity Type for Tribun", ['Individuals', 'Organizations'], key='300')  # key is changed to avoid conflicts
+tribun_entity_type = st.sidebar.selectbox("Choose Entity Type for Tribun", ['Individuals', 'Organizations'], key='Tribun PLTS WC')  # key is changed to avoid conflicts
 tribun_top_n = st.sidebar.slider('Choose top N entities for Tribun word cloud', 10, 100, 50, key='slider3')  # key is changed to avoid conflicts
 
 # Word Cloud Visualization for Tribun
@@ -374,8 +374,8 @@ st.plotly_chart(detik_pltb_seg)
 
 # Sidebar for Word Cloud for Detik
 st.sidebar.subheader("Detik PLTB: Word Cloud")
-detik_entity_type = st.sidebar.selectbox("Choose Entity Type for Detik", ['Individuals', 'Organizations'], key='100')
-detik_top_n = st.sidebar.slider('Choose top N entities for Detik word cloud', 10, 100, 50, key='slider1')
+detik_entity_type = st.sidebar.selectbox("Choose Entity Type for Detik", ['Individuals', 'Organizations'], key='Detik PLTB WC')
+detik_top_n = st.sidebar.slider('Choose top N entities for Detik word cloud', 10, 100, 50, key='slider Detik PLTB WC')
 
 # Word Cloud Visualization for Detik
 if detik_entity_type == 'Individuals':
