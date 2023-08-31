@@ -103,7 +103,7 @@ st.markdown("In the following visualizations, you will observe various actors an
 
 # Sidebar for Word Cloud
 st.sidebar.subheader("PLTS: Word Cloud - Overall Corpus")
-entity_type = st.sidebar.selectbox("Choose Entity Type", ['Individuals', 'Organizations'])
+entity_type = st.sidebar.selectbox("Choose Entity Type", ['Individuals', 'Organizations'], key="PLTS Word Cloud")
 top_n = st.sidebar.slider('Choose top N entities for word cloud', 10, 100, 50)
 
 # Add a checkbox to the sidebar for showing raw data
