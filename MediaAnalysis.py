@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 # === UTILITIES ===
 
-@st.cache_resource
+@st.cache
 def load_data(path: str) -> pd.DataFrame:
     return pd.read_csv(path)
 
@@ -179,7 +179,7 @@ st.sidebar.title("PLTS Analysis Sidebar")
 st.subheader("PLTS Coverage")
 st.markdown("In this segment, we will delve into how frequently major Indonesian newspapers cover the topic of PLTS, the segments under which they fall, the key actors frequently referred to, and the primary discussions related to PLTS Cirata. The sequence of media coverage will be as follows: Detik, CNBC, and Tribun. The name of the media source will be prominently displayed on top of the visualizations, along with its content. In some instances, the analysis is still ongoing (such as key ideas), as I require more time to produce a refined result and extrapolate the outcome to the entire dataset.")
 
-@st.cache_resource
+@st.cache
 def load_data(filepath):
     return pd.read_csv(filepath)
 
