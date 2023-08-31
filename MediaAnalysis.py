@@ -369,12 +369,8 @@ tribun_pltb.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of
 st.plotly_chart(tribun_pltb)
 st.markdown("**Note**: As evident, the year 2018 yielded the highest number of articles on wind energy. This could be attributed to the launch of PLTB Sidrap coinciding with that year.")
 
+# Add a separation between the previous content and the attribution
+st.write("----")
 
-
-
-
-
-
-
-
-st.markdown("This dashboard is designed and developed by **taufik.impact@gmail.com** for Market, Society, and Policy Department under DTU Wind & Energy Systems")
+# Attribution
+st.markdown("This dashboard is designed and developed by **taufik.impact@gmail.com** for the Market, Society, and Policy Department under DTU Wind & Energy Systems.")
