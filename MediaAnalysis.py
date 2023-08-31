@@ -33,7 +33,7 @@ st.sidebar.markdown("Use the options below to customize the visualizations.")
 # === COMPONENT 1 ===
 
 ## 1.a General distribution of articles
-st.header("PLTS & PLTB Coverage in Indonesia")
+st.header("**PLTS & PLTB Coverage in Indonesia**")
 st.markdown("In this dashboard, I am striving to comprehend how news media sites cover the development of Solar Power Plants (PLTS) and Wind Power Plants (PLTB) in Indonesia. Utilizing data mining and text analysis methods, I deployed a bot to gather news articles from three distinct news outlets, selected based on the number of users accessing the media according to similarweb's statistics. The retrieved news articles from their search pages align with the pre-identified keywords. These articles are then cleaned and analyzed to examine their distribution over time, the segments that report the issue the most, key actors, and the central ideas surrounding the issue")
 
 st.subheader("The Overall Corpus")
