@@ -351,6 +351,9 @@ cnbc_pltb_aggregated_counts = load_data("aggregated_counts_cnbcangin.csv")
 cnbc_pltb_people_counts = cnbc_pltb_aggregated_counts[cnbc_pltb_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
 cnbc_pltb_org_counts = cnbc_pltb_aggregated_counts[cnbc_pltb_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
+tribun_pltb_aggregated_counts = load_data("aggregated_counts_tribunpltb.csv")
+tribun_pltb_people_counts = tribun_pltb_aggregated_counts[tribun_pltb_aggregated_counts['NER_Label'] == 'B-PER'].set_index("Entity")["Counts"].to_dict()
+tribun_pltb_org_counts = tribun_pltb_aggregated_counts[tribun_pltb_aggregated_counts['NER_Label'] == 'B-ORG'].set_index("Entity")["Counts"].to_dict()
 
 # Sidebar Feature for Detik Analysis
 st.sidebar.subheader("Detik PLTB Analysis - Date Range")
@@ -453,6 +456,23 @@ tribun_pltb = px.histogram(tribun_pltb_merged, x='Year', nbins=int(tribun_pltb_e
 tribun_pltb.update_layout(bargap=0.1, xaxis_title="Year", yaxis_title="Number of Articles")
 st.plotly_chart(tribun_pltb)
 st.markdown("**Note**: As evident, the year 2018 yielded the highest number of articles on wind energy. This could be attributed to the launch of PLTB Sidrap coinciding with that year.")
+
+# Sidebar for Word Cloud for Tribun
+st.sidebar.subheader("Tribun PLTB: Word Cloud")
+tribun_entity_type = st.sidebar.selectbox("Choose Entity Type for Tribun", ['Individuals', 'Organizations'], key='Tribun PLTB WC')
+tribun_top_n = st.sidebar.slider('Choose top N entities for Tribun word cloud', 10, 100, 50, key='slider Tribun PLTB WC')
+
+# Word Cloud Visualization for Tribun
+if tribun_entity_type == 'Individuals':
+    tribun_freq_data = tribun_pltb_people_counts
+else:
+    tribun_freq_data = tribun_pltb_org_counts
+
+sorted_tribun_freq_data = dict(sorted(tribun_freq_data.items(), key=lambda item: item[1], reverse=True)[:tribun_top_n])
+st.subheader(f"Tribun PLTB - Word Cloud: Top {tribun_top_n} {tribun_entity_type}")
+generate_wordcloud(sorted_tribun_freq_data)
+st.markdown("Here, stakeholders identified from the Tribun corpus on PLTB are presented. You can choose the number of entities you wish to observe, ranging from 10 to 100. Use the sidebar for customization options.")
+
 
 # Add a separation between the previous content and the attribution
 st.write("----")
