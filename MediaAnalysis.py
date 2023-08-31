@@ -299,9 +299,9 @@ st.sidebar.title("PLTB Analysis Sidebar")
 st.subheader("PLTB Coverage")
 st.markdown("In this section, we will delve deeper into the frequency with which major Indonesian newspapers cover the topic, what segments they fall under, and the main discussions they entail.")
 
-# @st.cache_data
-# def load_data(filepath):
-#     return pd.read_csv(filepath)
+@st.cache
+def load_data(filepath):
+    return pd.read_csv(filepath)
 
 # Sidebar Feature for Detik Analysis
 st.sidebar.subheader("Detik PLTB Analysis - Date Range")
