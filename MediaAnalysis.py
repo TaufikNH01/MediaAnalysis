@@ -225,7 +225,7 @@ st.plotly_chart(detik_plts_seg)
 st.markdown("**Note:** Segments might be associated with the departments or focuses of the media outlets. In this case, coverage related to PLTS on Detik.com is predominantly reported by the 'Finance' department, as detikFinance comprises a significant proportion of the overall coverage.")
 
 # Sidebar for Word Cloud
-st.sidebar.subheader("Word Cloud Options", key=20)
+st.sidebar.subheader("Word Cloud Options")
 entity_type = st.sidebar.selectbox("Choose Entity Type", ['Individuals', 'Organizations'], key=100)
 top_n = st.sidebar.slider('Choose top N entities for word cloud', 10, 100, 50, key='slider1')
 
